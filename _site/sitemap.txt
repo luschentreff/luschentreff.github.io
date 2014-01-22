@@ -1,0 +1,15 @@
+
+http://username.github.io/about.html
+http://username.github.io/archive.html
+http://username.github.io/atom.xml
+http://username.github.io/categories.html
+http://username.github.io/doppelkopf.html
+http://username.github.io/impressum.html
+http://username.github.io/index.html
+http://username.github.io/pages.html
+http://username.github.io/rss.xml
+http://username.github.io/schafkopf.html
+http://username.github.io/schnapsen.html
+http://username.github.io/sitemap.txt
+http://username.github.io/skat.html
+http://username.github.io/tags.html
