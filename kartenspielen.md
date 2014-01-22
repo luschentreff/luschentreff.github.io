@@ -1,22 +1,23 @@
 ---
 layout: page
-title: Schafkopf
-tagline: Schafkopfer hierher
+title: Kartenspielen
+tagline: Hier sind alle Kartenspiele vereint
 group: navigation
+weight: 1
 ---
 {% include JB/setup %}
 
-<h2>Der Schafkopf-Bereich</h2>
+<h2>Hier sind alle Kartenspiele vereint</h2>
 
 <ul class="tag_box inline">
-  {% assign pages_list = site.categories['schafkopf'] %}
+  {% assign pages_list = site.categories['kartenspielen'] %}
   {% include JB/pages_list %}
 </ul>
 
 Alle Beiträge zum Thema Schafkopf:
 
 <ul class="posts">
-  {% for post in site.categories['schafkopf'] %}
+  {% for post in site.categories['kartenspielen'] %}
     <h2>{{ post.title }}</h2>
     {{ post.content }}
     <p><a href="{{ BASE_PATH }}{{ post.url }}">...weiter lesen</a></p>

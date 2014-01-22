@@ -2,7 +2,7 @@
 layout: post
 title: "Liebe Kartenspiel-Freunde,"
 description: ""
-category: News
+categories: kartenspielen
 tags: [news, schafkopf, doppelkopf, skat]
 ---
 {% include JB/setup %}
