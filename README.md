@@ -1,40 +1,95 @@
-# Jekyll-Bootstrap
+# Kartenspiel-Seite für die Spiele Schafkopf, Doppelkopf, Skat und (Bauern-)Schnapsen
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+# Inhalt
+Die Seite <http://sauspiel.github.io/luschentreff.de/> ist eine Gemeinschaftsseite der Online-Spielplattformen Sauspiel, Skatstube, Fuchstreff und Bummerl und will die einzelnen Spiele vorstellen, Gemeinsamkeiten zeigen und das Erlernen der Spiele - insbesondere untereinander - erleichtern. 
 
-## Usage
+# Umsetzung
+Die Seite ist ersteinmal ein Blog, der sich Schafkopf, Skat, Doppelkopf und Schnapsen und allem was zum Kartenspielen dazugehört widmet. Dazu gibt es einen chronologischen Blog, der die Unterteilung in die Kategorien Schafkopf, Skat, Doppelkopf, Schnapsen und (alle) Kartenspiele (*) und eine Tag-Cloud hat. Später wären weitere Kategorien wie (Turnier-)Kalender, Registrierformular, o.ä denkbar.
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+# Technische Umsetzung
 
-## Version
+## Jekyll und Github-Pages
+Die Seite wurde mit [Jekyll](http://jekyllrb.com/) erstellt und wird auf [Github-Pages](http://pages.github.com/) gehostet.
 
-0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
+### Jekyll-Bootstrap
+[Jekyll-Bootstrap](http://jekyllbootstrap.com) wurde eingesetzt um schnell ein gut vorformatierte Struktur zu erhalten, die leicht angepasst werden kann und sinnvolle rake-tasks besitzt.
 
-**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
-However, the actual API has not changed at all.
-You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
+# Entwicklung
 
-## Contributing
+## Vorbereitung
 
+### Repository "luschentreff.de" clonen
 
-To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-This is very important as it allows me to accept your pull request without having to publish a public version release.
+Den Ordner 'sauspiel' erstellen und das Repository luschentreff.de clonen
 
-Small, atomic Features, bugs, etc.
-Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.
-Please rebase as often as possible when working.
-Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
+    mkdir ~/sauspiel
+    cd ~/sauspiel
+    git@github.com:sauspiel/luschentreff.de.git
+    
+### Jekyll installieren
 
-For Big Features or major API extensions/edits:
-This is the one case where I'll accept pull-requests based off the master branch.
-This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-Translation : it might take a bit longer so please be patient! (but sincerely thank you).
+    gem install jekyll
+        
+### NGINX konfigurieren
+ * Datei etc/host öffnen:
 
-**Jekyll-Bootstrap Documentation Website.**
+    	sudo nano /private/etc/hosts
+    
+* folgende Zeile hinzufügen:
 
-The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
+		127.0.0.1       luschentreff.dev
+		
+* nginx.conf öffnen:
 
+		open /usr/local/etc/nginx/nginx.conf 
+		
+* Folgendes hinzugügen, nicht vergessen <USERNAME> durch eigenen Username auszutauschen
 
-## License
+	  server {
+	  
+      	listen 80;
+      	server_name luschentreff.dev;
+      	root /Users/<USERNAME>/sauspiel/luschentreff.de;
 
-[MIT](http://opensource.org/licenses/MIT)
+      	location ~ .nginx.*.conf$ {
+        	deny all;
+      	}
+
+      	include /Users/<USERNAME>/sauspiel/luschentreff.de/nginx_local.conf;
+      	
+  	  }
+  	  
+## Benutzung  	  
+  	  
+### Jekyll starten
+ 
+ 	jekyll serve --watch
+ 	
+	luschentreff.dev im Browser aufrufen
+	
+### Neuen Post anlegen
+
+	rake post title="Hello World"
+	
+### Neue Seite anlegen
+
+	rake page name="Hello World"	
+	
+### Kategorien und Tags
+Kategorien und Tags werden im Header des Posts angelegt. Bsp.:
+
+	---
+	layout: post
+	title: "Schafkopf für Skatspieler"
+	description: "Eine Einführung zum Schafkopfspielen für Skatspieler"
+	category: skat
+	tags: [schafkopf, skat, regeln]
+	---
+Meta-Title und Meta-Description können auch angegeben werden.
+
+### Seite Deoployen
+
+Der Branch "gh-pages" wird zum deployen verwendet:
+
+	git push origin gh-pages
+
