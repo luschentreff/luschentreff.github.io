@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-tagline: Eine Seite von Luschen für Luschen - in diesem Blog erfahrt ihr alles was man über Kartenspielen wissen kann.
+tagline: In diesem Blog erfahrt ihr alles was man über Kartenspielen wissen muss, kann und sollte.
 group: navigation
 ---
 {% include JB/setup %}
@@ -11,6 +11,8 @@ group: navigation
   <a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }}</a>
 </li>
 {% endfor %}
+
+{{ site.tagline }}
 
 <ul class="posts">
   {% for post in site.posts limit:5 %}

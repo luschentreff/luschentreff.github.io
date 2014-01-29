@@ -9,7 +9,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Luschentreff
-tagline: Von Luschen für Luschen
+tagline:
 author :
   name : Lusche
   email : blah@email.test
