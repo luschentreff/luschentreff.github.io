@@ -1,0 +1,178 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Skat für Doppelkopfspieler</title>
+    <meta name="description" content="">
+    <meta name="author" content="Luschentreff">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="/assets/themes/twitter/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/assets/themes/custom/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+
+    <!-- Le fav and touch icons -->
+  <!-- Update these with your own images
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  -->
+
+    <!-- atom & rss feed -->
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+
+  </head>
+
+  <body>
+    <div class="navbar navbar-default" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">Luschentreff</a>
+      </div>
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <li><a href="/">Blog</a></li>
+          <li><a href="/kartenspielen.html">Alle Spiele</a></li>
+          <li><a href="/schafkopf.html">Schafkopf</a></li>
+          <li><a href="/doppelkopf.html">Doppelkopf</a></li>
+          <li><a href="/skat.html">Skat</a></li>
+          <li><a href="/schnapsen.html">Schnapsen</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container">
+      <h2>Eine Seite von Luschen für Luschen</h2>
+      <div class="content">
+        
+<div class="row post-full">
+  <div class="col-md-12">
+    <div class="date">
+      <span>29 January 2014</span>
+    </div>
+    <div class="content">
+      <p>Erstmal die gute Nachricht: Halb so viele Karten. Das bedeutet, selbst als Kartenhalter keine Probleme. Und nur halb so schwer mitzuzählen und sich zu merken, welche Karten noch im Spiel sind. Dann werden ständig Solos gespielt, aber nur gegen zwei statt gegen drei Spieler. Auch das ist nicht schwer. Dann gibt es noch den Skat, die zwei Karten die beim Verteilen von 32 Karten auf 3 Spieler übrig bleiben. Den bekommt der der alleine spielt und kann die zwei Karten gegen beliebige zwei andere Karten austauschen. Auch nicht so schwer.</p>
+
+<p>Das einzig schwere am Skat ist <strong>DAS REIZEN</strong>. Das ist eben nicht so einfach. Aber fangen wir einfach an.</p>
+
+<h2 id="spielarten">Spielarten</h2>
+
+<p><strong>Vorweg</strong>: Die Kartensortierung: Nur die Buben und die angesagte Farbe sind Trumpf, also nicht die Damen und nicht die Dullen. Dann kommt das Ass, 10, König, Dame, Luschen.</p>
+
+<ul>
+<li><strong>Farbspiel</strong> ist dem Farbsolo verwandt. Der Gewinner <strong>DES REIZENS</strong> darf sich aussuchen, welche Farbe außer den 4 (4! nicht 8) Buben (keine Damen, keine Dullen, o.ä.) noch Trumpf ist.</li>
+
+<li><strong>Grand</strong> ist das Bubensolo (4! nicht 8 Buben) sonst keine weiteren Trümpfe</li>
+
+<li><strong>Nullspiel</strong>: Keine Trümpfe, die <strong>10 wird eingereiht</strong>, das bedeutet dass es eine neue Sortierung gibt: Ass, König, Dame, Bube, 10, 9, 8, 7. Der der das Nullspiel ansagt darf KEINEN Stich gewinnen.</li>
+</ul>
+
+<h2 id="spielfindung_aka_das_reizen">Spielfindung aka DAS REIZEN</h2>
+
+<p>Erstmal hilft es sich DAS REIZEN als Versteigerung vorzustellen. Es ist eine Auktion darum, wer allein spielen und die Spielart aussuchen darf.</p>
+
+<p>Das läuft so ab, dass immer zwei sich solange Reizwerte (Gebote) nennen, bis einer nicht mehr mithalten kann. Dann wird der Dritte gefragt.</p>
+
+<p>Der Reizwert hängt von den Karten die man hat bzw. davon ab welches Spiel man ansagen und spielen möchte.</p>
+
+<h3 id="reizwert_errechnen">Reizwert errechnen</h3>
+
+<p>Die Rechnung für den Reizwert hat mehrere Faktoren:</p>
+
+<p><strong>1. Wie viele Buben habe ich bzw. habe ich nicht?</strong> Noch genauer: Wie viele Buben habe ich fortlaufend bzw. wie viele Buben fehlen mir fortlaufend (fortlaufend heißt hier vom Kreuz-Buben bis zum Karo-Buben ohne Unterbrechung)?</p>
+
+<p>Bsp ”<strong>Mit</strong>” (wieviele Buben fortlaufend mit dem Kreuzbuben):</p>
+
+<pre><code>* habe ich alle 4 Buben (Kreuz, Pik, Herz, Karo): Mit 4
+* habe ich die zwei stärksten Buben (Kreuz, Pik): Mit 2 
+* die zwei stärksten und den Karo Buben (Kreuz, Pik, Karo): Mit 2 
+  (da nicht fortlaufend!) </code></pre>
+
+<p>Bsp ”<strong>Ohne</strong>” (wieviele Buben fehlen forlaufend bis zum Kreuzbuben):</p>
+
+<pre><code>* habe ich keinen Buben ( - ): Ohne 4
+* habe ich nur den Karo Buben: Ohne 3
+* habe ich nur den Herz Buben: Ohne 2
+* den Herz- und den Karo-Buben: Ohne 2</code></pre>
+
+<p><strong>2. Wer ein Spiel spielt wird belohnt! Also immer “+1”</strong> (zu dem Wert von oben addiert)</p>
+
+<p><strong>3. Die Werte von oben 1. und 2. werden addiert</strong> (z.B. Mit 2 + 1 ) <strong>und ergeben einen Faktor (das zum “mal nehmen”)</strong>. Es können unter Umständen noch weitere Punkte dazu kommen die dann auch noch in den Faktor reingerechnet werden, aber dazu später.</p>
+
+<p><strong>4. Das angesagte Spiel, bzw. die Spielfarbe ergibt den zweiten Faktor</strong>. Die Spielarten und Farben haben einfach Werte zugeordnet bekommen. Das muss auswendig gelernt werden:</p>
+
+<pre><code>Farbspiel Karo: 9, Herz: 10, Pik: 11, Kreuz: 12
+Nullspiel: 23
+Grand: 24</code></pre>
+
+<p>Also immer schön die Buben zählen und mit dem Spiel multiplizieren, dann hat man schon den Reizwert.</p>
+
+<pre><code>Ohne 3  +1 (im Skatjargon: Spiel 4) mal Farbspiel Pik: 11 
+macht den Reizwert 44</code></pre>
+
+<p><strong>5. Hand, Schneider/Schwarz angesagt, Schneider/Schwarz gewonnen</strong></p>
+
+<p><strong>6. Überreizt</strong></p>
+    </div>
+
+  
+
+  
+
+    <hr>
+    <ul class="pager">
+    
+      <li class="previous"><a href="/doppelkopf-fr-skatspieler" title="Doppelkopf für Skatspieler">&larr; Voriger</a></li>
+    
+      <li><a href="/archive.html">Archiv</a></li>
+    
+      <li class="next disabled"><a>Nächster &rarr;</a>
+    
+    </ul>
+    <hr>
+    
+  </div>
+</div>
+
+
+      </div>
+      <hr>
+      <footer>
+        <div class="nav">
+          <a href="http://www.sauspiel.de">Schafkopf bei Sauspiel</a>
+          |
+          <a href="http://www.skatstube.de">Skat in der Skatstube</a>
+          |
+          <a href="http://www.fuchstreff.de">Doppelkopf im Fuchstreff</a>
+          |
+          <a href="http://www.bummerl.at">Schnapsen bei Bummerl</a>
+          </br>
+          <p>&copy; 2014 Luschentreff</p>
+          <a href="/impressum" rel="nofollow">Impressum</a>
+          |
+          <a href="/about" rel="nofollow">Über</a>
+        </div>
+        </p>
+      </footer>
+
+    </div>
+
+    
+  </body>
+</html>
+
