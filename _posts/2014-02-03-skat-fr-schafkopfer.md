@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Skat für Schafkopfer"
-description: ""
-category: 
-tags: []
+description: "Wer schon Schafkopf spielen kann, kann die Skatregeln sauschnell lernen"
+category: schafkopf
+tags: [schafkopf, skat, regelkunde]
 ---
 {% include JB/setup %}
 

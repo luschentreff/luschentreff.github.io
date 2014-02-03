@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Skat für Doppelkopfspieler"
-description: ""
-category: 
-tags: []
+description: "Hier finden Doppelkopfspieler eine Anleitung zum Skatspielen."
+category: doppelkopf
+tags: [doppelkopf, skat, regelkunde]
 ---
 {% include JB/setup %}
 

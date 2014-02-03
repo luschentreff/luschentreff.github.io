@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Doppelkopf für Schafkopfer"
-description: ""
-category: 
-tags: []
+description: "Hier lernt der Schafkopfer Doppelkopf. Anhand der Unterschiede und Gemeinsamkeiten ein Kinderspiel."
+category: schafkopf
+tags: [schafkopf, doppelkopf, regelkunde]
 ---
 {% include JB/setup %}
 

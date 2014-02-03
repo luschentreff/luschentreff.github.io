@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Schafkopf für Skatspieler"
-description: ""
+description: "Skat und Schafkopf haben viele Gemeinsamkeiten. Deswegem gibt es hier eine Anleitung zum Schafkopfspielen, die auf Skatspieler zugeschnitten ist.
 category: skat
-tags: [schafkopf, skat]
+tags: [schafkopf, skat, regelkunde]
 ---
 {% include JB/setup %}
 
