@@ -62,7 +62,7 @@ Die Rechnung für den Reizwert hat mehrere Faktoren:
     Grand: 24
     
 
-Also immer schön die Buben zählen und mit dem Spiel multiplizieren, dann hat man schon den Reizwert.
+Also immer schön die Buben zählen, dann plus 1 und das ganze dann mit dem Spiel multiplizieren.
 
     Ohne 3  +1 (im Skatjargon: Spiel 4) mal Farbspiel Pik: 11 
     macht den Reizwert 44
