@@ -1,1 +1,107 @@
+@import url("../fonts/fonts.css");
 
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font: 16px/1.5em Andada, Georgia, Times, serif;
+  color: #413932;
+  /*background: #f5f4ef;*/
+  background: #E2E1D9 url(../images/background.png) left top repeat;
+  background-attachment: fixed;
+}
+
+a {
+  color: #f34b2d;
+}
+
+a:hover {
+  /*color: #c53d20;*/
+  color: #f34b2d;
+}
+
+h1 ,h2 ,h3 ,h3 ,h4 ,h5 , h6 {
+  font-family: Andada-SC, Georgia, Times, serif;
+}
+
+h1:first-child,
+h2:first-child,
+h3:first-child,
+h4:first-child,
+h5:first-child,
+h6:first-child {
+  margin-top: 0;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.container-content {
+  background: #f5f4ef;
+  background: rgba(251,250,246,.7);
+  border:1px solid #D0CEC5;
+  padding:16px 0;
+}
+
+.nav > li > a {
+  color: #83776d;
+  font-size: 24px;
+  font-weight: bold;
+
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+  color: #f34b2d;
+  background-color: rgba(208,206,197,.1);
+}
+
+.logo {
+  padding-left: 100px;
+  background: transparent url(../images/logo.png) left top no-repeat;
+  margin:10px 0;
+}
+
+.logo:hover {
+  text-decoration: none;
+}
+
+.logo h1 {
+  font-size: 48px;
+  font-weight: bold;
+  text-shadow: 0 2px 0 rgba(255,255,255,.5);
+  margin: 10px 0 0;
+  color: #413932;
+}
+
+.logo .claim {
+  color: #84786e;
+}
+
+.tagcloud {
+  margin: 32px 0 0;
+}
+
+.tagcloud h4 {
+  margin-bottom: 0;
+}
+
+.tagcloud .list-unstyled li {
+  float: left;
+  margin-right: 5px;
+}
+
+.tagcloud .list-unstyled li:after {
+  margin: 0 0 0 -2px;
+  content: ",";
+}
+
+.tagcloud .list-unstyled li:last-child:after {
+  content: "";
+}
+
+.footer {
+  margin:16px 0;
+}

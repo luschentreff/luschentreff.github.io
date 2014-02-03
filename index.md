@@ -6,13 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-<ul class="list-unstyled">
-{% for tag in site.tags %}
-<li style="font-size: {{ tag | last | size | times: 100 | divided_by: tag[0].size | plus: 50 }}%">
-  <a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }}</a>
-</li>
-{% endfor %}
-</ul>
+
 
 {{ site.tagline }}
 
