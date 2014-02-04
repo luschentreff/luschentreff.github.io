@@ -13,6 +13,14 @@ body {
   background-attachment: fixed;
 }
 
+::selection {
+  background: rgba(240,72,52,.3); /* Safari */
+}
+
+::-moz-selection {
+  background: rgba(240,72,52,.3); /* Firefox */
+}
+
 a {
   color: #f34b2d;
 }
