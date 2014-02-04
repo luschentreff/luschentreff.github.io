@@ -1,44 +1,38 @@
----
+----
 layout: post
 title: "Skat für Schafkopfer"
 description: "Wer schon Schafkopf spielen kann, kann die Skatregeln sauschnell lernen"
 category: schafkopf
 tags: [schafkopf, skat, regelkunde]
----
-{% include JB/setup %}
+----
+{% include JB/setup %}# Skat für Schafkopfer
 
-Wer gern mit der Kurzen Karte, Farbwenz und Geier spielt, spielt ganz gern Solos. Für den ist Skat perfekt, denn da ist jedes Spiel ein Solospiel. Das liegt daran, dass man statt zu 4. nur zu 3. spielt und dadurch immer einer allein spielen muss. Ein weiterer Vorteil daran ist, dass bei einer 4er-Runde es immer einen Hund gibt, der nicht kann. Statt den Schafkopf-Abend absagen zu müssen kann man einfach Skat spielen. Und die Unterschiede sind nicht so groß. 
+Besonders für Freunde der Kurzen Karte, Farbwenz und Geier, die diese Regeln oft besser finden, weil man viel öfter ein Solo spielen kann, ist Skat geradezu perfekt. Denn beim Skat ist jedes Spiel ein Solospiel. Das liegt daran, dass man statt zu 4. nur zu 3. spielt und dadurch immer einer allein spielen muss.
+
+Aber ein weiterer Vorteil daran ist, dass es sehr viel leichter ist drei statt vier Spieler zusammen zu bekommen. Bei einer 4er-Runde gibt es halt fast immer einen Hund, der nicht kann, aber statt den Schafkopf-Abend absagen zu müssen, könnte man auch Skat spielen und die Unterschiede sind nicht so groß, das lernt man schnell. 
 
 ## Das Blatt
 
-Ok, der Preiß spielt eben mit dem französichen Blatt. Das ist zwar nicht so schön, aber gesehen hat man es schon mal. Falls nicht, dann hier nochmal die Entsprechungen:
+Ok, der Preiß spielt eben mit dem französichen Blatt. Das ist zwar nicht so schön, aber gesehen hat man es schon mal. Falls nicht, gibts hier die die Erklärung:
 
 -----
-NOCH ÄNDERN!!!!!
 
 Kreuz = Eichel ![eichel](https://www.sauspiel.de/images/sauspiel/blog/list-i3.png)    
 Pik = Gras ![gras](https://www.sauspiel.de/images/sauspiel/blog/list-i1.png)   
-Herz ![herz](https://www.sauspiel.de/images/sauspiel/blog/list-i2.png) = Herz   
+Herz = Herz ![herz](https://www.sauspiel.de/images/sauspiel/blog/list-i2.png)    
 Karo = Schelle ![schelle](https://www.sauspiel.de/images/sauspiel/blog/list-i4.png) 
 
-NOCH ÄNDERN!!!!!
-
 -----
-Die Karten, der Stärke nach sortiert:
+So werden beim Skat die Karten der Stärke nach sortiert:
 
-Bube = Unter, 2 Augen
-
+Bube = Unter, 2 Augen   
 Ass = 11 Augen, (genau wie beim Schafkopf)   
-
 10 = 10 Augen, (genau wie beim Schafkopf)       
-
-König = 4 Augen
-
-Dame = Ober, 3 Augen, kein gesetzter Trumpf sondern nur in der Trumpffarbe und schwächer als der Bube/Unter   
-
+König = 4 Augen    
+Dame = Ober, 3 Augen (kein gesetzter Trumpf sondern nur in der Trumpffarbe und schwächer als der Bube/Unter)   
 9, 8, 7 = Luschen, hier wie da ...
 
-Zu beachten ist auch die Reihenfolge, denn die Dame ist eingereiht und schwächer als der König.
+Zu beachten ist auch die Reihenfolge, denn die Dame (entspricht dem Ober) ist eingereiht und schwächer als der König.
 
 ## Spielarten
 
@@ -110,9 +104,21 @@ Erst die Buben zählen, dann plus 1 und mit dem Spiel multiplizieren, daraus ber
 
 Da man den Mitspielern nicht alles verraten möchte (z.B. die Anzahl der Buben), sagt man nicht gleich den errechneten Wert sondern wie bei einer Auktion üblich, nur ein wenig mehr als das Gebot zuvor. Deswegen sagt man der Reihe nach Werte die entstehen wenn man mit 9 (Karo), 10 (Herz), 11 (Pik), 12 (Kreuz) malnimmt. 
 
-Hier die Reihe zum Spickeln:   
+Hier die Reihe der Reizwerte zum Spickeln:   
 18, 20, 22, 23 (Nullspiel), 24, 27, 30, 33, 35, 36, 40, 44, 45, 46, 48, 50, 54, 55, 59, 60, 63, 66, 70, ...
 
+
 ### Spielansage
+
 Der mit dem höchsten Reizgebot darf nun die zwei Karten in der Mitte (den Skat) aufnehmen (muss er aber nicht, Hand spielen erhöht den Gewinnwert) zwei beliebige Karten aussortieren (die zählen am Ende als Stich) und ein Spiel ansagen.
 
+
+### Überreizen
+
+Den Regeln nach darf man reizen so hoch mal will. Wenn aber am Ende klar wird, dass ein Spieler höher gereizt hat, als bis zum tatsächlichen Gewinnwert des angesagten Spiels, gilt ein Spiel als verloren. Das lässt sich ja am Ende des Spiels prima ausrechnen.
+
+### Spiel abreizen
+
+Wenn ein zu oft verliert, dann nennt man das "Abreizen", weil man immer zu hoch reizt und die anderen nicht auch mal spielen lässt. Das ist böse und wird oft durch Zahlung von Abreizbeiträgen bestraft.
+
+ 
