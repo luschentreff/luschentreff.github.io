@@ -70,7 +70,9 @@ h6:first-child {
 .logo {
   padding-left: 100px;
   background: transparent url(../images/logo.png) left top no-repeat;
-  margin:10px 0;
+  margin: 10px 0;
+  display: block;
+  min-height: 93px;
 }
 
 .logo:hover {
