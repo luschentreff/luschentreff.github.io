@@ -50,3 +50,19 @@
   background: rgba(255, 0, 0, 0.3);
   border-radius: 3px;
 }
+
+.symbol {
+  text-indent: -999em;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+}
+
+.symbol.by { background-image: url("../images/symbol_by.png"); }
+.symbol.fr { background-image: url("../images/symbol_fr.png"); }
+
+.symbol.E { background-position:   0px top; }
+.symbol.G { background-position: -16px top; }
+.symbol.H { background-position: -32px top; }
+.symbol.S { background-position: -48px top; }
