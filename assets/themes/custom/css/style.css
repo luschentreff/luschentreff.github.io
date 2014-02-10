@@ -123,8 +123,33 @@ h1 ,h2 ,h3 ,h3 ,h4 ,h5 , h6 {
   margin-top: 0;
 }
 
-.page-header .meta-tag {
+.meta-tag {
   font-style: italic;
+  /*background:rgba(0,0,0,.05);*/
+  /*border-bottom: 1px solid #CCC6C0;*/
+}
+
+/*.meta-tag:before {
+  position:absolute;
+  left:0;
+  width:22px;
+  height:100%;
+  background:url(../images/separator-background.png) left top repeat;
+  content:"";
+}*/
+
+.meta-tag:after {
+  display:block;
+  margin-top:7px;
+  width:100%;
+  height:12px;
+  background:url(../images/separator-background.png) left top repeat;
+  content:"";
+}
+
+.meta-tag .date {
+  font-style: normal;
+  font-weight: bold;
 }
 
 .category-header {
@@ -138,7 +163,7 @@ h1 ,h2 ,h3 ,h3 ,h4 ,h5 , h6 {
   margin-top: 0;
 }
 
-.article:after {
+.article .main:after {
   display: block;
   margin:2em 0;
   background: url(../images/separator-background.png) left top repeat;
