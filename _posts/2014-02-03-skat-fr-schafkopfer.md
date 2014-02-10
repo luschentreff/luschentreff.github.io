@@ -1,11 +1,11 @@
-----
+---
 layout: post
 title: "Skat für Schafkopfer"
 description: "Wer schon Schafkopf spielen kann, kann die Skatregeln sauschnell lernen"
 category: schafkopf
 tags: [schafkopf, skat, regelkunde]
-----
-{% include JB/setup %}# Skat für Schafkopfer
+---
+{% include JB/setup %}
 
 Besonders für Freunde der Kurzen Karte, Farbwenz und Geier, die diese Regeln oft besser finden, weil man viel öfter ein Solo spielen kann, ist Skat geradezu perfekt. Denn beim Skat ist jedes Spiel ein Solospiel. Das liegt daran, dass man statt zu 4. nur zu 3. spielt und dadurch immer einer allein spielen muss.
 
