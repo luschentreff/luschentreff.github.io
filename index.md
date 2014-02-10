@@ -12,10 +12,14 @@ group: navigation
 
 <div class="posts">
   {% for post in site.posts limit:5 %}
-    <h2>{{ post.title }}</h2>
+  <div class="article">
+    <div class="page-header">
+      <h1>{{ post.title }}</h1>
+      <p class="meta-tag">{{ post.date | date_to_string }}, von Cliff</p>
+    </div>
     {{ post.content }}
-    <p><a href="{{ BASE_PATH }}{{ post.url }}">...weiter lesen</a></p>
-    <p>Cliff, {{ post.date | date_to_string }}</p>
+    <p><a href="{{ BASE_PATH }}{{ post.url }}">…weiter lesen</a></p>
+  </div>
   {% endfor %}
 </div>
 

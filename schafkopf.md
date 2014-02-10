@@ -6,20 +6,25 @@ group: navigation
 ---
 {% include JB/setup %}
 
-<h2>Der Schafkopf-Bereich</h2>
-
-<ul class="tag_box inline">
-  {% assign pages_list = site.categories['schafkopf'] %}
-  {% include JB/pages_list %}
-</ul>
+<div class="category-header">
+  <h2>Der Schafkopf-Bereich</h2>
+  <ul class="tag_box inline">
+    {% assign pages_list = site.categories['schafkopf'] %}
+    {% include JB/pages_list %}
+  </ul>
+</div>
 
 Alle Beiträge zum Thema Schafkopf:
 
 <div class="posts">
   {% for post in site.categories['schafkopf'] %}
-    <h2>{{ post.title }}</h2>
-    {{ post.content }}
-    <p><a href="{{ BASE_PATH }}{{ post.url }}">...weiter lesen</a></p>
-    <p>Cliff, {{ post.date | date_to_string }}</p>
+    <div class="article">
+      <div class="page-header">
+        <h1>{{ post.title }}</h1>
+        <p class="meta-tag">{{ post.date | date_to_string }}, von Cliff</p>
+      </div>
+      {{ post.content }}
+      <p><a href="{{ BASE_PATH }}{{ post.url }}">…weiter lesen</a></p>
+    </div>
   {% endfor %}
 </div>
