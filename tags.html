@@ -7,7 +7,7 @@ header: Posts By Tag
 
 {% for tag in site.tags %}
     <li style="list-style: none; font-size: {{ tag | last | size | times: 100 | divided_by: tag[0].size | plus: 50 }}%">
-        <a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }} <span>{{ tag[1].size }}</span></a>
+        <a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }} <span>({{ tag[1].size }})</span></a>
     </li>
 {% endfor %}
  
