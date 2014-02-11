@@ -1,7 +1,7 @@
 
-http://luschentreff.github.io/about.html
-http://luschentreff.github.io/archive.html
+http://luschentreff.github.io/archiv.html
 http://luschentreff.github.io/atom.xml
+http://luschentreff.github.io/der-luschentreff.html
 http://luschentreff.github.io/doppelkopf.html
 http://luschentreff.github.io/impressum.html
 http://luschentreff.github.io/index.html
