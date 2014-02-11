@@ -5,8 +5,8 @@
         <description>Luschentreff - Lusche</description>
         <link>http://luschentreff.github.io</link>
         <link>http://luschentreff.github.io</link>
-        <lastBuildDate>2014-02-11T16:42:05+01:00</lastBuildDate>
-        <pubDate>2014-02-11T16:42:05+01:00</pubDate>
+        <lastBuildDate>2014-02-11T17:05:54+01:00</lastBuildDate>
+        <pubDate>2014-02-11T17:05:54+01:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -95,8 +95,8 @@
 &lt;p&gt;Bsp ”&lt;strong&gt;Mit&lt;/strong&gt;” (wieviele Buben fortlaufend mit dem Kreuzbuben):&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;* alle 4 Buben (Kreuz, Pik, Herz, Karo): Mit 4
-* die zwei stärksten Buben (Kreuz, Pik): Mit 2
-* die zwei stärksten und den Karo Buben (Kreuz, Pik, Karo): Mit 2
+* die zwei stärksten Buben (Kreuz, Pik): Mit 2 
+* die zwei stärksten und den Karo Buben (Kreuz, Pik, Karo): Mit 2 
   (da nicht fortlaufend!) &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Bsp ”&lt;strong&gt;Ohne&lt;/strong&gt;” (wieviele Buben fehlen forlaufend bis zum Kreuzbuben):&lt;/p&gt;
@@ -124,7 +124,7 @@ Grand: 24&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Erst die Buben zählen, dann plus 1 und mit dem Spiel multiplizieren, daraus berechnet sich der Reizwert.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;Ohne 3  +1 (im Skatjargon: Spiel 4) mal Farbspiel Pik: 11
+&lt;pre&gt;&lt;code&gt;Ohne 3  +1 (im Skatjargon: Spiel 4) mal Farbspiel Pik: 11 
 macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h4 id=&quot;reizen_das_einmaleins&quot;&gt;Reizen: das Einmaleins:&lt;/h4&gt;
@@ -184,8 +184,8 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Bsp ”&lt;strong&gt;Mit&lt;/strong&gt;” (wieviele Buben fortlaufend mit dem Kreuzbuben):&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;* habe ich alle 4 Buben (Kreuz, Pik, Herz, Karo): Mit 4
-* habe ich die zwei stärksten Buben (Kreuz, Pik): Mit 2
-* die zwei stärksten und den Karo Buben (Kreuz, Pik, Karo): Mit 2
+* habe ich die zwei stärksten Buben (Kreuz, Pik): Mit 2 
+* die zwei stärksten und den Karo Buben (Kreuz, Pik, Karo): Mit 2 
   (da nicht fortlaufend!) &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Bsp ”&lt;strong&gt;Ohne&lt;/strong&gt;” (wieviele Buben fehlen forlaufend bis zum Kreuzbuben):&lt;/p&gt;
@@ -207,7 +207,7 @@ Grand: 24&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Also immer schön die Buben zählen, dann plus 1 und das ganze dann mit dem Spiel multiplizieren.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;Ohne 3  +1 (im Skatjargon: Spiel 4) mal Farbspiel Pik: 11
+&lt;pre&gt;&lt;code&gt;Ohne 3  +1 (im Skatjargon: Spiel 4) mal Farbspiel Pik: 11 
 macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;strong&gt;5. Hand, Schneider/Schwarz angesagt, Schneider/Schwarz gewonnen&lt;/strong&gt;&lt;/p&gt;
