@@ -163,6 +163,12 @@ h3 {
   font-weight: bold;
 }
 
+.meta-tag ul,
+.meta-tag ul li {
+  list-style: none;
+  padding: 0;
+}
+
 .category-header {
   border:1px solid #CCC6C0;
   background: rgba(227,223,219,.5);
