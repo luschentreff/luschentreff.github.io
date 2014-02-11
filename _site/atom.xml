@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- 
+
  <title>Luschentreff</title>
  <link href="http://luschentreff.github.io/" rel="self"/>
  <link href="http://luschentreff.github.io"/>
- <updated>2014-02-11T16:32:40+01:00</updated>
+ <updated>2014-02-11T16:42:05+01:00</updated>
  <id>http://luschentreff.github.io</id>
  <author>
    <name>Lusche</name>
    <email>blah@email.test</email>
  </author>
 
- 
+
  <entry>
    <title>Schafkopf für Doppelkopfspieler</title>
    <link href="http://luschentreff.github.io/schafkopf/schafkopf-fr-doppelkopfspieler"/>
@@ -51,7 +51,7 @@
 
 &lt;p&gt;Anfangs ist die Partnerschaft noch ungeklärt, aber der Partner muss die Sau (das Ass) spielen, wenn es &lt;strong&gt;gesucht wird&lt;/strong&gt;. Das bedeutet, wenn die Farbe von der gesuchten Sau angespielt wird, muss der Partner das Ass ausspielen. &lt;br /&gt;Außerdem gibt es Konventionen, durch die sich meist recht schnell herausstellt wer mit wem zusammenspielt. So spielt die Spielerpartei nach Möglichkeit immer Trumpf an und die Gegenspieler spielen immer die Farbe der &lt;strong&gt;gesuchten Sau&lt;/strong&gt; an.&lt;/p&gt;</content>
  </entry>
- 
+
  <entry>
    <title>Skat für Schafkopfer</title>
    <link href="http://luschentreff.github.io/schafkopf/skat-fr-schafkopfer"/>
@@ -100,8 +100,8 @@
 &lt;p&gt;Bsp ”&lt;strong&gt;Mit&lt;/strong&gt;” (wieviele Buben fortlaufend mit dem Kreuzbuben):&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;* alle 4 Buben (Kreuz, Pik, Herz, Karo): Mit 4
-* die zwei stärksten Buben (Kreuz, Pik): Mit 2 
-* die zwei stärksten und den Karo Buben (Kreuz, Pik, Karo): Mit 2 
+* die zwei stärksten Buben (Kreuz, Pik): Mit 2
+* die zwei stärksten und den Karo Buben (Kreuz, Pik, Karo): Mit 2
   (da nicht fortlaufend!) &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Bsp ”&lt;strong&gt;Ohne&lt;/strong&gt;” (wieviele Buben fehlen forlaufend bis zum Kreuzbuben):&lt;/p&gt;
@@ -129,7 +129,7 @@ Grand: 24&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Erst die Buben zählen, dann plus 1 und mit dem Spiel multiplizieren, daraus berechnet sich der Reizwert.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;Ohne 3  +1 (im Skatjargon: Spiel 4) mal Farbspiel Pik: 11 
+&lt;pre&gt;&lt;code&gt;Ohne 3  +1 (im Skatjargon: Spiel 4) mal Farbspiel Pik: 11
 macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h4 id=&quot;reizen_das_einmaleins&quot;&gt;Reizen: das Einmaleins:&lt;/h4&gt;
@@ -150,7 +150,7 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Wenn ein zu oft verliert, dann nennt man das “Abreizen”, weil man immer zu hoch reizt und die anderen nicht auch mal spielen lässt. Das ist böse und wird oft durch Zahlung von Abreizbeiträgen bestraft.&lt;/p&gt;</content>
  </entry>
- 
+
  <entry>
    <title>Skat für Doppelkopfspieler</title>
    <link href="http://luschentreff.github.io/doppelkopf/skat-fr-doppelkopfspieler"/>
@@ -189,8 +189,8 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Bsp ”&lt;strong&gt;Mit&lt;/strong&gt;” (wieviele Buben fortlaufend mit dem Kreuzbuben):&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;* habe ich alle 4 Buben (Kreuz, Pik, Herz, Karo): Mit 4
-* habe ich die zwei stärksten Buben (Kreuz, Pik): Mit 2 
-* die zwei stärksten und den Karo Buben (Kreuz, Pik, Karo): Mit 2 
+* habe ich die zwei stärksten Buben (Kreuz, Pik): Mit 2
+* die zwei stärksten und den Karo Buben (Kreuz, Pik, Karo): Mit 2
   (da nicht fortlaufend!) &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Bsp ”&lt;strong&gt;Ohne&lt;/strong&gt;” (wieviele Buben fehlen forlaufend bis zum Kreuzbuben):&lt;/p&gt;
@@ -212,14 +212,14 @@ Grand: 24&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Also immer schön die Buben zählen, dann plus 1 und das ganze dann mit dem Spiel multiplizieren.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;Ohne 3  +1 (im Skatjargon: Spiel 4) mal Farbspiel Pik: 11 
+&lt;pre&gt;&lt;code&gt;Ohne 3  +1 (im Skatjargon: Spiel 4) mal Farbspiel Pik: 11
 macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;strong&gt;5. Hand, Schneider/Schwarz angesagt, Schneider/Schwarz gewonnen&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;6. Überreizt&lt;/strong&gt;&lt;/p&gt;</content>
  </entry>
- 
+
  <entry>
    <title>Doppelkopf für Skatspieler</title>
    <link href="http://luschentreff.github.io/skat/doppelkopf-fr-skatspieler"/>
@@ -273,7 +273,7 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Am Anfang ist die Partnerschaft noch ungeklärt, weshalb natürlich alle Spieler großes Interesse daran haben ihren Partner zu (er-)kennen, aber dafür nicht unbedingt ihre zweitstärksten Karten leichtfertig hergeben möchten. Deswegen gibt es beim Doppelkopf Konventionen (ungeschriebene Regeln), die dabei helfen, dass die Mitspieler sich schneller finden.&lt;/p&gt;</content>
  </entry>
- 
+
  <entry>
    <title>Doppelkopf für Schafkopfer</title>
    <link href="http://luschentreff.github.io/schafkopf/doppelkopf-fr-schafkopfer"/>
@@ -329,7 +329,7 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;a href=&quot;https:www.sauspiel.de&quot;&gt;Auf zum Online-Schafkopfn!&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
- 
+
  <entry>
    <title>Schafkopf Fr Skatspieler</title>
    <link href="http://luschentreff.github.io/schafkopf-fr-skatspieler"/>
@@ -385,7 +385,7 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;a href=&quot;https:www.sauspiel.de&quot;&gt;Auf zum Online-Schafkopfn!&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
- 
+
  <entry>
    <title>Die Gemeinsamkeit ist Trumpf</title>
    <link href="http://luschentreff.github.io/kartenspielen/die-gemeinsamkeit-ist-trumpf"/>
@@ -407,7 +407,7 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Jetzt wird’s kompliziert. Geben, Hören, Sagen: das ist die Reihenfolge. Der eine gibt die Karten, der zweite hört und zwar hört er die Gebote des dritten. Richtig Gebote, denn beim Skat wird versteigert, wer allein gegen die anderen beiden spielen darf. Und es gewinnt der mit dem höchsten Gebot. Die Skatspieler nennen das “Reizen” und das funktioniert so, dass man den Wert seiner Karten errechnet und dann wie auf einer Auktion die Werte der Reihe nach aufruft: Also der Dritte fragt den Zweiten “18” (der niedrigste Reiz-Wert), dann “20”, “22”, usw. bis einer der beiden Spieler weg sagt. Dann geht die Reihenfolge: Geben, Hören, Sagen, Weitersagen. Also der Geber fragt den der nicht weg gesagt hat, die nächsten Reiz-Gebote ab, bis nur noch einer übrig ist. Der mit dem höchsten Gebot gewinnt und darf sich das Spiel aussuchen. &lt;a href=&quot;www.skatstube.de/skat-lernen&quot;&gt;Ausführliche Erklärungen, wie die Spielfindung und das Reizen beim Skat funktioniert gibt es in der Skatstube.&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
- 
+
  <entry>
    <title>Liebe Kartenspiel-Freunde,</title>
    <link href="http://luschentreff.github.io/kartenspielen/hallo-im-luschentreff"/>
@@ -423,6 +423,6 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;luschen@luschentreff.de&lt;/p&gt;</content>
  </entry>
- 
- 
+
+
 </feed>
