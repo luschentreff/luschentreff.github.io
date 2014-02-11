@@ -183,6 +183,10 @@ h3 {
   content:"";
 }
 
+.post .article .main:after {
+  margin: 2em 0 0;
+}
+
 .social-media {
   margin-top: 3px;
   padding-top: 3px;
