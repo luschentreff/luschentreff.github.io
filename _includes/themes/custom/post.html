@@ -1,15 +1,26 @@
-<div class="row post-full">
-  <div class="col-md-12">
-    <div class="date">
-      <span>{{ page.date | date_to_long_string }}</span>
+<div class="post col-md-12">
+  <div class="article row">
+    <div class="page-header col-md-12">
+      <h1>{{ page.title }}</h1>
     </div>
-    <div class="content">
+    <div class="main col-md-8">
       {{ content }}
     </div>
-
+    <div class="col-md-4">
+      <div class="col-md-12 meta-tag">
+        <span class="date">{{ page.date | date_to_string }}</span><br />
+        <span>von Cliff</span>
+        <div class="social-media">
+          <a href="#" class="fa fa-google-plus">&nbsp;</a>
+          <a href="#" class="fa fa-facebook-square">&nbsp;</a>
+          <a href="#" class="fa fa-twitter">&nbsp;</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="clearfix"></div>
   {% unless page.categories == empty %}
     <ul class="tag_box inline">
-      <li><i class="icon-folder-open"></i></li>
       {% assign categories_list = page.categories %}
       {% include JB/categories_list %}
     </ul>
@@ -17,27 +28,24 @@
 
   {% unless page.tags == empty %}
     <ul class="tag_box inline">
-      <li><i class="icon-tags"></i></li>
       {% assign tags_list = page.tags %}
       {% include JB/tags_list %}
     </ul>
   {% endunless %}
 
-    <hr>
-    <ul class="pager">
-    {% if page.previous %}
-      <li class="previous"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Voriger</a></li>
-    {% else %}
-      <li class="previous disabled"><a>&larr; Voriger</a></li>
-    {% endif %}
-      <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archiv</a></li>
-    {% if page.next %}
-      <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Nächster &rarr;</a></li>
-    {% else %}
-      <li class="next disabled"><a>Nächster &rarr;</a>
-    {% endif %}
-    </ul>
-    <hr>
-    {% include JB/comments %}
-  </div>
+  <ul class="pager">
+  {% if page.previous %}
+    <li class="previous"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Voriger</a></li>
+  {% else %}
+    <li class="previous disabled"><a>&larr; Voriger</a></li>
+  {% endif %}
+    <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archiv</a></li>
+  {% if page.next %}
+    <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Nächster &rarr;</a></li>
+  {% else %}
+    <li class="next disabled"><a>Nächster &rarr;</a>
+  {% endif %}
+  </ul>
+
+  {% include JB/comments %}
 </div>

@@ -67,13 +67,14 @@
 .symbol.H { background-position: -32px top; }
 .symbol.S { background-position: -48px top; }
 
+.article li { list-style-image: url(../images/list-3_fr.png); }
 
-.list-styled_by li:nth-child(4n + 1) { list-style-image: url(../images/list-1_by.png); }
-.list-styled_by li:nth-child(4n + 2) { list-style-image: url(../images/list-2_by.png); }
-.list-styled_by li:nth-child(4n + 3) { list-style-image: url(../images/list-3_by.png); }
-.list-styled_by li:nth-child(4n + 4) { list-style-image: url(../images/list-4_by.png); }
+.article .list-styled_by li:nth-child(4n + 1) { list-style-image: url(../images/list-1_by.png); }
+.article .list-styled_by li:nth-child(4n + 2) { list-style-image: url(../images/list-2_by.png); }
+.article .list-styled_by li:nth-child(4n + 3) { list-style-image: url(../images/list-3_by.png); }
+.article .list-styled_by li:nth-child(4n + 4) { list-style-image: url(../images/list-4_by.png); }
 
-.list-styled_fr li:nth-child(4n + 1) { list-style-image: url(../images/list-1_fr.png); }
-.list-styled_fr li:nth-child(4n + 2) { list-style-image: url(../images/list-2_fr.png); }
-.list-styled_fr li:nth-child(4n + 3) { list-style-image: url(../images/list-3_fr.png); }
-.list-styled_fr li:nth-child(4n + 4) { list-style-image: url(../images/list-4_fr.png); }
+.article .list-styled_fr li:nth-child(4n + 1) { list-style-image: url(../images/list-1_fr.png); }
+.article .list-styled_fr li:nth-child(4n + 2) { list-style-image: url(../images/list-2_fr.png); }
+.article .list-styled_fr li:nth-child(4n + 3) { list-style-image: url(../images/list-3_fr.png); }
+.article .list-styled_fr li:nth-child(4n + 4) { list-style-image: url(../images/list-4_fr.png); }

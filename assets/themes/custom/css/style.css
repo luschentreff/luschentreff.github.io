@@ -105,13 +105,13 @@ h1 ,h2 ,h3 ,h3 ,h4 ,h5 , h6 {
   content: "";
 }
 
-.footer {
-  margin: 16px 0;
-}
-
 .article {
   /*background:pink;*/
   margin-bottom: 4em;
+}
+
+.post .article {
+  margin-bottom: 0;
 }
 
 .page-header {

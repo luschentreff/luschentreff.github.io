@@ -34,42 +34,44 @@
   </head>
 
   <body>
-    <div class="container row">
-      <a href="/" class="col-md-12 logo">
-        <h1>Luschentreff</h1>
-        <p class="claim">Eine Seite von Luschen für Luschen</p>
-      </a>
-      <div class="col-md-12 container-content">
-        <div class="col-md-3 sidebar">
-          <ul class="nav nav-stacked">
-            <li><a href="/">Blog</a></li>
-            <li><a href="/kartenspielen.html">Alle Spiele</a></li>
-            <li><a href="/schafkopf.html">Schafkopf</a></li>
-            <li><a href="/doppelkopf.html">Doppelkopf</a></li>
-            <li><a href="/skat.html">Skat</a></li>
-            <li><a href="/schnapsen.html">Schnapsen</a></li>
-          </ul>
-          <div class="tagcloud">
-            <h4>Häufige Tags:</h4>
-            <ul class="list-unstyled">
-              {% for tag in site.tags %}
-              <li>
-                <a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }}</a>
-              </li>
-              {% endfor %}
+    <div class="container">
+      <div class="row">
+        <a href="/" class="col-md-12 logo">
+          <h1>Luschentreff</h1>
+          <p class="claim">Eine Seite von Luschen für Luschen</p>
+        </a>
+        <div class="col-md-12 container-content">
+          <div class="col-md-3 sidebar">
+            <ul class="nav nav-stacked">
+              <li><a href="/">Blog</a></li>
+              <li><a href="/kartenspielen.html">Alle Spiele</a></li>
+              <li><a href="/schafkopf.html">Schafkopf</a></li>
+              <li><a href="/doppelkopf.html">Doppelkopf</a></li>
+              <li><a href="/skat.html">Skat</a></li>
+              <li><a href="/schnapsen.html">Schnapsen</a></li>
             </ul>
+            <div class="tagcloud">
+              <h4>Häufige Tags:</h4>
+              <ul class="list-unstyled">
+                {% for tag in site.tags %}
+                <li>
+                  <a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }}</a>
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
+            <div class="clearfix"></div>
           </div>
-          <div class="clearfix"></div>
-        </div>
-        <div class="col-md-9">
-          <div class="row">
-            {{ content }}
+          <div class="col-md-9">
+            <div class="row">
+              {{ content }}
+            </div>
           </div>
         </div>
       </div>
-
-      <div class="col-md-12 footer">
-        <div class="nav">
+      <div class="clearfix"></div>
+      <div class="row footer">
+        <div class="col-md-12">
           <a href="http://www.sauspiel.de">Schafkopf bei Sauspiel</a>
           |
           <a href="http://www.skatstube.de">Skat in der Skatstube</a>
@@ -84,8 +86,6 @@
           <a href="/about.html" rel="nofollow">Über</a>
         </div>
       </div>
-    </div>
-
     </div>
 
     {% include JB/analytics %}

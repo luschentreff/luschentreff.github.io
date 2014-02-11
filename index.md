@@ -6,8 +6,6 @@ group: navigation
 ---
 {% include JB/setup %}
 
-
-
 {{ site.tagline }}
 
 <div class="posts col-md-12">
@@ -20,18 +18,20 @@ group: navigation
       {{ post.content }}
       <p><a href="{{ BASE_PATH }}{{ post.url }}">…weiter lesen</a></p>
     </div>
-    <div class="col-md-4 meta-tag">
-      <span class="date">{{ post.date | date_to_string }}</span><br />
-      <span>von Cliff</span>
-      <div class="social-media">
-        <a href="#" class="fa fa-google-plus">&nbsp;</a>
-        <a href="#" class="fa fa-facebook-square">&nbsp;</a>
-        <a href="#" class="fa fa-twitter">&nbsp;</a>
+    <div class="col-md-4">
+      <div class="col-md-12 meta-tag">
+        <span class="date">{{ post.date | date_to_string }}</span><br />
+        <span>von Cliff</span>
+        <div class="social-media">
+          <a href="#" class="fa fa-google-plus">&nbsp;</a>
+          <a href="#" class="fa fa-facebook-square">&nbsp;</a>
+          <a href="#" class="fa fa-twitter">&nbsp;</a>
+        </div>
       </div>
     </div>
   </div>
   {% endfor %}
-</div>
 
-<p><a href="{{ BASE_PATH }}/archive.html">Alle Blogbeiträge lesen</a></p>
+  <p><a href="{{ BASE_PATH }}/archive.html">Alle Blogbeiträge lesen</a></p>
+</div>
 
