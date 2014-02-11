@@ -23,6 +23,11 @@ group: navigation
     <div class="col-md-4 meta-tag">
       <span class="date">{{ post.date | date_to_string }}</span><br />
       <span>von Cliff</span>
+      <div class="social-media">
+        <a href="#" class="fa fa-google-plus">&nbsp;</a>
+        <a href="#" class="fa fa-facebook-square">&nbsp;</a>
+        <a href="#" class="fa fa-twitter">&nbsp;</a>
+      </div>
     </div>
   </div>
   {% endfor %}

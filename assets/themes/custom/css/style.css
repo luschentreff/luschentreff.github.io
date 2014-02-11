@@ -1,5 +1,6 @@
 @import url("../fonts/fonts.css");
 @import url("card-icons.css");
+@import url("font-awesome.min.css");
 
 html {
   -webkit-font-smoothing: antialiased;
@@ -125,6 +126,9 @@ h1 ,h2 ,h3 ,h3 ,h4 ,h5 , h6 {
 
 .meta-tag {
   font-style: italic;
+  background:#EFECE7;
+  padding:.75em;
+  margin-top:-.75em;
   /*background:rgba(0,0,0,.05);*/
   /*border-bottom: 1px solid #CCC6C0;*/
 }
@@ -138,14 +142,16 @@ h1 ,h2 ,h3 ,h3 ,h4 ,h5 , h6 {
   content:"";
 }*/
 
-.meta-tag:after {
+/*.meta-tag:after {
   display:block;
   margin-top:7px;
   width:100%;
   height:12px;
   background:url(../images/separator-background.png) left top repeat;
+  background:rgba(208,206,197,.2);
+  background:#EFECE7;
   content:"";
-}
+}*/
 
 .meta-tag .date {
   font-style: normal;
@@ -170,4 +176,20 @@ h1 ,h2 ,h3 ,h3 ,h4 ,h5 , h6 {
   height: 1em;
   width: 100%;
   content:"";
+}
+
+.social-media {
+  margin-top: 3px;
+  padding-top: 3px;
+  border-top: 1px solid #CCC6C1;
+}
+
+a.fa {
+  color: #6C6560;
+  text-decoration: none;
+}
+
+a.fa:hover {
+  color: #f34b2d;
+  text-decoration: none;
 }
