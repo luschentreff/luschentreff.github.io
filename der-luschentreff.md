@@ -5,7 +5,7 @@ description: ""
 ---
 {% include JB/setup %}
 
-Wir sind die Betreiber der Spielplattformen [Sauspiel (Schafkopf)](www.sauspiel.de), [Skatstube (Skat)](www.skatstube.de), [Fuchstreff (Dopplekopf)](www.fuchstreff.de) und [Bummerl (Schnapsen, Bauernschnapsen und 66)](www.bummerl.at).
+Wir sind die Betreiber der Spielplattformen [Sauspiel (Schafkopf)](www.sauspiel.de), [Skatstube (Skat)](www.skatstube.de), [Fuchstreff (Dopplekopf)](www.fuchstreff.de) und [Bummerl (Schnapsen, Bauernschnapsen und Sechsundsechzig)](www.bummerl.at).
 
 Im Juli 2007 haben wir die Plattform Sauspiel gegründet, da den Exil-Bayern unter uns in Berlin klar geworden ist, wie schwer es sein kann eine Runde mit vier Spielern zusammen zu bekommen. Daraufhin wurde die Seite Sauspiel ins Leben gerufen, eine Seite von Schafkopfer, die sich ausschließlich an Schafkopfer richtet. Es sollte sich alles nur um Schafkopf drehen, damit auch beim online Spielen die einmalige Kartenspiel-Atmosphäre mit ihrem typisch bayrischen Charakter nicht verloren geht. Die Idee hat unter den Schafkopfern viel Anklang gefunden und so ist die Seite schnell gewachsen und das Sauspiel-Team hat sich ständig vergrößert und wurde von Mitarbeitern, die sich eher als Skatspieler, Doppelkopfspieler und Schnapser verstanden infiziert. So lag es auf der Hand, auch für diese Spiele Plattformen zu gründen.
 
