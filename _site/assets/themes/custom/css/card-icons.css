@@ -1,0 +1,80 @@
+.card-icon {
+  text-indent: -999em;
+  display: inline-block;
+  width: 21px;
+  height: 29px;
+  background-repeat: no-repeat;
+}
+
+.card-icon.at { background-image: url("../images/card-icons_at.png"); }
+.card-icon.by { background-image: url("../images/card-icons_by.png"); }
+.card-icon.dd { background-image: url("../images/card-icons_dd.png"); }
+.card-icon.de { background-image: url("../images/card-icons_de.png"); }
+.card-icon.fr { background-image: url("../images/card-icons_fr.png"); }
+.card-icon.tn { background-image: url("../images/card-icons_tn.png"); }
+
+.card-icon.EA { background-position:   -1px  -1px; }
+.card-icon.EX { background-position:  -23px  -1px; }
+.card-icon.EO { background-position:  -45px  -1px; }
+.card-icon.EU { background-position:  -67px  -1px; }
+.card-icon.EK { background-position:  -89px  -1px; }
+.card-icon.E9 { background-position: -111px  -1px; }
+.card-icon.E8 { background-position: -133px  -1px; }
+.card-icon.E7 { background-position: -155px  -1px; }
+.card-icon.GA { background-position:   -1px -31px; }
+.card-icon.GX { background-position:  -23px -31px; }
+.card-icon.GO { background-position:  -45px -31px; }
+.card-icon.GU { background-position:  -67px -31px; }
+.card-icon.GK { background-position:  -89px -31px; }
+.card-icon.G9 { background-position: -111px -31px; }
+.card-icon.G8 { background-position: -133px -31px; }
+.card-icon.G7 { background-position: -155px -31px; }
+.card-icon.HA { background-position:   -1px -61px; }
+.card-icon.HX { background-position:  -23px -61px; }
+.card-icon.HO { background-position:  -45px -61px; }
+.card-icon.HU { background-position:  -67px -61px; }
+.card-icon.HK { background-position:  -89px -61px; }
+.card-icon.H9 { background-position: -111px -61px; }
+.card-icon.H8 { background-position: -133px -61px; }
+.card-icon.H7 { background-position: -155px -61px; }
+.card-icon.SA { background-position:   -1px -91px; }
+.card-icon.SX { background-position:  -23px -91px; }
+.card-icon.SO { background-position:  -45px -91px; }
+.card-icon.SU { background-position:  -67px -91px; }
+.card-icon.SK { background-position:  -89px -91px; }
+.card-icon.S9 { background-position: -111px -91px; }
+.card-icon.S8 { background-position: -133px -91px; }
+.card-icon.S7 { background-position: -155px -91px; }
+
+.card-icon.card-icon_gap {
+  background: rgba(255, 0, 0, 0.3);
+  border-radius: 3px;
+}
+
+.symbol {
+  text-indent: -999em;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+}
+
+.symbol.by { background-image: url("../images/symbol_by.png"); }
+.symbol.fr { background-image: url("../images/symbol_fr.png"); }
+
+.symbol.E { background-position:   0px top; }
+.symbol.G { background-position: -16px top; }
+.symbol.H { background-position: -32px top; }
+.symbol.S { background-position: -48px top; }
+
+.article li { list-style-image: url(../images/list-3_fr.png); }
+
+.article .list-styled_by li:nth-child(4n + 1) { list-style-image: url(../images/list-1_by.png); }
+.article .list-styled_by li:nth-child(4n + 2) { list-style-image: url(../images/list-2_by.png); }
+.article .list-styled_by li:nth-child(4n + 3) { list-style-image: url(../images/list-3_by.png); }
+.article .list-styled_by li:nth-child(4n + 4) { list-style-image: url(../images/list-4_by.png); }
+
+.article .list-styled_fr li:nth-child(4n + 1) { list-style-image: url(../images/list-1_fr.png); }
+.article .list-styled_fr li:nth-child(4n + 2) { list-style-image: url(../images/list-2_fr.png); }
+.article .list-styled_fr li:nth-child(4n + 3) { list-style-image: url(../images/list-3_fr.png); }
+.article .list-styled_fr li:nth-child(4n + 4) { list-style-image: url(../images/list-4_fr.png); }
