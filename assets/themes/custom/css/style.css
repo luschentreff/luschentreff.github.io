@@ -232,4 +232,6 @@ a.fa:hover {
 .footer .copyright {
   color: #83776D;
   font-style: italic;
+  float: left;
+  margin-right: 20px;
 }
