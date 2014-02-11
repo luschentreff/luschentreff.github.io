@@ -15,11 +15,4 @@ http://luschentreff.github.io/sitemap.txt
 http://luschentreff.github.io/skat.html
 http://luschentreff.github.io/tags.html
 
-http://luschentreff.github.io/schafkopf/schafkopf-fr-doppelkopfspieler
-http://luschentreff.github.io/schafkopf/skat-fr-schafkopfer
-http://luschentreff.github.io/doppelkopf/skat-fr-doppelkopfspieler
-http://luschentreff.github.io/skat/doppelkopf-fr-skatspieler
-http://luschentreff.github.io/schafkopf/doppelkopf-fr-schafkopfer
-http://luschentreff.github.io/schafkopf-fr-skatspieler
-http://luschentreff.github.io/kartenspielen/die-gemeinsamkeit-ist-trumpf
 http://luschentreff.github.io/kartenspielen/hallo-im-luschentreff
