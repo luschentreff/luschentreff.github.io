@@ -17,6 +17,21 @@
         </div>
       </div>
     </div>
+    <div class="col-md-8">
+      <ul class="pager">
+      {% if page.previous %}
+        <li class="previous"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Voriger</a></li>
+      {% else %}
+        <li class="previous disabled"><a>&larr; Voriger</a></li>
+      {% endif %}
+        <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archiv</a></li>
+      {% if page.next %}
+        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Nächster &rarr;</a></li>
+      {% else %}
+        <li class="next disabled"><a>Nächster &rarr;</a>
+      {% endif %}
+      </ul>
+    </div>
   </div>
   <div class="clearfix"></div>
   {% unless page.categories == empty %}
@@ -32,20 +47,6 @@
       {% include JB/tags_list %}
     </ul>
   {% endunless %}
-
-  <ul class="pager">
-  {% if page.previous %}
-    <li class="previous"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Voriger</a></li>
-  {% else %}
-    <li class="previous disabled"><a>&larr; Voriger</a></li>
-  {% endif %}
-    <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archiv</a></li>
-  {% if page.next %}
-    <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Nächster &rarr;</a></li>
-  {% else %}
-    <li class="next disabled"><a>Nächster &rarr;</a>
-  {% endif %}
-  </ul>
 
   {% include JB/comments %}
 </div>
