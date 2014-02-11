@@ -19,6 +19,7 @@ group: navigation
 </div>
 
 <div class="posts col-md-12">
+  <p>Hier werden in Zukunft Beiträge folgen, die sich dem Thema Doppelkopf widmen</p>
   {% for post in site.categories['doppelkopf'] %}
     <div class="article row">
       <div class="page-header col-md-12">
