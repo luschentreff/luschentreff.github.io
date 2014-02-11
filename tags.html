@@ -4,26 +4,25 @@ title: Tags
 header: Posts By Tag
 ---
 {% include JB/setup %}
-<div class="col-md-12">
-  <div class="tagcloud">
-    <h4>Häufige Tags:</h4>
-    <ul class="list-unstyled">
-      {% for tag in site.tags %}
-      <li>
-        <a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }}</a>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-  <div class="clearfix"></div>
 
-  <div class="article">
-  {% for tag in site.tags %}
-    <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
-    <ul>
-      {% assign pages_list = tag[1] %}
-      {% include JB/pages_list %}
-    </ul>
-  {% endfor %}
-  </div>
+<div class="tagcloud">
+  <h4>Häufige Tags:</h4>
+  <ul class="list-unstyled">
+    {% for tag in site.tags %}
+    <li>
+      <a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+<div class="clearfix"></div>
+
+<div class="article">
+{% for tag in site.tags %}
+  <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
+  <ul>
+    {% assign pages_list = tag[1] %}
+    {% include JB/pages_list %}
+  </ul>
+{% endfor %}
 </div>
