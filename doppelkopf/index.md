@@ -53,9 +53,9 @@ group: navigation
           </span><br />
           <span>Cliff</span>
           <div class="social-media">
-            <a href="#" class="fa fa-google-plus">&nbsp;</a>
-            <a href="#" class="fa fa-facebook-square">&nbsp;</a>
-            <a href="#" class="fa fa-twitter">&nbsp;</a>
+            <a href="https://plus.google.com/share?url=http://www.luschentreff.de" class="fa fa-google-plus" target="_blank">&nbsp;</a>
+            <a href="http://www.facebook.com/sharer.php?u=www.luschentreff.de" class="fa fa-facebook-square" target="_blank">&nbsp;</a>
+            <a href="http://twitter.com/share?url=http://www.luschentreff" class="fa fa-twitter" target="_blank">&nbsp;</a>
           </div>
         </div>
       </div>

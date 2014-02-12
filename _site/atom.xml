@@ -4,7 +4,7 @@
  <title>Luschentreff</title>
  <link href="http://luschentreff.github.io/" rel="self"/>
  <link href="http://luschentreff.github.io"/>
- <updated>2014-02-12T12:35:06+01:00</updated>
+ <updated>2014-02-12T12:52:15+01:00</updated>
  <id>http://luschentreff.github.io</id>
  <author>
    <name>Lusche</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Hallo im Luschentreff</title>
-   <link href="http://luschentreff.github.io/kartenspielen/hallo-im-luschentreff"/>
+   <link href="http://luschentreff.github.io/kartenspielen/hallo-im-luschentreff/"/>
    <updated>2014-02-12T00:00:00+01:00</updated>
    <id>http://luschentreff.github.io/kartenspielen/hallo-im-luschentreff</id>
    <content type="html">&lt;p&gt;Hallo liebe Kartenspielfreunde!&lt;/p&gt;
