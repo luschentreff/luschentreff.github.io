@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Blog
+title: Luschentreff - Ein Blog über Schafkopf, Skat, Doppelkopf, Schnapsen
+description: Luschentreff ist ein Blog in dem es hauptsächlich um Schafkopf, Skat, Doppelkopf, Schnapsen aber auch Kartenspielen überhaupt geht.
 tagline: In diesem Blog erfahrt ihr alles was man über Kartenspielen wissen muss, kann und sollte.
 group: navigation
 ---
