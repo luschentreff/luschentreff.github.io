@@ -20,8 +20,27 @@ group: navigation
     </div>
     <div class="col-md-4">
       <div class="col-md-12 meta-tag">
-        <span class="date">{{ post.date | date_to_string }}</span><br />
-        <span>von Cliff</span>
+        <span class="date">
+          <!-- Whitespace added for readability -->
+          {% assign m = page.date | date: "%-m" %}
+          {{ page.date | date: "%-d." }}
+          {% case m %}
+            {% when '1' %}Januar
+            {% when '2' %}Februar
+            {% when '3' %}M&auml;rz
+            {% when '4' %}April
+            {% when '5' %}Mai
+            {% when '6' %}Juni
+            {% when '7' %}Juli
+            {% when '8' %}August
+            {% when '9' %}September
+            {% when '10' %}Oktober
+            {% when '11' %}November
+            {% when '12' %}Dezember
+          {% endcase %}
+          {{ page.date | date: "%Y" }}
+        </span><br />
+        <span>Cliff</span>
         <div class="social-media">
           <a href="#" class="fa fa-google-plus">&nbsp;</a>
           <a href="#" class="fa fa-facebook-square">&nbsp;</a>
