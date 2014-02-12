@@ -12,61 +12,19 @@ Die Seite ist ersteinmal ein Blog, der sich Schafkopf, Skat, Doppelkopf und Schn
 Die Seite wurde mit [Jekyll](http://jekyllrb.com/) erstellt und wird auf [Github-Pages](http://pages.github.com/) gehostet.
 
 ### Jekyll-Bootstrap
-[Jekyll-Bootstrap](http://jekyllbootstrap.com) wurde eingesetzt um schnell ein gut vorformatierte Struktur zu erhalten, die leicht angepasst werden kann und sinnvolle rake-tasks besitzt.
+[Jekyll-Bootstrap](http://jekyllbootstrap.com) wurde eingesetzt um schnell eine gut vorformatierte Struktur zu erhalten, die leicht angepasst werden kann und sinnvolle rake-tasks besitzt.
 
-# Entwicklung
+## Benutzung
 
-## Vorbereitung
+Da durch git push im master branch deployd wird sollte in einem anderen branch entwickelt werden. Neue Blog Posts werden im "posts"-branch vorgeschrieben und committed. Wenn ein Post online gestellt werden soll, kann dieser mittels cherry-pick in den master branch geholt werden.
 
-### Repository "luschentreff.de" clonen
-
-Den Ordner 'sauspiel' erstellen und das Repository luschentreff.de clonen
-
-    mkdir ~/sauspiel
-    cd ~/sauspiel
-    git@github.com:sauspiel/luschentreff.de.git
-    
-### Jekyll installieren
-
-    gem install jekyll
-        
-### NGINX konfigurieren
- * Datei etc/host öffnen:
-
-    	sudo nano /private/etc/hosts
-    
-* folgende Zeile hinzufügen:
-
-		127.0.0.1       luschentreff.dev
-		
-* nginx.conf öffnen:
-
-		open /usr/local/etc/nginx/nginx.conf 
-		
-* Folgendes hinzugügen, nicht vergessen <USERNAME> durch eigenen Username auszutauschen
-
-	  server {
-	  
-      	listen 80;
-      	server_name luschentreff.dev;
-      	root /Users/<USERNAME>/sauspiel/luschentreff.de;
-
-      	location ~ .nginx.*.conf$ {
-        	deny all;
-      	}
-
-      	include /Users/<USERNAME>/sauspiel/luschentreff.de/nginx_local.conf;
-      	
-  	  }
-  	  
-## Benutzung  	  
-  	  
-### Jekyll starten
+### Jekyll Server starten
  
  	jekyll serve --watch
  	
-	luschentreff.dev im Browser aufrufen
-	
+	http://0.0.0.0:4000 (luschentreff.dev - siehe unten) im Browser aufrufen
+
+
 ### Neuen Post anlegen
 
 	rake post title="Hello World"
@@ -75,21 +33,46 @@ Den Ordner 'sauspiel' erstellen und das Repository luschentreff.de clonen
 
 	rake page name="Hello World"	
 	
-### Kategorien und Tags
-Kategorien und Tags werden im Header des Posts angelegt. Bsp.:
+### Kategorien, Tags, Permalinks
+
+Kategorien, Tags, Permalinks, etc werden im Header des Posts angelegt. Bsp.:
 
 	---
 	layout: post
-	title: "Schafkopf für Skatspieler"
-	description: "Eine Einführung zum Schafkopfspielen für Skatspieler"
-	category: skat
+	title: Schafkopf für Skatspieler
+	description: Eine Einführung zum Schafkopfspielen für Skatspieler
+	category: schafkopf
 	tags: [schafkopf, skat, regeln]
 	---
+
 Meta-Title und Meta-Description können auch angegeben werden.
 
 ### Seite Deoployen
 
-Der Branch "gh-pages" wird zum deployen verwendet:
+Der Branch "master" wird zum deployen verwendet. Nachdem Änderungen oder neue Inhalte erstellt wurden mit 
 
-	git push origin gh-pages
+  jekyll serve
 
+die statischen Seiten erstellen und mit
+
+	git push
+
+deployn.	
+
+
+# Entwicklung
+
+## Vorbereitung
+
+### Repository "luschentreff.de" clonen
+
+Das Projekt Luschentreff clonen
+
+    mkdir ~/sauspiel
+    cd ~/sauspiel
+    git clone git@github.com:luschentreff/luschentreff.github.io.git
+    
+### Jekyll installieren
+
+    gem install jekyll
+        
