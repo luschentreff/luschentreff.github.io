@@ -3,7 +3,6 @@ layout: page
 title: Kartenspielen
 tagline: Hier sind alle Kartenspiele vereint
 group: navigation
-weight: 1
 ---
 {% include JB/setup %}
 
