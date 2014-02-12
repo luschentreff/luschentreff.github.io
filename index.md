@@ -51,6 +51,6 @@ group: navigation
   </div>
   {% endfor %}
 
-  <p><a href="{{ BASE_PATH }}/archive.html">Alle Blogbeiträge lesen</a></p>
+  <p><a href="{{ BASE_PATH }}/archiv">Alle Blogbeiträge lesen</a></p>
 </div>
 
