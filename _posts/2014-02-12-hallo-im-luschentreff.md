@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hallo im Luschentreff
+title: Der Luschentreff stellt sich vor
 description: Die Seite Luschentreff stellt sich vor. Ein großes Hallo im ersten Blog-Post!
 categories: kartenspielen
 tags: [news, schafkopf, doppelkopf, skat, schnapsen, hallo]
@@ -18,7 +18,8 @@ Hinter diesem Blog stehen die Spielplattformen [Sauspiel (Schafkopf)](www.sauspi
 Es gibt für die einzelnen Spiele Schafkopf, Doppelkopf, Skat und Schnapsen schon verschiedene Plattformen, doch trotz aller Gemeinsamkeiten findet unter den Spielen und den Spielern noch kein wirklicher Austausch statt. Auch deswegen haben wir diese Seite ins Leben gerufen und hoffen hier nicht nur das Erlernen der Spiele zu erleichtern, sondern auch den gegenseitigen Austausch zu fördern.
 
 
-Falls ihr Wünsche und Anregungen habt, könnt ihr euch auch gerne bei uns melden, wir freuen uns auf euer Feedback (luschentreff@sauspiel.de) und hoffen gemeinsam eine Plattform zu schaffen, die viele interessante Geschichten und nützliche Informationen zu unseren Lieblingsspielen zusammenträgt!
+Falls ihr Wünsche und Anregungen habt, könnt ihr euch auch gerne bei uns melden, wir freuen uns auf euer Feedback (luschentreff@sauspiel.de) und hoffen gemeinsam eine Plattform zu schaffen, die viele interessante Geschichten und nützliche Informationen zu unseren Lieblingsspielen zusammenträgt!    
+[Weitere Infos findet ihr auch unter "Über Luschentreff"](/der-luschentreff)
     
 
 Eure Luschen vom Luschentreff!
