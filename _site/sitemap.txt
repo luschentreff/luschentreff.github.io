@@ -2,17 +2,17 @@
 http://luschentreff.github.io/archiv.html
 http://luschentreff.github.io/atom.xml
 http://luschentreff.github.io/der-luschentreff.html
-http://luschentreff.github.io/doppelkopf.html
+http://luschentreff.github.io/doppelkopf/index.html
 http://luschentreff.github.io/impressum.html
 http://luschentreff.github.io/index.html
-http://luschentreff.github.io/kartenspielen.html
+http://luschentreff.github.io/kartenspielen/index.html
 http://luschentreff.github.io/kategorien.html
 http://luschentreff.github.io/pages.html
 http://luschentreff.github.io/rss.xml
-http://luschentreff.github.io/schafkopf.html
-http://luschentreff.github.io/schnapsen.html
+http://luschentreff.github.io/schafkopf/index.html
+http://luschentreff.github.io/schnapsen/index.html
 http://luschentreff.github.io/sitemap.txt
-http://luschentreff.github.io/skat.html
+http://luschentreff.github.io/skat/index.html
 http://luschentreff.github.io/tags.html
 
 http://luschentreff.github.io/kartenspielen/hallo-im-luschentreff
