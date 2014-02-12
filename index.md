@@ -16,7 +16,7 @@ group: navigation
     </div>
     <div class="main col-md-8">
       {{ post.content }}
-      <p><a href="{{ BASE_PATH }}{{ post.url }}">…weiter lesen</a></p>
+      <p><a href="{{ BASE_PATH }}{{ post.url }}">Beitrag lesen</a></p>
     </div>
     <div class="col-md-4">
       <div class="col-md-12 meta-tag">
