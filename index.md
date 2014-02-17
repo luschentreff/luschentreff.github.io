@@ -22,9 +22,9 @@ group: navigation
     <div class="col-md-4">
       <div class="col-md-12 meta-tag">
         <span class="date">
-          <!-- Whitespace added for readability -->
-          {% assign m = page.date | date: "%-m" %}
-          {{ page.date | date: "%-d." }}
+        <!-- Whitespace added for readability -->
+          {% assign m = post.date | date: "%-m" %}
+          {{ post.date | date: "%-d." }}
           {% case m %}
             {% when '1' %}Januar
             {% when '2' %}Februar
@@ -39,7 +39,7 @@ group: navigation
             {% when '11' %}November
             {% when '12' %}Dezember
           {% endcase %}
-          {{ page.date | date: "%Y" }}
+          {{ post.date | date: "%Y" }}
         </span><br />
         <span>Cliff</span>
         <div class="social-media">
