@@ -59,8 +59,8 @@ Normale Karten (außer beim Solo):
 Doppelkopf wird hauptsächlich wird hauptsächlich mit dem französischem Blatt gespielt, aber auch das vierfarbige Turnierblatt und das bayerische Blatt werden regional verwendet.    
 
 Trümpfe (außer beim Solo):    
-<div class="card-icon by HA">&nbsp;</div>
-<div class="card-icon by HA">&nbsp;</div>
+<div class="card-icon by HX">&nbsp;</div>
+<div class="card-icon by HX">&nbsp;</div>
 <div class="card-icon by EO">&nbsp;</div>
 <div class="card-icon by EO">&nbsp;</div>
 <div class="card-icon by GO">&nbsp;</div>
@@ -115,8 +115,8 @@ Normale Karten (außer beim Solo):
 <div class="card-icon by G8">&nbsp;</div>
 <div class="card-icon by G7">&nbsp;</div>
 <div class="card-icon by G7">&nbsp;</div>
-<div class="card-icon by HX">&nbsp;</div>
-<div class="card-icon by HX">&nbsp;</div>
+<div class="card-icon by HA">&nbsp;</div>
+<div class="card-icon by HA">&nbsp;</div>
 <div class="card-icon by HK">&nbsp;</div>
 <div class="card-icon by HK">&nbsp;</div>
 <div class="card-icon by H9">&nbsp;</div>

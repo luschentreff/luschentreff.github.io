@@ -22,8 +22,8 @@ Die Kartenreihenfolge unterscheidet sich auch noch ein wenig.
 
 Bei einem Normalspiel, also wenn kein Spieler ein Solo ansagt, dann sind die Karten wie folgt der Rangfolge nach sortiert:
  
-<div class="card-icon by HA">&nbsp;</div>
-<div class="card-icon by HA">&nbsp;</div>
+<div class="card-icon by HX">&nbsp;</div>
+<div class="card-icon by HX">&nbsp;</div>
 <div class="card-icon by EO">&nbsp;</div>
 <div class="card-icon by EO">&nbsp;</div>
 <div class="card-icon by GO">&nbsp;</div>
@@ -76,8 +76,8 @@ Bei einem Normalspiel, also wenn kein Spieler ein Solo ansagt, dann sind die Kar
 <div class="card-icon by G8">&nbsp;</div>
 <div class="card-icon by G7">&nbsp;</div>
 <div class="card-icon by G7">&nbsp;</div>
-<div class="card-icon by HX">&nbsp;</div>
-<div class="card-icon by HX">&nbsp;</div>
+<div class="card-icon by HA">&nbsp;</div>
+<div class="card-icon by HA">&nbsp;</div>
 <div class="card-icon by HK">&nbsp;</div>
 <div class="card-icon by HK">&nbsp;</div>
 <div class="card-icon by H9">&nbsp;</div>
