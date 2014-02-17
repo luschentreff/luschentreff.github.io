@@ -33,6 +33,41 @@ Beim Partnerspiel beim Schafkopf spielt man zwei gegen zwei. Wer mit wem ist am 
 Das Partnerspiel wird **Rufspiel** genannt oder **Sauspiel**, weil beim Rufspiel immer die Sau gerufen wird. **Die Sau ist beim Schafkopf das Ass**, und der Spieler ruft eine ihm fehlende Sau (= ein ihm fehlendes Ass) und der Spieler, der dieses Ass auf der Hand hält ist sein Partner.
 Die Ober (Damen), Unter (Buben) und alle Herz sind Trumpf.
 
+Trümpfe beim Sauspiel:    
+<div class="card-icon by EO">&nbsp;</div>
+<div class="card-icon by GO">&nbsp;</div>
+<div class="card-icon by HO">&nbsp;</div>
+<div class="card-icon by SO">&nbsp;</div>
+<div class="card-icon by EU">&nbsp;</div>
+<div class="card-icon by GU">&nbsp;</div>
+<div class="card-icon by HU">&nbsp;</div>
+<div class="card-icon by SU">&nbsp;</div>
+<div class="card-icon by HA">&nbsp;</div>
+<div class="card-icon by HX">&nbsp;</div>
+<div class="card-icon by HK">&nbsp;</div>
+<div class="card-icon by H9">&nbsp;</div>
+<div class="card-icon by H8">&nbsp;</div>
+<div class="card-icon by H7">&nbsp;</div>
+</br> Normale Karten beim Sauspiel:
+<div class="card-icon by EA">&nbsp;</div>
+<div class="card-icon by EX">&nbsp;</div>
+<div class="card-icon by EK">&nbsp;</div>
+<div class="card-icon by E9">&nbsp;</div>
+<div class="card-icon by E8">&nbsp;</div>
+<div class="card-icon by E7">&nbsp;</div>
+<div class="card-icon by GA">&nbsp;</div>
+<div class="card-icon by GX">&nbsp;</div>
+<div class="card-icon by GK">&nbsp;</div>
+<div class="card-icon by G9">&nbsp;</div>
+<div class="card-icon by G8">&nbsp;</div>
+<div class="card-icon by G7">&nbsp;</div>
+<div class="card-icon by SA">&nbsp;</div>
+<div class="card-icon by SX">&nbsp;</div>
+<div class="card-icon by SK">&nbsp;</div>
+<div class="card-icon by S9">&nbsp;</div>
+<div class="card-icon by S8">&nbsp;</div>
+<div class="card-icon by S7">&nbsp;</div>
+
 #### Die Solospiele
 
 Wenn sich ein Spieler sehr gute Karten hat, dann kann er es auch allein gegen die anderen aufnehmen. Das kennt der Skatspieler gut, denn da ist das immer der Fall. Beim Schafkopf ist es aber etwas schwieriger, weil man allein gegen drei Spieler antreten muss...  
