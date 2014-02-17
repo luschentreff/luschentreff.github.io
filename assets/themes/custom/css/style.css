@@ -246,3 +246,31 @@ a.fa:hover {
   color: #83776D;
   margin-right:6px;
 }
+
+.page-navigation {
+  width: 100%;
+}
+
+.page-navigation.affix {
+  margin-top:-100px;
+}
+
+@media (min-width: 992px) {
+  .page-navigation {
+    width:242px;
+  }
+}
+
+@media (min-width: 1199px) {
+  .page-navigation {
+    width:262px;
+  }
+}
+
+@media (max-width: 992px) {
+  .page-navigation.affix {
+    position:static;
+    display:block;
+    margin-top:0 !important;
+  }
+}
