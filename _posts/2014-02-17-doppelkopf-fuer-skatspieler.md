@@ -22,8 +22,8 @@ Die Kartenreihenfolge unterscheidet sich auch noch ein wenig.
 
 Bei einem Normalspiel, also wenn kein Spieler ein Solo ansagt, dann sind die Karten wie folgt der Rangfolge nach sortiert:
  
-<div class="card-icon by HX">&nbsp;</div>
-<div class="card-icon by HX">&nbsp;</div>
+<div class="card-icon by HA">&nbsp;</div>
+<div class="card-icon by HA">&nbsp;</div>
 <div class="card-icon by EO">&nbsp;</div>
 <div class="card-icon by EO">&nbsp;</div>
 <div class="card-icon by GO">&nbsp;</div>
@@ -76,8 +76,8 @@ Bei einem Normalspiel, also wenn kein Spieler ein Solo ansagt, dann sind die Kar
 <div class="card-icon by G8">&nbsp;</div>
 <div class="card-icon by G7">&nbsp;</div>
 <div class="card-icon by G7">&nbsp;</div>
-<div class="card-icon by HA">&nbsp;</div>
-<div class="card-icon by HA">&nbsp;</div>
+<div class="card-icon by HX">&nbsp;</div>
+<div class="card-icon by HX">&nbsp;</div>
 <div class="card-icon by HK">&nbsp;</div>
 <div class="card-icon by HK">&nbsp;</div>
 <div class="card-icon by H9">&nbsp;</div>
@@ -153,9 +153,8 @@ Erreicht die Gewinnerpartei 120, 90, 60, beziehungsweise 30 Augen gegen die jewe
 
 Ok, ok das reicht, learning by doing, bevor der Spielspaß in der Theorie erstickt. Hier noch ein paar hilfreiche Links:
 
-* Kostenlos online Doppelkopf üben: [www.fuchstreff.de](www.fuchstreff.de)
-* Alle Regeln nochmal genau nachlesen: [http://de.wikipedia.org/wiki/Doppelkopf](http://de.wikipedia.org/wiki/Doppelkopf)
-* Alle Beiträge im Luschentreff zum Thema Doppelkopf:    
- [Luschentreff &hearts; Doko](http://luschentreff.de/tags#doppelkopf-ref)
+Kostenlos online Doppelkopf üben: [www.fuchstreff.de](www.fuchstreff.de)
+Alle Regeln nochmal genau nachlesen: [http://de.wikipedia.org/wiki/Doppelkopf](http://de.wikipedia.org/wiki/Doppelkopf)
+Alle Beiträge im Luschentreff zum Thema Doppelkopf: [Luschentreff <3 Doko](http://luschentreff.de/tags#doppelkopf-ref)
 
 
