@@ -4,6 +4,8 @@
   width: 21px;
   height: 29px;
   background-repeat: no-repeat;
+  margin-right:2px;
+  margin-bottom:2px;
 }
 
 .card-icon.at { background-image: url("../images/card-icons_at.png"); }
