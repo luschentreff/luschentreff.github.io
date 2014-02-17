@@ -155,6 +155,6 @@ Ok, ok das reicht, learning by doing, bevor der Spielspaß in der Theorie erstic
 
 Kostenlos online Doppelkopf üben: [www.fuchstreff.de](www.fuchstreff.de)
 Alle Regeln nochmal genau nachlesen: [http://de.wikipedia.org/wiki/Doppelkopf](http://de.wikipedia.org/wiki/Doppelkopf)
-Alle Beiträge im Luschentreff zum Thema Doppelkopf: [Luschentreff <3 Doko](http://luschentreff.de/tags#doppelkopf-ref)
+Alle Beiträge im Luschentreff zum Thema Doppelkopf: [Luschentreff &hearts; Doko](http://luschentreff.de/tags#doppelkopf-ref)
 
 
