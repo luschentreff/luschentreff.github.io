@@ -4,13 +4,121 @@
  <title>Luschentreff</title>
  <link href="http://luschentreff.github.io/" rel="self"/>
  <link href="http://luschentreff.github.io"/>
- <updated>2014-02-17T12:01:17+01:00</updated>
+ <updated>2014-02-17T13:31:48+01:00</updated>
  <id>http://luschentreff.github.io</id>
  <author>
    <name>Lusche</name>
    <email>blah@email.test</email>
  </author>
 
+ 
+ <entry>
+   <title>Doppelkopf für Skatspieler</title>
+   <link href="http://luschentreff.github.io/doppelkopf-fuer-skatspieler"/>
+   <updated>2014-02-17T00:00:00+01:00</updated>
+   <id>http://luschentreff.github.io/doppelkopf-fuer-skatspieler</id>
+   <content type="html">&lt;p&gt;Stell Dir vor Du spielst Skat, bist aber immer Gegenspieler. So muss man sich das beim Doppelkopf vorstellen, denn da ist es die absolute Ausnahme, dass man Alleinspieler ist. Und wenn, dann muss man allein gegen drei antreten, was die Sache sehr erschwert.&lt;/p&gt;
+
+&lt;p&gt;Dann gibt es noch jede Karte doppelt, also &lt;strong&gt;64 Karten&lt;/strong&gt;, bzw. 16 Karten pro Person, weshalb es anfangs nicht ganz einfach ist alle Karten auf der Hand zu halten.&lt;/p&gt;
+
+&lt;p&gt;Es wird auch nicht gereizt, sondern nur reihum gefragt wer &lt;strong&gt;gesund&lt;/strong&gt; ist. Gesund ist man beim Doppelkopf dann, wenn man nicht so ein Brett auf der Hand hat, dass man gegen die anderen drei allein gewinnen könnte. Sind alle Spieler gesund, also hat keiner so gute Karten, dass er gegen drei Spieler gewinnt, wird ein &lt;strong&gt;Normalspiel&lt;/strong&gt; gespielt. Normalspiel bedeutet, dass jeweils zwei Spieler gegeneinander spielen. Wer mit wem ist am Anfang aber noch unklar, denn es spielen immer die zwei zusammen, die die Kreuz-Damen auf der Hand halten, aber das darf natürlich nicht (verbal) verraten werden (die Mitspieler erkennen sich durch Spielkonventionen, also ob Trumpf ausgespielt wird, oder Fehl).&lt;/p&gt;
+
+&lt;p&gt;Die Kartenreihenfolge unterscheidet sich auch noch ein wenig.&lt;/p&gt;
+
+&lt;h2 id=&quot;das_blatt&quot;&gt;Das Blatt&lt;/h2&gt;
+
+&lt;p&gt;Bei einem Normalspiel, also wenn kein Spieler ein Solo ansagt, dann sind die Karten wie folgt der Rangfolge nach sortiert:&lt;/p&gt;
+&lt;div class=&#39;card-icon by HA&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by HA&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by EO&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by EO&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by GO&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by GO&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by HO&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by HO&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by SO&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by SO&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by EU&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by EU&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by GU&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by GU&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by HU&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by HU&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by SU&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by SU&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by SA&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by SA&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by SX&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by SX&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by SK&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by SK&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by S9&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by S9&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by S8&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by S8&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by S7&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by S7&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by EA&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by EA&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by EX&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by EX&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by EK&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by EK&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by E9&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by E9&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by E8&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by E8&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by E7&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by E7&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by GA&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by GA&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by GX&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by GX&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by GK&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by GK&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by G9&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by G9&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by G8&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by G8&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by G7&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by G7&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by HX&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by HX&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by HK&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by HK&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by H9&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by H9&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by H8&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by H8&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by H7&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon by H7&#39;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;p&gt;Es gibt sehr viel mehr Trümpfe beim Doppelkopf als beim Skat. Welche Karten Trumpf sind und welche nicht variiert stark nach dem angesagten Spiel (ähnlich wie beim Grand, da sind nur die Buben Trumpf, beim Farbspiel die Buben und eine Farbe).&lt;/p&gt;
+
+&lt;h2 id=&quot;die_spielarten&quot;&gt;Die Spielarten&lt;/h2&gt;
+
+&lt;p&gt;Beim Doppelkopf gibt es sehr viele verschiedenen Regeln. Um alles etwas einfacher zu machen, hat der Deutsche Doppelkopfverband (DDV) Regeln eingeführt, die bei offiziellen Veranstaltungen angewandt werden, trotzdem gibt es noch ein paar Kneipenregeln, die stark verbreitet sind. Es wird also zwischen Regeln nach DDV und Kneipenregeln unterschieden.&lt;/p&gt;
+
+&lt;h3 id=&quot;nach_ddvregeln&quot;&gt;Nach DDV-Regeln&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Normalspiel&lt;/strong&gt;, Kartenreihenfolge: Herz 10, die Damen, die Buben, alle Karo, alle Nichttrümpfe&lt;/p&gt;
+
+&lt;p&gt;Bei einem Solo-Spiel kann der Solist wählen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bubensolo&lt;/strong&gt; (quasi ein Grand, aber vorsicht es gibt 8 Buben, ein häufiger Fehler von Skatspielern beim Doppelkopf ist ein Bubensolo mit 3 Buben spielen zu wollen)&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Damensolo&lt;/strong&gt; (wie das Bubensolo/Grand nur der Damen statt Buben als Trumpf)&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Farbsolo&lt;/strong&gt; (wie beim Normalspiel nur dass statt Karo auch eine andere Trumpffarbe gewählt werden kann)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Eine Besonderheit gibt es noch, denn &lt;strong&gt;wenn ein Spieler beide Kreuz-Damen auf der Hand hält&lt;/strong&gt;, kann es ja nicht zu einem Normalspiel kommen. Deswegen gibt es die &lt;strong&gt;Hochzeit&lt;/strong&gt;. Sagt der Spieler,der beide Kreuz-Damen auf der Hand hält die Hochzeit an (meldet sich also nicht gesund), dann spielt er mit dem Spieler, der den ersten Stich gewinnt zusammen (außer er macht selbst die ersten drei Stiche, dann muss er allein spielen). Sagt er keine Hochzeit an, sondern meldet sich gesund, dann spielt er eine &lt;strong&gt;stille Hochzeit&lt;/strong&gt;, niemand außer ihm weiß, dass er allein spielt.&lt;/p&gt;
+
+&lt;h3 id=&quot;nach_regional_unterschiedlichen_kneipenregeln&quot;&gt;Nach regional unterschiedlichen Kneipen-Regeln&lt;/h3&gt;
+
+&lt;p&gt;Es gibt noch zahlreiche andere Spielvarianten, die zwar nicht nach den offiziellen Regeln des DDV (Deutschen Doppelkopfverbands) sind, aber mindestens so geläufig, wie Re, Kontra und Bockrunden beim Skat. Am verbreitesten sind&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Armut&lt;/strong&gt; (ein Spieler hat drei oder weniger Trumpf, ein anderer so gute Karten dass er sein Partner sein will und die beiden tauschen drei Karten aus)&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Schweinchen&lt;/strong&gt; (ein Spieler hat beide Karo-Asse, die werden zu den stärksten Trümpfen, noch stärker als die Herz-10)&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Zweite Dulle sticht&lt;/strong&gt; (wurde noch nicht verraten, aber der stärkste Trumpf die Herz-10 nennt man beim Doppelkopf &lt;strong&gt;Dulle&lt;/strong&gt; und normalerweise gewinnt die zuerst ausgespielte Karte, mit dieser Regel wird bei der Herz-10 eine Ausnahme gemacht und es gewinnt die zweite)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gemeinsamkeit_skatdoppelkopf&quot;&gt;Gemeinsamkeit Skat-Doppelkopf&lt;/h2&gt;
+
+&lt;p&gt;Ist das Spiel erstmal angesagt, kommt auf den Skatspieler nicht mehr viel Neues. Folgend die Gemeinsamkeiten beim Spielablauf:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vorhand kommt raus&lt;/li&gt;
+
+&lt;li&gt;Es muss bedient werden. Wer Farbe hat muss Farbe bekennen, wer Trumpf hat muss Trumpf bekennen. Wer frei ist darf mit Trumpf stechen, schmieren oder abwerfen&lt;/li&gt;
+
+&lt;li&gt;Die Karten haben den gleichen Wert. Ass hat 11 Augen, Zehn zehn, König vier, usw.&lt;/li&gt;
+
+&lt;li&gt;Die Stiche der Parteien werden zusammen gezählt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;besonderheiten_und_tips_und_tricks&quot;&gt;Besonderheiten und Tips und Tricks&lt;/h2&gt;
+
+&lt;h3 id=&quot;re_und_kontra&quot;&gt;Re und Kontra&lt;/h3&gt;
+
+&lt;p&gt;Die Spieler mit den Kreuz-Damen bilden die Re-Partei. Oder der Alleinspieler beim Solo. Die Gegenspieler sind die Kontra-Partei. Die Re-Partei darf &lt;strong&gt;Re&lt;/strong&gt; ansagen und die Kontra-Partei &lt;strong&gt;Kontra&lt;/strong&gt;. Das ist ähnlich wie beim Skat, wenn man sich sicher ist, dass man gewinnt, kann Re Re sagen und Kontra Kontra. Wer sich noch sicherer ist, kann beim Doppelkopf noch Keine-90 (Punkte), Keine-60 (Punkte), Keine-30 (Punkte) und schwarz &lt;strong&gt;absagen&lt;/strong&gt;. Ansagen kann man die ersten drei Stiche machen, der Absagezeitpunkt verschiebt sich pro Absagestufe immer um einen Stich weiter nach hinten.&lt;/p&gt;
+
+&lt;h3 id=&quot;partnerfindung&quot;&gt;Partnerfindung&lt;/h3&gt;
+
+&lt;p&gt;Am Anfang ist die Partnerschaft noch ungeklärt, weshalb natürlich alle Spieler großes Interesse daran haben ihren Partner zu (er-)kennen, aber dafür nicht unbedingt ihre zweitstärksten Karten leichtfertig hergeben möchten. Deswegen gibt es beim Doppelkopf Konventionen (ungeschriebene Regeln), die dabei helfen, dass die Mitspieler sich schneller finden. Dabei gibt es allgemein bekannte und klar erlaubte Konventionen (&lt;a href=&quot;https://www.fuchstreff.de/hilfe#39-die-20-goldenen-doppelkopf-regeln&quot;&gt;“Kontra schmiert, wo Re sich ziert”&lt;/a&gt;) und die Konventionen des sogenannten &lt;a href=&quot;http://de.wikipedia.org/wiki/Essener_System&quot;&gt;“Essener Systems”&lt;/a&gt;, bei dem u.a. ein absichtliches Zögern vor dem Ausspiel einer Karte dem Partner Hinweise liefert.&lt;/p&gt;
+
+&lt;h3 id=&quot;spielabrechnung&quot;&gt;Spielabrechnung&lt;/h3&gt;
+
+&lt;p&gt;Die Spielabrechnung ist recht komplex, da es jede Menge Variablen und Sonderpunkte gibt. Beim online spielen kann man sich auf den Computer verlassen, der weiß was er tut. Hier der Vollständigkeit kurz und knapp wie es vor sich geht:&lt;/p&gt;
+
+&lt;p&gt;Der Spielwert wird in Punkten ausgedrückt, die Gewinnerpartei bekommt Pluspunkte, Verliererpartei Minuspunkte. Durch die Sonderpunkte kann aber auch die Gewinnerpartei Punkte abgezogen bekommen, und die Verliererpartei Punkte gutgeschrieben. Bei einem Solos wird die Punktzahl für den Alleinspieler verdreifacht.&lt;/p&gt;
+
+&lt;p&gt;Für ein gewonnenes Spiel ist der Grundwert ein Punkt. Werden die Verlierer unter 90 Augen, 60, 30 oder sogar schwarz gespielt, bekommt die Gewinnerpartei jeweils einen Punkt zusätzlich. Gibt es keinen Gewinner (wenn beide Parteien 121 Augen haben), werden nur die zusätzlichen Punkte an die Partei verteilt, die die Gegenpartei unter 90, 60 beziehungsweise 30 gespielt hat.&lt;/p&gt;
+
+&lt;p&gt;Erreicht die Gewinnerpartei 120, 90, 60, beziehungsweise 30 Augen gegen die jeweilige Absage von der Verliererpartei, bekommt sie jeweils einen Punkt zusätzlich. Diese Punkte werden auch dann vergeben, wenn es keinen Gewinner gibt, aber die entsprechenden Augenzahlen gegen die entsprechenden Ansagen gewonnen wurden.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dann gibt es noch die Möglichkeit für jeweils einen Sonderpunkt (die lohnt es sich genauer anzuschauen, da man die sich im Spiel abholen kann!)&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gegen die Kreuz-Damen gewinnen&lt;/li&gt;
+
+&lt;li&gt;Doppelkopfstich: ein Stich mit einem Wert von mindestens 40 Augen&lt;/li&gt;
+
+&lt;li&gt;Fuchs fangen: wenn man mit einem Stich ein Karo-Ass von dem Gegner bekommt&lt;/li&gt;
+
+&lt;li&gt;Karlchen: wenn der letzte Stich mit einem Kreuz-Buben gewonnen (!) wird&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ok, ok das reicht, learning by doing, bevor der Spielspaß in der Theorie erstickt. Hier noch ein paar hilfreiche Links:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kostenlos online Doppelkopf üben: &lt;a href=&quot;www.fuchstreff.de&quot;&gt;www.fuchstreff.de&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Alle Regeln nochmal genau nachlesen: &lt;a href=&quot;http://de.wikipedia.org/wiki/Doppelkopf&quot;&gt;http://de.wikipedia.org/wiki/Doppelkopf&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Alle Beiträge im Luschentreff zum Thema Doppelkopf: &lt;br /&gt;&lt;a href=&quot;http://luschentreff.de/tags#doppelkopf-ref&quot;&gt;Luschentreff ♥ Doko&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+ </entry>
  
  <entry>
    <title>Die Gemeinsamkeit ist Trumpf</title>
