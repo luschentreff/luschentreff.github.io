@@ -4,6 +4,7 @@ title: Der Luschentreff stellt sich vor
 description: Die Seite Luschentreff stellt sich vor. Ein großes Hallo im ersten Blog-Post!
 categories: kartenspielen
 tags: [news, schafkopf, doppelkopf, skat, schnapsen, hallo]
+author: Cliff
 ---
 {% include JB/setup %}
 

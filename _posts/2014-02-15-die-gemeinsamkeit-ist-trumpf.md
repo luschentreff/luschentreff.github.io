@@ -4,6 +4,7 @@ title: Die Gemeinsamkeit ist Trumpf
 description: Im Luschentreff dreht sich alles ums Kartenspielen. Hier zeigen wir, wie ähnlich sich Schafkopf, Doppelkopf, Skat und Schnapsen sind.
 category: kartenspielen
 tags: [schafkopf, doppelkopf, skat, schnapsen, trumpf, atout, blatt]
+author: Cliff
 ---
 {% include JB/setup %}
 

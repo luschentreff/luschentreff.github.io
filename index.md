@@ -41,7 +41,7 @@ group: navigation
           {% endcase %}
           {{ post.date | date: "%Y" }}
         </span><br />
-        <span>Cliff</span>
+        <span>{{ post.author }}</span>
         <div class="social-media">
           <a href="https://plus.google.com/share?url=http://www.luschentreff.de" class="fa fa-google-plus" target="_blank">&nbsp;</a>
           <a href="http://www.facebook.com/sharer.php?u=www.luschentreff.de" class="fa fa-facebook-square" target="_blank">&nbsp;</a>
