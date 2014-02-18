@@ -9,19 +9,16 @@ description: ""
 
 Der Luschentreff ist ein Angebot der:
 
-Sauspiel GmbH
-Reichenbergerstr. 113a
+Sauspiel GmbH     
+Reichenbergerstr. 113a     
 10999 Berlin
 
-Email: hilfe@sauspiel.de
-
+Email: hilfe@sauspiel.de    
 Internet: www.sauspiel.de
 
-Umsatzsteuer-Identifikationsnummer: DE256047954
-
-Steuernummer: 29/014/05394
-
-Handelsregisternummer: HRB 131781 B
+Umsatzsteuer-Identifikationsnr.: DE256047954,     
+Steuernr.: 29/014/05394,     
+Handelsregisternr.: HRB 131781 B    
 
 Geschäftsführung: Agnes Reissner & Martin Kavalar
 
