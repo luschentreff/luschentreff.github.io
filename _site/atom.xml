@@ -4,7 +4,7 @@
  <title>Luschentreff</title>
  <link href="http://luschentreff.github.io/" rel="self"/>
  <link href="http://luschentreff.github.io"/>
- <updated>2014-02-24T10:52:50+01:00</updated>
+ <updated>2014-02-24T10:59:28+01:00</updated>
  <id>http://luschentreff.github.io</id>
  <author>
    <name>Lusche</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Skat für Doppelkopfspieler</title>
-   <link href="http://luschentreff.github.io/skat-fuer-doppelkopfspieler"/>
+   <link href="http://luschentreff.github.io/:categories/skat-fuer-doppelkopfspieler"/>
    <updated>2014-02-24T00:00:00+01:00</updated>
-   <id>http://luschentreff.github.io/skat-fuer-doppelkopfspieler</id>
+   <id>http://luschentreff.github.io/:categories/skat-fuer-doppelkopfspieler</id>
    <content type="html">&lt;p&gt;Erstmal die gute Nachricht: halb so viele Karten. Das bedeutet: selbst als Kartenhalter keine Probleme. Und: nur halb so schwer mitzuzählen und sich zu merken, welche Karten noch im Spiel sind. Dann noch eine gute Nachricht: es werden ständig Solos gespielt, und nur gegen zwei statt gegen drei Spieler. &lt;br /&gt;Es gibt einen Skat, das sind die zwei Karten die beim Verteilen von 32 Karten auf 3 Spieler übrig bleiben und den bekommt der der alleine spielt. Dieser kann die zwei Karten gegen beliebige zwei andere Karten austauschen, oder auch ungesehen liegen lassen. Auch nicht so schwer.&lt;/p&gt;
 
 &lt;p&gt;Das schwierige am Skat ist &lt;strong&gt;DAS REIZEN&lt;/strong&gt;. Das ist eben nicht so einfach. Aber fangen wir einfach mal an.&lt;/p&gt;

@@ -5,7 +5,7 @@ description: "Eine einfache Einführung in das Doppelkopfspiel, extra für Skats
 category: doppelkopf
 tags: [skat, doppelkopf, regelkunde]
 author: Cliff
-permalink: doppelkopf-fuer-skatspieler
+permalink: /doppelkopf/doppelkopf-fuer-skatspieler
 ---
 {% include JB/setup %}
 
