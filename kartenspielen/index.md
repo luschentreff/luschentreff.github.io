@@ -15,7 +15,7 @@ group: navigation
     </ul>
   </div>
 
-  <p>Alle Beiträge zum Thema Kartenspiele:</p>
+  <p>Alle Beiträge zum Thema Kartenspielen:</p>
 </div>
 
 <div class="posts col-md-12">

@@ -5,7 +5,7 @@ description: "Hier finden Doppelkopfspieler eine Anleitung zum Skatspielen."
 category: skat
 tags: [doppelkopf, skat, regelkunde, reizen, skat-lernen]
 author: Cliff
-permalink: skat-fuer-doppelkopfspieler
+permalink: /:categories/skat-fuer-doppelkopfspieler
 ---
 {% include JB/setup %}
 

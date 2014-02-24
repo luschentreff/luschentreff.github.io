@@ -19,7 +19,7 @@ group: navigation
 </div>
 
 <div class="posts col-md-12">
-  <p>Hier werden in Zukunft Beiträge folgen, die sich dem Thema Skat widmen</p>
+  <p>Hier findest Du alle Beiträge, die sich dem Thema Skat widmen</p>
   {% for post in site.categories['skat'] %}
     <div class="article row">
       <div class="page-header col-md-12">
