@@ -5,10 +5,89 @@
         <description>Luschentreff - Lusche</description>
         <link>http://luschentreff.github.io</link>
         <link>http://luschentreff.github.io</link>
-        <lastBuildDate>2014-02-18T10:37:37+01:00</lastBuildDate>
-        <pubDate>2014-02-18T10:37:37+01:00</pubDate>
+        <lastBuildDate>2014-02-24T10:52:50+01:00</lastBuildDate>
+        <pubDate>2014-02-24T10:52:50+01:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Skat für Doppelkopfspieler</title>
+                <description>&lt;p&gt;Erstmal die gute Nachricht: halb so viele Karten. Das bedeutet: selbst als Kartenhalter keine Probleme. Und: nur halb so schwer mitzuzählen und sich zu merken, welche Karten noch im Spiel sind. Dann noch eine gute Nachricht: es werden ständig Solos gespielt, und nur gegen zwei statt gegen drei Spieler. &lt;br /&gt;Es gibt einen Skat, das sind die zwei Karten die beim Verteilen von 32 Karten auf 3 Spieler übrig bleiben und den bekommt der der alleine spielt. Dieser kann die zwei Karten gegen beliebige zwei andere Karten austauschen, oder auch ungesehen liegen lassen. Auch nicht so schwer.&lt;/p&gt;
+
+&lt;p&gt;Das schwierige am Skat ist &lt;strong&gt;DAS REIZEN&lt;/strong&gt;. Das ist eben nicht so einfach. Aber fangen wir einfach mal an.&lt;/p&gt;
+
+&lt;h2 id=&quot;spielarten&quot;&gt;Spielarten&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Vorweg&lt;/strong&gt;: Die Kartensortierung: Es gibt nur Solos. Das Farbsolo ist quasi das Normalspiel beim Skat. Da sind nur die Buben und die angesagte Farbe Trumpf, also nicht die Damen und nicht die Dullen. Dann kommt das Ass, 10, König, Dame, Luschen.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Farbspiel&lt;/strong&gt; ist dem Farbsolo verwandt. Der Gewinner &lt;strong&gt;DES REIZENS&lt;/strong&gt; darf sich aussuchen, welche Farbe außer den 4 (4 nicht 8!) Buben (keine Damen, keine Dullen, o.ä.) noch Trumpf ist&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Grand&lt;/strong&gt; ist das Bubensolo (4 nicht 8 Buben!) sonst keine weiteren Trümpfe&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Nullspiel&lt;/strong&gt;: Keine Trümpfe, die &lt;strong&gt;Buben und 10er werden eingereiht&lt;/strong&gt;, das bedeutet dass es eine neue Sortierung gibt: Ass, König, Dame, Bube, 10, 9, 8, 7. Derjenige, der das Nullspiel ansagt, darf KEINEN Stich gewinnen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;spielfindung_aka_das_reizen&quot;&gt;Spielfindung aka DAS REIZEN&lt;/h2&gt;
+
+&lt;p&gt;Erstmal hilft es sich &lt;strong&gt;DAS REIZEN&lt;/strong&gt; als Versteigerung vorzustellen. Es ist eine Auktion darum, wer allein spielen und die Spielart aussuchen darf.&lt;/p&gt;
+
+&lt;p&gt;Das läuft so ab, dass immer zwei sich solange Reizwerte (Gebote) nennen, bis einer nicht mehr mithalten kann. Dann wird der Dritte gefragt.&lt;/p&gt;
+
+&lt;p&gt;Der Reizwert hängt von den Karten die man hat bzw. davon ab, welches Spiel man ansagen und spielen möchte.&lt;/p&gt;
+
+&lt;h3 id=&quot;reizwert_errechnen&quot;&gt;Reizwert errechnen&lt;/h3&gt;
+
+&lt;p&gt;Die Rechnung für den Reizwert hat mehrere Faktoren:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Wie viele Buben habe ich bzw. habe ich nicht?&lt;/strong&gt; Noch genauer: Wie viele Buben habe ich fortlaufend bzw. wie viele Buben fehlen mir fortlaufend (fortlaufend heißt hier vom Kreuz-Buben bis zum Karo-Buben ohne Unterbrechung)?&lt;/p&gt;
+
+&lt;p&gt;Bsp ”&lt;strong&gt;Mit&lt;/strong&gt;” (wieviele Buben fortlaufend mit dem Kreuzbuben):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;* habe ich alle 4 Buben (Kreuz, Pik, Herz, Karo): Mit 4
+* habe ich die zwei stärksten Buben (Kreuz, Pik): Mit 2 
+* die zwei stärksten und den Karo Buben (Kreuz, Pik, Karo): Mit 2 
+  (da nicht fortlaufend!) &lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Bsp ”&lt;strong&gt;Ohne&lt;/strong&gt;” (wieviele Buben fehlen forlaufend bis zum Kreuzbuben):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;* habe ich keinen Buben ( - ): Ohne 4
+* habe ich nur den Karo Buben: Ohne 3
+* habe ich nur den Herz Buben: Ohne 2
+* den Herz- und den Karo-Buben: Ohne 2&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Wer ein Spiel spielt wird belohnt! Also immer “+1”&lt;/strong&gt; (zu dem Wert von oben addiert)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Die Werte von oben 1. und 2. werden addiert&lt;/strong&gt; (z.B. Mit 2 + 1 ) &lt;strong&gt;und ergeben einen Faktor (das zum “mal nehmen”)&lt;/strong&gt;. Es können unter Umständen noch weitere Punkte dazu kommen die dann auch noch in den Faktor reingerechnet werden, aber dazu später.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Das angesagte Spiel, bzw. die Spielfarbe ergibt den zweiten Faktor&lt;/strong&gt;. Die Spielarten und Farben haben einfach Werte zugeordnet bekommen. Das muss auswendig gelernt werden:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Farbspiel Karo: 9, Herz: 10, Pik: 11, Kreuz: 12
+Nullspiel: 23
+Grand: 24&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Also immer schön die Buben zählen, dann plus 1 und das ganze dann mit dem Spiel multiplizieren.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Ohne 3  +1 (im Skatjargon: Spiel 4) mal Farbspiel Pik: 11 
+macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Hand, Schneider/Schwarz angesagt, Schneider/Schwarz gewonnen&lt;/strong&gt; Bei 2. wurde gesagt, dass wenn man ein Spiel spielen würde man mit +1 belohnt wird. Dieser Wert kann noch erhöht werden, indem man ein “schwierigeres” Spiel ansagt oder spielt oder gewinnt. Wenn man z.B. den Skat (die zwei übriggebliebenen Karten, s.o.) ungesehen übernimmt und keine zwei Karten austauscht, oder wenn man vor dem Spiel sagt, dass man Schneider (Keine 30) oder schwarz gewinnt, oder indem man einfach Schneider oder schwarz gewinnt. Das kann alles jeweils zusätzlich ein +1 geben.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Überreizt&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Wenn man einen Reizwert nimmt und nach dem Spiel stellt sich heraus, dass man zu hoch gereizt hat, dann gibt es natürlich Ärger. Hier bedeutet das, dass man das Spiel verloren hat und zwar mindestens zu einem Wert, der gereizt wurde, aber auch mit dem Blatt hätte gereizt werden können. Das passiert manchmal wenn man Hand spielt (den Skat aus der Mitte nicht anschaut) und da ein Bube drin liegt und man dann eben nicht “ohne 3” spielt sondern plötzlich “mit 1”.&lt;/p&gt;
+
+&lt;p&gt;Alles nicht so kompliziert, wenn man das System mit den Bubenzählen verstanden hat. Wem das zu schnell ging, kann getrost erstmal ein paar Runden &lt;a href=&quot;www.skatstube.de&quot;&gt;in der Skatstube online spielen&lt;/a&gt;, denn da gibt es einen Reizassistenten, der einem das Ausrechnen des Reizwerts dankbarerweise abnimmt. &lt;br /&gt;Oder, für die Theoretiker unter euch, nochmal ein wenig mehr Theorie:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://de.wikipedia.org/wiki/Skat&quot;&gt;Wikipedia, wie immer eine gute Anlaufadresse&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;https://www.skatstube.de/skat-lernen&quot;&gt;Der interaktive Lernbereich der Skatstube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+                <link>http://luschentreff.github.io/skat-fuer-doppelkopfspieler</link>
+                <guid>http://luschentreff.github.io/skat-fuer-doppelkopfspieler</guid>
+                <pubDate>2014-02-24T00:00:00+01:00</pubDate>
+        </item>
 
         <item>
                 <title>Doppelkopf für Skatspieler</title>
