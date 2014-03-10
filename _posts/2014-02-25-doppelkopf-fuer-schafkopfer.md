@@ -20,7 +20,7 @@ Erstmal zu den Karten, hier die Farben:
 <i class="symbol by E">&nbsp;</i> Eichel = <i class="symbol fr E">&nbsp;</i> Kreuz
 <i class="symbol by G">&nbsp;</i> Gras = <i class="symbol fr G">&nbsp;</i> Pik
 <i class="symbol by H">&nbsp;</i> Herz = <i class="symbol fr H">&nbsp;</i> Herz
-<i class="symbol by S">&nbsp;</i> Karo = <i class="symbol fr S">&nbsp;</i> Karo
+<i class="symbol by S">&nbsp;</i> Schelle = <i class="symbol fr S">&nbsp;</i> Karo
 
 Ober = Dame, 3 Augen (fast höchster Trumpf, also fast wie beim Schafkopf)  
 Unter = Bube, 2 Augen (fast weithöchster Trumpf, fast wie beim Schafkopf)   
