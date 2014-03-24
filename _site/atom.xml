@@ -4,7 +4,7 @@
  <title>Luschentreff</title>
  <link href="http://luschentreff.github.io/" rel="self"/>
  <link href="http://luschentreff.github.io"/>
- <updated>2014-03-24T17:16:35+01:00</updated>
+ <updated>2014-03-24T17:19:21+01:00</updated>
  <id>http://luschentreff.github.io</id>
  <author>
    <name>Lusche</name>
@@ -586,7 +586,7 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Der Spielwert wird in Punkten ausgedrückt, die Gewinnerpartei bekommt Pluspunkte, Verliererpartei Minuspunkte. Durch die Sonderpunkte kann aber auch die Gewinnerpartei Punkte abgezogen bekommen, und die Verliererpartei Punkte gutgeschrieben. Bei einem Solos wird die Punktzahl für den Alleinspieler verdreifacht.&lt;/p&gt;
 
-&lt;p&gt;Für ein gewonnenes Spiel ist der Grundwert ein Punkt. Werden die Verlierer unter 90 Augen, 60, 30 oder sogar schwarz gespielt, bekommt die Gewinnerpartei jeweils einen Punkt zusätzlich. Gibt es keinen Gewinner (wenn beide Parteien 121 Augen haben), werden nur die zusätzlichen Punkte an die Partei verteilt, die die Gegenpartei unter 90, 60 beziehungsweise 30 gespielt hat.&lt;/p&gt;
+&lt;p&gt;Für ein gewonnenes Spiel ist der Grundwert ein Punkt. Werden die Verlierer unter 90 Augen, 60, 30 oder sogar schwarz gespielt, bekommt die Gewinnerpartei jeweils einen Punkt zusätzlich. Gibt es keinen Gewinner (wenn beide Parteien 120 Augen haben), werden nur die zusätzlichen Punkte an die Partei verteilt, die die Gegenpartei unter 90, 60 beziehungsweise 30 gespielt hat.&lt;/p&gt;
 
 &lt;p&gt;Erreicht die Gewinnerpartei 120, 90, 60, beziehungsweise 30 Augen gegen die jeweilige Absage von der Verliererpartei, bekommt sie jeweils einen Punkt zusätzlich. Diese Punkte werden auch dann vergeben, wenn es keinen Gewinner gibt, aber die entsprechenden Augenzahlen gegen die entsprechenden Ansagen gewonnen wurden.&lt;/p&gt;
 
