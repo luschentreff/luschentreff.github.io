@@ -4,7 +4,7 @@
  <title>Luschentreff</title>
  <link href="http://luschentreff.github.io/" rel="self"/>
  <link href="http://luschentreff.github.io"/>
- <updated>2014-03-10T12:46:05+01:00</updated>
+ <updated>2014-03-24T17:16:35+01:00</updated>
  <id>http://luschentreff.github.io</id>
  <author>
    <name>Lusche</name>
@@ -279,7 +279,7 @@
 
 &lt;p&gt;Der Spielwert, also wie hoch gewonnen wurde wird in Punkten gemessen. Der Gewinner bekommt Pluspunkte, der Verlierer Minuspunkte. Durch die Sonderpunkte können aber auch der Gewinnerpartei Punkte abgezogen und der Verliererpartei Pluspunkte verrechnet werden. Beim Solos wird die Punktzahl für den Solisten verdreifacht, positiv aber auch negativ.&lt;/p&gt;
 
-&lt;p&gt;Für ein gewonnenes Spiel ist der Grundwert ein Punkt. Werden die Verlierer unter 90 Augen, 60, 30 oder sogar schwarz gespielt, bekommt die Gewinnerpartei jeweils einen Punkt zusätzlich. Gibt es keinen Gewinner (wenn beide Parteien 121 Augen haben), werden nur die zusätzlichen Punkte an die Partei verteilt, die die Gegenpartei unter 90, 60 beziehungsweise 30 gespielt hat.&lt;/p&gt;
+&lt;p&gt;Für ein gewonnenes Spiel ist der Grundwert ein Punkt. Werden die Verlierer unter 90 Augen, 60, 30 oder sogar schwarz gespielt, bekommt die Gewinnerpartei jeweils einen Punkt zusätzlich. Gibt es keinen Gewinner (wenn beide Parteien 120 Augen haben), werden nur die zusätzlichen Punkte an die Partei verteilt, die die Gegenpartei unter 90, 60 beziehungsweise 30 gespielt hat.&lt;/p&gt;
 
 &lt;p&gt;Erreicht die Gewinnerpartei 120, 90, 60, beziehungsweise 30 Augen gegen die jeweilige Absage von der Verliererpartei, bekommt sie jeweils einen Punkt zusätzlich. Diese Punkte werden auch dann vergeben, wenn es keinen Gewinner gibt, aber die entsprechenden Augenzahlen gegen die entsprechenden Ansagen gewonnen wurden.&lt;/p&gt;
 
@@ -920,7 +920,7 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h4 id=&quot;schnapsen_sechsundsechzig_bauernschnapsen&quot;&gt;Schnapsen, Sechsundsechzig, Bauernschnapsen:&lt;/h4&gt;
 
-&lt;p&gt;Jetzt wird’s kompliziert. Geben, Hören, Sagen: das ist die Reihenfolge. Der eine gibt die Karten, der zweite hört und zwar hört er die Gebote des dritten. Richtig Gebote, denn beim Skat wird versteigert, wer allein gegen die anderen beiden spielen darf. Und es gewinnt der mit dem höchsten Gebot. Die Skatspieler nennen das “Reizen” und das funktioniert so, dass man den Wert seiner Karten errechnet und dann wie auf einer Auktion die Werte der Reihe nach aufruft: Also der Dritte fragt den Zweiten “18” (der niedrigste Reiz-Wert), dann “20”, “22”, usw. bis einer der beiden Spieler weg sagt. Dann geht die Reihenfolge: Geben, Hören, Sagen, Weitersagen. Also der Geber fragt den der nicht weg gesagt hat, die nächsten Reiz-Gebote ab, bis nur noch einer übrig ist. Der mit dem höchsten Gebot gewinnt und darf sich das Spiel aussuchen. &lt;a href=&quot;www.skatstube.de/skat-lernen&quot;&gt;Ausführliche Erklärungen, wie die Spielfindung und das Reizen beim Skat funktioniert gibt es in der Skatstube.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Beim Schnapsen spielt man immer nur zu zweit und es gibt nur eine Spielart. Die beiden Spieler wechseln sich ab, wer zuerst ausspielen darf. &lt;br /&gt;Beim Bauernschnapsen ist es ähnlich wie beim Schafkopf und Doppelkopf, nur dass immer in festen Teams gespielt wird (die ausgelost werden). Selbst wenn ein Solospiel gespielt wird, werden die Punkte beiden Teamspielern gutgeschrieben. Auch beim Bauernschnapsen wird reihum gefragt wer spielen möchte und auch hier hat der Spieler, der weiter vorn sitzt das Vorrecht. &lt;a href=&quot;www.bummerl.at/hilfe&quot;&gt;Genauere Regeln zum Schnapsen und Bauernschnapsen findet ihr bei Bummerl.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;In den nächsten Beiträgen werden wir dann genauer auf die Unterschiede der einzelnen Spiele eingehen und versuchen, mithilfe eines schon bekannten Spiels die Regeln zu erklären.&lt;/p&gt;</content>
  </entry>
