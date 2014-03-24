@@ -142,7 +142,7 @@ Die Spielabrechnung ist recht komplex, da es jede Menge Variablen und Sonderpunk
 
 Der Spielwert wird in Punkten ausgedrückt, die Gewinnerpartei bekommt Pluspunkte, Verliererpartei Minuspunkte. Durch die Sonderpunkte kann aber auch die Gewinnerpartei Punkte abgezogen bekommen, und die Verliererpartei Punkte gutgeschrieben. Bei einem Solos wird die Punktzahl für den Alleinspieler verdreifacht.    
     
-Für ein gewonnenes Spiel ist der Grundwert ein Punkt. Werden die Verlierer unter 90 Augen, 60, 30 oder sogar schwarz gespielt, bekommt die Gewinnerpartei jeweils einen Punkt zusätzlich. Gibt es keinen Gewinner (wenn beide Parteien 121 Augen haben), werden nur die zusätzlichen Punkte an die Partei verteilt, die die Gegenpartei unter 90, 60 beziehungsweise 30 gespielt hat.    
+Für ein gewonnenes Spiel ist der Grundwert ein Punkt. Werden die Verlierer unter 90 Augen, 60, 30 oder sogar schwarz gespielt, bekommt die Gewinnerpartei jeweils einen Punkt zusätzlich. Gibt es keinen Gewinner (wenn beide Parteien 120 Augen haben), werden nur die zusätzlichen Punkte an die Partei verteilt, die die Gegenpartei unter 90, 60 beziehungsweise 30 gespielt hat.    
 
 Erreicht die Gewinnerpartei 120, 90, 60, beziehungsweise 30 Augen gegen die jeweilige Absage von der Verliererpartei, bekommt sie jeweils einen Punkt zusätzlich. Diese Punkte werden auch dann vergeben, wenn es keinen Gewinner gibt, aber die entsprechenden Augenzahlen gegen die entsprechenden Ansagen gewonnen wurden.
 
