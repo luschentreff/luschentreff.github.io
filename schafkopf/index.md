@@ -52,7 +52,6 @@ group: navigation
             {{ page.date | date: "%Y" }}
           </span><br />
           <span>Cliff</span>
-          <span>Cliff</span>
           <div class="social-media">
             <a href="https://plus.google.com/share?url=http://www.luschentreff.de" class="fa fa-google-plus" target="_blank">&nbsp;</a>
             <a href="http://www.facebook.com/sharer.php?u=www.luschentreff.de" class="fa fa-facebook-square" target="_blank">&nbsp;</a>
