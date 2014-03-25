@@ -141,7 +141,7 @@ Wie beim Schafkopf ist am Anfang die Partnerschaft noch ungeklärt. Aber beim Do
 
 ### Spielabrechnung
 
-Die Spielabrechnung ist kompliziert, da es viele Variablen und Sonderpunkte gibt. Hier alles sehr knapp zusammengefasst, wer mehr wissen will, kann sich z.B. [beim Fuchstreff im Lernbereich weitere Infos holen](www.fuchstreff.de/doppelkopf-lernen).
+Die Spielabrechnung ist kompliziert, da es viele Variablen und Sonderpunkte gibt. Hier alles sehr knapp zusammengefasst, wer mehr wissen will, kann sich z.B. [beim Fuchstreff im Lernbereich weitere Infos holen](https://www.fuchstreff.de/doppelkopf-lernen).
 
 Der Spielwert, also wie hoch gewonnen wurde wird in Punkten gemessen. Der Gewinner bekommt Pluspunkte, der Verlierer Minuspunkte. Durch die Sonderpunkte können aber auch der Gewinnerpartei Punkte abgezogen und der Verliererpartei Pluspunkte verrechnet werden. Beim Solos wird die Punktzahl für den Solisten verdreifacht, positiv aber auch negativ.    
     

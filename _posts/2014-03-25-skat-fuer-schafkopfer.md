@@ -121,6 +121,6 @@ Den Regeln nach darf man reizen so hoch mal will. Wenn aber am Ende klar wird, d
 
 Wenn ein zu oft verliert, dann nennt man das "Abreizen", weil man immer zu hoch reizt und die anderen nicht auch mal spielen lässt. Das ist böse und wird oft durch Zahlung von Abreizbeiträgen bestraft.
 
-Das war jetzt schon recht viel, aber wie immer heißt es Übung macht den Meister! Und es gibt eine gute Nachricht: [Wer in der Skatstube online Skat spielen und üben will](www.skatstube.de), dem nimmt der Computer das Reizen erstmal ab. Man wählt im Spiel das aus was man ansagen will und der Computer hilft beim Rechnen. Sonst gibt es noch [ausführliche Erklärungen im Skat-Lernbereich](https://www.skatstube.de/skat-lernen) und auch [bei Wikipedia findet sich viel zum Thema Skat](http://de.wikipedia.org/wiki/Skat). 
+Das war jetzt schon recht viel, aber wie immer heißt es Übung macht den Meister! Und es gibt eine gute Nachricht: [Wer in der Skatstube online Skat spielen und üben will](https://www.skatstube.de), dem nimmt der Computer das Reizen erstmal ab. Man wählt im Spiel das aus was man ansagen will und der Computer hilft beim Rechnen. Sonst gibt es noch [ausführliche Erklärungen im Skat-Lernbereich](https://www.skatstube.de/skat-lernen) und auch [bei Wikipedia findet sich viel zum Thema Skat](http://de.wikipedia.org/wiki/Skat). 
 
 Viel Spaß und lasst uns wissen, ob euch unsere Erklärung geholfen hat! 

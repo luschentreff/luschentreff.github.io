@@ -203,20 +203,20 @@ Atout (Trumpf) ist immer die Farbe, die die unterste Karte des Talons (Stapel de
 
 #### Schafkopf: 
 Reihum wird gefragt ob einer Spielen mag, entweder ein Partnerspiel - das Sauspiel - oder ein Solo - Wenz oder Farbsolo - allein gegen die anderen drei Spieler. Wenn einer ein Spiel hat, dass sagt er "I dad". Wenn ein Spiel angesagt wurde, kann danach nur noch ein Solospiel angesagt werden. Sagt also ein zweiter Spieler "I dad a", dann wird auf jeden Fall ein Solo gespielt. Der Erstansager hat noch die Möglichkeit zu erhöhen, denn er hat Vortritt, am Ende bekommt der das Spiel das am schwersten zu gewinnen ist: Sauspiel - Wenz - (Farb-)Solo - Wenz-Tout oder Solo-Tout (das Spiel muss schwarz gewonnen werden). Sagt keiner ein Spiel an wird zusammengeworfen (oder mit Sonderregeln ein Ramsch gespielt).
-[Um Schafkopf zu lernen am besten mal bei Sauspiel vorbeischauen.](www.sauspiel.de)
+[Um Schafkopf zu lernen am besten mal bei Sauspiel vorbeischauen.](https://www.sauspiel.de)
 
 #### Doppelkopf: 
 Reihum wird gefragt ob jeder Spieler gesund ist. Sind alles Spieler gesund wird ein Normalspiel gespielt. Gesund bedeutet beim Doppelkopf, dass die Karten nicht gut genug sind, um allein gegen die anderen drei Spieler zu spielen. Sind die Karten sehr gut, meldet man einen "Vorbehalt" an.
-[Alle Doppelkopf-Regeln und Hilfe um das Spiel zu lernen findet ihr im Fuchstreff.](www.fuchstreff.de/doppelkopf-lernen)
+[Alle Doppelkopf-Regeln und Hilfe um das Spiel zu lernen findet ihr im Fuchstreff.](https://www.fuchstreff.de/doppelkopf-lernen)
 
 #### Skat: 
 Jetzt wird's kompliziert. Geben, Hören, Sagen: das ist die Reihenfolge. Der eine gibt die Karten, der zweite hört und zwar hört er die Gebote des dritten. Richtig Gebote, denn beim Skat wird versteigert, wer allein gegen die anderen beiden spielen darf. Und es gewinnt der mit dem höchsten Gebot. Die Skatspieler nennen das "Reizen" und das funktioniert so, dass man den Wert seiner Karten errechnet und dann wie auf einer Auktion die Werte der Reihe nach aufruft: Also der Dritte fragt den Zweiten "18" (der niedrigste Reiz-Wert), dann "20", "22", usw. bis einer der beiden Spieler weg sagt. Dann geht die Reihenfolge: Geben, Hören, Sagen, Weitersagen. Also der Geber fragt den der nicht weg gesagt hat, die nächsten Reiz-Gebote ab, bis nur noch einer übrig ist. Der mit dem höchsten Gebot gewinnt und darf sich das Spiel aussuchen.
-[Ausführliche Erklärungen, wie die Spielfindung und das Reizen beim Skat funktioniert gibt es in der Skatstube.](www.skatstube.de/skat-lernen)
+[Ausführliche Erklärungen, wie die Spielfindung und das Reizen beim Skat funktioniert gibt es in der Skatstube.](https://www.skatstube.de/skat-lernen)
 
 #### Schnapsen, Sechsundsechzig, Bauernschnapsen: 
 Beim Schnapsen spielt man immer nur zu zweit und es gibt nur eine Spielart. Die beiden Spieler wechseln sich ab, wer zuerst ausspielen darf.    
 Beim Bauernschnapsen ist es ähnlich wie beim Schafkopf und Doppelkopf, nur dass immer in festen Teams gespielt wird (die ausgelost werden). Selbst wenn ein Solospiel gespielt wird, werden die Punkte beiden Teamspielern gutgeschrieben. Auch beim Bauernschnapsen wird reihum gefragt wer spielen möchte und auch hier hat der Spieler, der weiter vorn sitzt das Vorrecht. 
-[Genauere Regeln zum Schnapsen und Bauernschnapsen findet ihr bei Bummerl.](www.bummerl.at/hilfe)
+[Genauere Regeln zum Schnapsen und Bauernschnapsen findet ihr bei Bummerl.](https://www.bummerl.at/hilfe)
      
 
 In den nächsten Beiträgen werden wir dann genauer auf die Unterschiede der einzelnen Spiele eingehen und versuchen, mithilfe eines schon bekannten Spiels die Regeln zu erklären.

@@ -155,7 +155,7 @@ Erreicht die Gewinnerpartei 120, 90, 60, beziehungsweise 30 Augen gegen die jewe
 
 Ok, ok das reicht, learning by doing, bevor der Spielspaß in der Theorie erstickt. Hier noch ein paar hilfreiche Links:
 
-* Kostenlos online Doppelkopf üben: [www.fuchstreff.de](www.fuchstreff.de)
+* Kostenlos online Doppelkopf üben: [www.fuchstreff.de](https://www.fuchstreff.de)
 * Alle Regeln nochmal genau nachlesen: [http://de.wikipedia.org/wiki/Doppelkopf](http://de.wikipedia.org/wiki/Doppelkopf)
 * Alle Beiträge im Luschentreff zum Thema Doppelkopf:    
  [Luschentreff &hearts; Doko](http://luschentreff.de/tags#doppelkopf-ref)

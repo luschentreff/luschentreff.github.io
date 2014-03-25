@@ -75,6 +75,6 @@ Es gibt dann noch "**Laufende**" (wenn man vom stärksten Trumpf ab alle anderen
 
 Am besten einfach mal anfangen, so groß sind die Unterschiede zum Doppelkopf nicht.
 
-[Auf Sauspiel könnt ihr kostenlos online Schafkopf spielen](www.sauspiel.de) und wenn noch Fragen offen sind, schaut mal in der [Sauspiel-Hilfe](www.sauspiel.de/hilfe) oder bei [Wikipedia](http://de.wikipedia.org/wiki/Schafkopf) nach.    
-[Außerdem gibt es hier noch eine schöne Anleitung für Anfänger, die Schafkopf lernen wollen.](www.sauspiel.de/schafkopf-lernen)
+[Auf Sauspiel könnt ihr kostenlos online Schafkopf spielen](https://www.sauspiel.de) und wenn noch Fragen offen sind, schaut mal in der [Sauspiel-Hilfe](https://www.sauspiel.de/hilfe) oder bei [Wikipedia](http://de.wikipedia.org/wiki/Schafkopf) nach.    
+[Außerdem gibt es hier noch eine schöne Anleitung für Anfänger, die Schafkopf lernen wollen.](https://www.sauspiel.de/schafkopf-lernen)
 

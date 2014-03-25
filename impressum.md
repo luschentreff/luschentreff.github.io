@@ -13,7 +13,7 @@ Sauspiel GmbH
 Reichenbergerstr. 113a     
 10999 Berlin
 
-Email: hilfe@sauspiel.de    
+Email: hilfe at sauspiel.de    
 Internet: www.sauspiel.de
 
 Umsatzsteuer-Identifikationsnr.: DE256047954,     

@@ -77,7 +77,7 @@ Bei 2. wurde gesagt, dass wenn man ein Spiel spielen würde man mit +1 belohnt w
 Wenn man einen Reizwert nimmt und nach dem Spiel stellt sich heraus, dass man zu hoch gereizt hat, dann gibt es natürlich Ärger. Hier bedeutet das, dass man das Spiel verloren hat und zwar mindestens zu einem Wert, der gereizt wurde, aber auch mit dem Blatt hätte gereizt werden können. Das passiert manchmal wenn man Hand spielt (den Skat aus der Mitte nicht anschaut) und da ein Bube drin liegt und man dann eben nicht "ohne 3" spielt sondern plötzlich "mit 1".    
 
 
-Alles nicht so kompliziert, wenn man das System mit den Bubenzählen verstanden hat. Wem das zu schnell ging, kann getrost erstmal ein paar Runden [in der Skatstube online spielen](www.skatstube.de), denn da gibt es einen Reizassistenten, der einem das Ausrechnen des Reizwerts dankbarerweise abnimmt.    
+Alles nicht so kompliziert, wenn man das System mit den Bubenzählen verstanden hat. Wem das zu schnell ging, kann getrost erstmal ein paar Runden [in der Skatstube online spielen](https://www.skatstube.de), denn da gibt es einen Reizassistenten, der einem das Ausrechnen des Reizwerts dankbarerweise abnimmt.    
 Oder, für die Theoretiker unter euch, nochmal ein wenig mehr Theorie:
 
 * [Wikipedia, wie immer eine gute Anlaufadresse](http://de.wikipedia.org/wiki/Skat)
