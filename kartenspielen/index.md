@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Kartenspielen
+title: Alle Kartenspiele beim Luschentreff&#58; Schafkopf, Skat, Doppelkopf und Schnapsen 
+description: Wer sich für Kartenspielen interessiert, ist beim Luschentreff richtig. Hier kann man Spiele lernen, aber auch viele hilfreiche Tips bekommen.
 tagline: Hier sind alle Kartenspiele vereint
 group: navigation
 ---

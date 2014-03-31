@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Impressum"
-description: ""
+title: Luschentreff&#58; Impressum
+description: Luschentreff ist eine Seite übers Kartenspielen. Hier finden Schafkopfer, Skatspieler, Doppelkopfspieler und Schnapser viele hilfreiche Informationen.
 ---
 {% include JB/setup %}
 

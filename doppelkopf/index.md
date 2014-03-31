@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Doppelkopf
+title: Doppelkopf im Luschentreff&#58; Alle Beiträge zum Thema Doppelkopfspielen
+description: Alles zum Thema Doppelkopf&#63; Regeln für Anfänger, hilfreiche Tips für Spieler, die schon Erfahrungen gesammelt haben und nützliche Infos zu Treffen und Turniere
 tagline: Doppelkopfer hierher
 group: navigation
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Schafkopf
+title: Schafkopf im Luschentreff&#58; Alle Beiträge über Schafkopf
+description: Im Schafkopf-Bereich im Luschentreff gibt es jede Menge interessante Beiträge zum Schafkopf. 
 tagline: Schafkopfer hierher
 group: navigation
 ---
@@ -19,7 +20,7 @@ group: navigation
 </div>
 
 <div class="posts col-md-12">
-  <p>Hier werden in Zukunft Beiträge folgen, die sich dem Thema Schafkopf widmen</p>
+  
   {% for post in site.categories['schafkopf'] %}
     <div class="article row">
       <div class="page-header col-md-12">

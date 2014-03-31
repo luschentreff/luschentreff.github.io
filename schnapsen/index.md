@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Schnapsen
+title: Schnapsen und Bauernschnapsen im Luschentreff
+description: Hier finden Spieler und solche die es werden wollen viele hilfereiche Beiträge zum Schnapsen, Bauernschnapsen und Sechsundsechzig.
 tagline: Schnapser hierher
 group: navigation
 ---
@@ -19,7 +20,6 @@ group: navigation
 </div>
 
 <div class="posts col-md-12">
-  <p>Hier werden in Zukunft Beiträge folgen, die sich dem Thema Schnapsen widmen</p>
   {% for post in site.categories['schnapsen'] %}
     <div class="article row">
       <div class="page-header col-md-12">

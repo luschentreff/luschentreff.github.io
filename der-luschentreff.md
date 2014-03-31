@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Über Luschentreff"
-description: ""
+title: Luschentreff&#58; Was ist der Luschentreff&#63;
+description: Luschentreff ist eine Seite übers Kartenspielen. Hier finden Schafkopfer, Skatspieler, Doppelkopfspieler und Schnapser viele hilfreiche Informationen.
 ---
 {% include JB/setup %}
 

@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Skat
-tagline: Skatspieler hierher
+title: Skat im Luschentreff&#58; Alle Beiträge über Skat im Luschentreff
+description: Kartenspieler und Anfänger finden im Luschentreff viele hilfreiche Informationen zum Skat
+tagline: Der Bereich für Skatspieler und die, die es werden wollen
 group: navigation
 ---
 {% include JB/setup %}
@@ -19,7 +20,7 @@ group: navigation
 </div>
 
 <div class="posts col-md-12">
-  <p>Hier findest Du alle Beiträge, die sich dem Thema Skat widmen</p>
+  <p>Hier findest Du alle Informationen zum Skat</p>
   {% for post in site.categories['skat'] %}
     <div class="article row">
       <div class="page-header col-md-12">
@@ -51,7 +52,6 @@ group: navigation
             {% endcase %}
             {{ page.date | date: "%Y" }}
           </span><br />
-          <span>Cliff</span>
           <span>Cliff</span>
           <div class="social-media">
             <a href="https://plus.google.com/share?url=http://www.luschentreff.de" class="fa fa-google-plus" target="_blank">&nbsp;</a>
