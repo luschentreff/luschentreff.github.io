@@ -2,6 +2,10 @@
 layout: page
 title: Luschentreff&#58; Impressum
 description: Luschentreff ist eine Seite übers Kartenspielen. Hier finden Schafkopfer, Skatspieler, Doppelkopfspieler und Schnapser viele hilfreiche Informationen.
+sitemap:
+  priority: 0.7
+  changefreq: weekly
+  lastmod: 2014-04-07T10:56:19+02:00
 ---
 {% include JB/setup %}
 

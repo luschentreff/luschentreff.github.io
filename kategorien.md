@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Categories
-header: Posts By Category
+header: Alle Beiträge nach Kategorien sortiert
+sitemap:
+  priority: 0.7
+  changefreq: weekly
+  lastmod: 2014-04-07T10:56:19+02:00
 ---
 {% include JB/setup %}
 

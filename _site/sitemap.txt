@@ -12,6 +12,7 @@ http://luschentreff.github.io/rss.xml
 http://luschentreff.github.io/schafkopf/index.html
 http://luschentreff.github.io/schnapsen/index.html
 http://luschentreff.github.io/sitemap.txt
+http://luschentreff.github.io/sitemap.xml
 http://luschentreff.github.io/skat/index.html
 http://luschentreff.github.io/tags.html
 

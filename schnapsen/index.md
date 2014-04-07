@@ -4,6 +4,10 @@ title: Schnapsen und Bauernschnapsen im Luschentreff
 description: Hier finden Spieler und solche die es werden wollen viele hilfereiche Beiträge zum Schnapsen, Bauernschnapsen und Sechsundsechzig.
 tagline: Schnapser hierher
 group: navigation
+sitemap:
+  priority: 0.7
+  changefreq: weekly
+  lastmod: 2014-04-07T10:56:19+02:00
 ---
 {% include JB/setup %}
 

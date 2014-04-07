@@ -4,6 +4,10 @@ title: Skat im Luschentreff&#58; Alle Beiträge über Skat im Luschentreff
 description: Kartenspieler und Anfänger finden im Luschentreff viele hilfreiche Informationen zum Skat
 tagline: Der Bereich für Skatspieler und die, die es werden wollen
 group: navigation
+sitemap:
+  priority: 0.7
+  changefreq: weekly
+  lastmod: 2014-04-07T10:56:19+02:00
 ---
 {% include JB/setup %}
 

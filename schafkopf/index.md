@@ -4,6 +4,10 @@ title: Schafkopf im Luschentreff&#58; Alle Beiträge über Schafkopf
 description: Im Schafkopf-Bereich im Luschentreff gibt es jede Menge interessante Beiträge zum Schafkopf. 
 tagline: Schafkopfer hierher
 group: navigation
+sitemap:
+  priority: 0.7
+  changefreq: weekly
+  lastmod: 2014-04-07T10:56:19+02:00
 ---
 {% include JB/setup %}
 
