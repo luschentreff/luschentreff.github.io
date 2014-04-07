@@ -66,7 +66,7 @@ Noch genauer: Wie viele Buben habe ich **fortlaufend** bzw. wie viele Buben fehl
     * alle 4 Buben (Kreuz, Pik, Herz, Karo): Mit 4
     * die zwei stärksten Buben (Kreuz, Pik): Mit 2 
     * die zwei stärksten und den Karo Buben (Kreuz, Pik, Karo): Mit 2 
-      (**da nicht fortlaufend, der Herz Bube fehlt damit die Reihe nicht unterbrochen ist!**) 
+      (da nicht fortlaufend, der Herz Bube fehlt damit die Reihe nicht unterbrochen ist!) 
 
  Bsp "**Ohne**" (wieviele Buben fehlen forlaufend bis zum Kreuzbuben):
     
@@ -87,9 +87,9 @@ es werden keinen Karten ausgetauscht), ...
 Dieser Wert wird dann mit dem angesagten Spiel, bzw. der angesagten Trumpffarbe malgenommen (multipliziert)
 Die Spielarten und Farben haben einfach Werte zugeordnet bekommen, das muss auswendig gelernt werden:
 
-    **Farbspiel Karo: 9, Herz: 10, Pik: 11, Kreuz: 12**
-    **Nullspiel: 23**
-    **Grand: 24**
+    * Farbspiel Karo: 9, Herz: 10, Pik: 11, Kreuz: 12
+    * Nullspiel: 23
+    * Grand: 24
     
 
 #### Zwischenbilanz

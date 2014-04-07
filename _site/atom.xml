@@ -4,7 +4,7 @@
  <title>Luschentreff</title>
  <link href="http://luschentreff.de/" rel="self"/>
  <link href="http://luschentreff.de"/>
- <updated>2014-04-07T11:47:27+02:00</updated>
+ <updated>2014-04-07T12:12:15+02:00</updated>
  <id>http://luschentreff.de</id>
  <author>
    <name>Lusche</name>
@@ -17,47 +17,52 @@
    <link href="http://luschentreff.de/schnapsen/schnapsen-und-sechsundsechzig-lernen/"/>
    <updated>2014-03-31T00:00:00+02:00</updated>
    <id>http://luschentreff.de/schnapsen/schnapsen-und-sechsundsechzig-lernen</id>
-   <content type="html">&lt;p&gt;Schnapsen spielt man in Österreich, Sechsundsechzig in Deutschland. Aber eigentlich sind es die selben Spiele, die sich nur minimal unterscheiden. Hier werden erstmal die Gemeinsamkeiten erklärt.&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;Schnapsen spielt man in Österreich, Sechsundsechzig in Deutschland. Aber eigentlich sind es die selben Spiele, die sich nur minimal unterscheiden. Hier werden erstmal die Gemeinsamkeiten erklärt.&lt;/p&gt;
 
-&lt;h2 id=&quot;ziel_des_spiels&quot;&gt;Ziel des Spiels&lt;/h2&gt;
+&lt;h2 id=&quot;ziel-des-spiels&quot;&gt;Ziel des Spiels&lt;/h2&gt;
 
 &lt;p&gt;Bei beiden Spielen ist es Ziel durch Stiche oder Ansagen möglichst schnell 66 Augen zu machen. Wer zuerst 66 erreicht hat das Spiel gewonnen und für jedes gewonnene Spiel werden von 7 runterzählend ein bis drei Punkte abgezogen, je nachdem wieviele Augen der Gegner macht.&lt;/p&gt;
 
-&lt;h2 id=&quot;das_blatt&quot;&gt;Das Blatt&lt;/h2&gt;
+&lt;h2 id=&quot;das-blatt&quot;&gt;Das Blatt&lt;/h2&gt;
 
-&lt;p&gt;Je nach Region wird mit dem französischen oder dem doppeldeutschen Blatt gespielt. &lt;br /&gt;Sechsundsechzig spielt man mit 24 Karten und Schnapsen mit nur 20 Karten, weil man Schnapsen ohne 9er spielt.&lt;/p&gt;
+&lt;p&gt;Je nach Region wird mit dem französischen oder dem doppeldeutschen Blatt gespielt.  &lt;br /&gt;
+Sechsundsechzig spielt man mit 24 Karten und Schnapsen mit nur 20 Karten, weil man Schnapsen ohne 9er spielt.&lt;/p&gt;
 
-&lt;p&gt;Der Wert und die Rangfolge ist beim Schnapsen sehr ähnlich wie beim Schafkopf, Doppelkopf oder Skat:&lt;/p&gt;
+&lt;p&gt;Der Wert und die Rangfolge ist beim Schnapsen sehr ähnlich wie beim Schafkopf, Doppelkopf oder Skat:    &lt;/p&gt;
 
 &lt;p&gt;Ass (11 Augen), Zehn (10 Augen), König (4 Augen), Dame (3 Augen), Bube (2 Augen), Neun (0 Augen).&lt;/p&gt;
 
-&lt;h2 id=&quot;die_spielarten_und_trumpf&quot;&gt;Die Spielarten und Trumpf&lt;/h2&gt;
+&lt;h2 id=&quot;die-spielarten-und-trumpf&quot;&gt;Die Spielarten und Trumpf&lt;/h2&gt;
 
-&lt;p&gt;Beim Schnapsen gibt es keine Spielarten. Da man ja immer nur zu zweit eins gegen eins spielt, ist auch jedes Spiel ein Solo.&lt;/p&gt;
+&lt;p&gt;Beim Schnapsen gibt es keine Spielarten. Da man ja immer nur zu zweit eins gegen eins spielt, ist auch jedes Spiel ein Solo.    &lt;/p&gt;
 
 &lt;p&gt;Bei Sechsundsechzig werden jeweils 6 Karten, beim Schnapsen jeweils 5 Karten ausgeteilt. Was Trumpf (beim Schnapsen übrigens Atout genannt) ist, wird zufällig bestimmt, indem beim Austeilen die 7. aufgedeckt und dann halb unter den Stapel der nicht ausgeteilten Karten (beim Schnapsen auch Talon genannt) gelegt wird. Beim Sechsundsechzig gibt es ja mehr Karten, deswegen wird nicht die 7. sondern die 13. Karten aufgedeckt.&lt;/p&gt;
 
-&lt;h2 id=&quot;der_spielverlauf&quot;&gt;Der Spielverlauf&lt;/h2&gt;
+&lt;h2 id=&quot;der-spielverlauf&quot;&gt;Der Spielverlauf&lt;/h2&gt;
 
-&lt;p&gt;Am Anfang des Spiels herrscht weder Farb- noch Stichzwang. Das bedeutet, dass jeder Spieler jede Karte spielen kann, die er auf der Hand hat. Es gewinnt natürlich der Spieler den Stich, der die ranghöhere Karte legt, es kann jederzeit auch jederzeit Trumpf (Atout) gespielt und eine normale Karte abgestochen werden. Der Spieler, der den Stich gewonnen hat, nimmt die oberste Karte des Talons (Stapel der noch nicht verteilten Karten), der andere Spieler zieht als zweites die dann oberste Karte nach. Das geht solange bis der Talon aufgebraucht ist und alle Karten verteilt sind. Ab diesem Zeitpunkt gibt es dann Farb- und Stichzwang. Das bedeutet, dass man die Farbe bekennen/bedienen muss (das kennt man ja schon von anderen Spielen) und (ACHTUNG, das ist neu:) wenn man eine stärkere Karte hat muss die stärkere Karte gespielt werden. Wenn man die Farbe nicht hat, aber Trumpf (Atout), muss mit Trumpf gestochen werden. &lt;br /&gt;Zur Wiederholung: Solange nicht alle Karten verteilt sind, darf man vollkommen frei entscheiden, welche Karte man legen will. Wenn alle Karten verteilt sind, muss bekannt und gestochen werden.&lt;/p&gt;
+&lt;p&gt;Am Anfang des Spiels herrscht weder Farb- noch Stichzwang. Das bedeutet, dass jeder Spieler jede Karte spielen kann, die er auf der Hand hat. Es gewinnt natürlich der Spieler den Stich, der die ranghöhere Karte legt, es kann jederzeit auch jederzeit Trumpf (Atout) gespielt und eine normale Karte abgestochen werden.
+Der Spieler, der den Stich gewonnen hat, nimmt die oberste Karte des Talons (Stapel der noch nicht verteilten Karten), der andere Spieler zieht als zweites die dann oberste Karte nach. 
+Das geht solange bis der Talon aufgebraucht ist und alle Karten verteilt sind. Ab diesem Zeitpunkt gibt es dann Farb- und Stichzwang. Das bedeutet, dass man die Farbe bekennen/bedienen muss (das kennt man ja schon von anderen Spielen) und (ACHTUNG, das ist neu:) wenn man eine stärkere Karte hat muss die stärkere Karte gespielt werden. Wenn man die Farbe nicht hat, aber Trumpf (Atout), muss mit Trumpf gestochen werden.   &lt;br /&gt;
+Zur Wiederholung: Solange nicht alle Karten verteilt sind, darf man vollkommen frei entscheiden, welche Karte man legen will. Wenn alle Karten verteilt sind, muss bekannt und gestochen werden.&lt;/p&gt;
 
 &lt;h3 id=&quot;ausmelden&quot;&gt;Ausmelden&lt;/h3&gt;
 
 &lt;p&gt;Wenn ein Spieler 66 oder mehr Augen hat, kann er das ansagen und das Spiel beenden (ausmelden). Dann werden die Augen gezählt und wenn der Ausmelder sich verzählt hat, hat er verloren und zwar soviele “Siegpunkte” wie er gewonnen hätte. Hat der Gegner keinen Stich gemacht bekommt der Gewinner drei “Siegpunkte”, hat der Gegner weniger als 30 Augen, dann gibt es zwei Siegpunkte und wenn der Gegner über 30 Augen so gibt es nur einen.&lt;/p&gt;
 
-&lt;h3 id=&quot;der_letzte_stich&quot;&gt;Der letzte Stich&lt;/h3&gt;
+&lt;h3 id=&quot;der-letzte-stich&quot;&gt;Der letzte Stich&lt;/h3&gt;
 
-&lt;p&gt;Hat sich bis zum letzten Stich kein Spieler ausgemeldet, bekommt bei Sechsundsechzig der Spieler, der den letzten Stich gewinnt, 10 zusätzliche Punkte, beim Schnapsen gewinnt er automatisch das ganze Spiel.&lt;/p&gt;
+&lt;p&gt;Hat sich bis zum letzten Stich kein Spieler ausgemeldet, bekommt bei Sechsundsechzig der Spieler, der den letzten Stich gewinnt, 10 zusätzliche Punkte, beim Schnapsen gewinnt er automatisch das ganze Spiel. &lt;/p&gt;
 
 &lt;h3 id=&quot;ansagen&quot;&gt;Ansagen&lt;/h3&gt;
 
 &lt;p&gt;Hat ein Spieler eine Dame und einen König auf der Hand, kann er dies (wenn er dran ist auszuspielen) ansagen und bekommt dafür 20 Augen gutgeschrieben. Wenn er die Damen und den König in der Trumpffarbe hat bekommt er sogar 40 Augen gutgeschrieben. Er muss aber auch als nächstes eine der beiden Karten ausspielen.&lt;/p&gt;
 
-&lt;h3 id=&quot;austausch_der_atoutkarte&quot;&gt;Austausch der Atout-Karte&lt;/h3&gt;
+&lt;h3 id=&quot;austausch-der-atout-karte&quot;&gt;Austausch der Atout-Karte&lt;/h3&gt;
 
 &lt;p&gt;Hat ein Spieler die niedrigste Trumpf-Karte auf der Hand (beim Schnapsen ist es der Bube, bei Sechsundsechzig die 9), kann er wenn er am Zug ist diese gegen die aufgedeckte Karten unter dem Talon austauschen.&lt;/p&gt;
 
-&lt;h3 id=&quot;talon_sperren&quot;&gt;Talon sperren&lt;/h3&gt;
+&lt;h3 id=&quot;talon-sperren&quot;&gt;Talon sperren&lt;/h3&gt;
 
 &lt;p&gt;Wenn ein Spieler der Meinung ist, dass er ohne neue Karten vom Talon (Reststapel) nachzuziehen 66 Augen zusammenbekommt, kann er den Talon sperren (“zuadrahn”). Dann darf nicht mehr nachgezogen werden und es herrscht Farb- und Stichzwang.&lt;/p&gt;
 
@@ -65,23 +70,21 @@
 
 &lt;p&gt;Ein Partie wird Bummerl genannt und setzt sich aus mehreren Spielen zusammen. Der Spieler, der als erstes sieben “Siegerpunkte” zusammen hat, gewinnt das Bummerl.&lt;/p&gt;
 
-&lt;h2 id=&quot;scharfes_schnapsen&quot;&gt;Scharfes Schnapsen&lt;/h2&gt;
+&lt;h2 id=&quot;scharfes-schnapsen&quot;&gt;Scharfes Schnapsen&lt;/h2&gt;
 
 &lt;p&gt;Beim Schnapsen wird zwischen “weichem Schnapsen” und “scharfem Schnpasen” unterschieden. Beim scharfen Schnapsen gibt es strengere Regeln:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;gewonnene Stiche dürfen nicht mehr angeschaut werden (beim weichen Schnapsen darf jeder Spieler über das ganze Spiel alle seine gewonnen Karten ansehen)&lt;/li&gt;
-
-&lt;li&gt;Der Austausch der Atout-Karte ist nur nach der ersten Karte und vor der vorletzten Karte vom Atout erlaubt&lt;/li&gt;
-
-&lt;li&gt;Das Sperren des Talons ist nicht erlaubt, wenn nur noch eine verdeckte Karte im Talon ist&lt;/li&gt;
-
-&lt;li&gt;Eine Ansage darf erst nach dem ersten (eigenen) Stich gemacht werden&lt;/li&gt;
-
-&lt;li&gt;Wer eine Ansage macht muss den König ausspielen&lt;/li&gt;
+  &lt;li&gt;gewonnene Stiche dürfen nicht mehr angeschaut werden (beim weichen Schnapsen darf jeder Spieler über das ganze Spiel alle seine gewonnen Karten ansehen)&lt;/li&gt;
+  &lt;li&gt;Der Austausch der Atout-Karte ist nur nach der ersten Karte und vor der vorletzten Karte vom Atout erlaubt&lt;/li&gt;
+  &lt;li&gt;Das Sperren des Talons ist nicht erlaubt, wenn nur noch eine verdeckte Karte im Talon ist&lt;/li&gt;
+  &lt;li&gt;Eine Ansage darf erst nach dem ersten (eigenen) Stich gemacht werden&lt;/li&gt;
+  &lt;li&gt;Wer eine Ansage macht muss den König ausspielen&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Es gibt viele grundsätzliche Gemeinsamkeiten, aber auch einige Unterschiede zu den anderen Trumpfspielen. Gerade dadurch, dass hier nur zu Zweit gespielt wird und anfangs jede Karte gelegt werden kann, wird das Spiel sehr taktisch und die Erfahrung macht sich sehr deutlich bemerkbar. Das sollte einen aber nicht abhalten Schnapsen oder Sechsundsechzig mal auszuprobieren. Es ist ein sehr schnelles uns spannendes Spiel, besonders wenn man einen gleichstarken Gegner gefunden hat. &lt;br /&gt;&lt;a href=&quot;www.bummerl.at&quot;&gt;Bei Bummerl könnt ihr kostenlos online Schnapsen&lt;/a&gt;, am besten gleich mal ausprobieren. Falls noch nicht alles klar ist, könnt ihr alles ausführlich bei &lt;a href=&quot;http://de.wikipedia.org/wiki/Sechsundsechzig&quot;&gt;Wikipedia nachlesen&lt;/a&gt; oder in der &lt;a href=&quot;www.bummerl.at/hilfe&quot;&gt;Bummerl-Hilfe nachschauen&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;Es gibt viele grundsätzliche Gemeinsamkeiten, aber auch einige Unterschiede zu den anderen Trumpfspielen. Gerade dadurch, dass hier nur zu Zweit gespielt wird und anfangs jede Karte gelegt werden kann, wird das Spiel sehr taktisch und die Erfahrung macht sich sehr deutlich bemerkbar. Das sollte einen aber nicht abhalten Schnapsen oder Sechsundsechzig mal auszuprobieren. Es ist ein sehr schnelles uns spannendes Spiel, besonders wenn man einen gleichstarken Gegner gefunden hat.  &lt;br /&gt;
+&lt;a href=&quot;www.bummerl.at&quot;&gt;Bei Bummerl könnt ihr kostenlos online Schnapsen&lt;/a&gt;, am besten gleich mal ausprobieren. Falls noch nicht alles klar ist, könnt ihr alles ausführlich bei &lt;a href=&quot;http://de.wikipedia.org/wiki/Sechsundsechzig&quot;&gt;Wikipedia nachlesen&lt;/a&gt; oder in der &lt;a href=&quot;www.bummerl.at/hilfe&quot;&gt;Bummerl-Hilfe nachschauen&lt;/a&gt;.&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
@@ -89,102 +92,103 @@
    <link href="http://luschentreff.de/skat-fuer-schafkopfer"/>
    <updated>2014-03-25T00:00:00+01:00</updated>
    <id>http://luschentreff.de/skat-fuer-schafkopfer</id>
-   <content type="html">&lt;p&gt;Besonders für die Freunde der Kurzen Karte, Farbwenz und Geier (die diese Regeln besser finden, weil man da viel öfter ein Solo spielen kann), ist Skat geradezu perfekt. Denn beim Skat ist jedes Spiel ein Solospiel. Das liegt daran, dass man statt zu 4. nur zu 3. spielt und dadurch immer einer allein spielen muss.&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;Besonders für die Freunde der Kurzen Karte, Farbwenz und Geier (die diese Regeln besser finden, weil man da viel öfter ein Solo spielen kann), ist Skat geradezu perfekt. Denn beim Skat ist jedes Spiel ein Solospiel. Das liegt daran, dass man statt zu 4. nur zu 3. spielt und dadurch immer einer allein spielen muss.&lt;/p&gt;
 
 &lt;p&gt;Und das kennt bestimmt jeder, a gmiadlicher Schafkopf-Abend fällt aus, weil einer mal wieder kurz vorher absagt. Da ist es vielleicht nicht schlecht, wenn man spontan auf Skat umsteigen kann. Ihr seht, Skat lernen hat einige Vorteile und kann eine nette Abwechslung bieten. Also, hier die Skatregeln extra für Schafkopfer erklärt:&lt;/p&gt;
 
-&lt;h2 id=&quot;das_blatt&quot;&gt;Das Blatt&lt;/h2&gt;
+&lt;h2 id=&quot;das-blatt&quot;&gt;Das Blatt&lt;/h2&gt;
 
 &lt;p&gt;Gut das muss man so hinnehmen, der Preiß spielt eben mit dem französichen Blatt. Das ist zwar nicht so schön, aber gesehen hat man es schon mal. Falls nicht, gibts hier die Übersetzung:&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&#39;symbol fr E&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Kreuz = &lt;i class=&#39;symbol by E&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Eichel&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#39;symbol fr G&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Pik = &lt;i class=&#39;symbol by G&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Gras&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#39;symbol fr H&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Herz = &lt;i class=&#39;symbol by H&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Herz&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#39;symbol fr S&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Karo = &lt;i class=&#39;symbol by S&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Karo&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;symbol fr E&quot;&gt; &lt;/i&gt; Kreuz = &lt;i class=&quot;symbol by E&quot;&gt; &lt;/i&gt; Eichel
+&lt;i class=&quot;symbol fr G&quot;&gt; &lt;/i&gt; Pik = &lt;i class=&quot;symbol by G&quot;&gt; &lt;/i&gt; Gras
+&lt;i class=&quot;symbol fr H&quot;&gt; &lt;/i&gt; Herz = &lt;i class=&quot;symbol by H&quot;&gt; &lt;/i&gt; Herz
+&lt;i class=&quot;symbol fr S&quot;&gt; &lt;/i&gt; Karo = &lt;i class=&quot;symbol by S&quot;&gt; &lt;/i&gt; Karo&lt;/p&gt;
 
 &lt;p&gt;Und so werden beim Skat die Karten der Stärke nach sortiert:&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&#39;card-icon fr EU&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr GU&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr HU&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr SU&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Bube = Unter, 2 Augen&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#39;card-icon fr EA&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr GA&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr HA&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr SA&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Ass = 11 Augen, (genau wie beim Schafkopf)&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#39;card-icon fr EX&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr GX&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr HX&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr SX&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; 10 = 10 Augen, (genau wie beim Schafkopf)&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#39;card-icon fr EK&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr GK&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr HK&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr SK&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; König = 4 Augen&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#39;card-icon fr EO&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr GO&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr HO&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr SO&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Dame = Ober, 3 Augen (kein gesetzter Trumpf sondern nur in der Trumpffarbe und schwächer als der Bube/Unter)&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#39;card-icon fr E9&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr G9&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr H9&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr S9&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; 9, &lt;i class=&#39;card-icon fr E8&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr G8&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr H8&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr S8&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; 8, &lt;i class=&#39;card-icon fr E7&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr G7&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr H7&#39;&gt;&amp;amp;nbsp;&lt;/i&gt;&lt;i class=&#39;card-icon fr S7&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; 7 = Luschen, Spatzn hier wie da &lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;card-icon fr EU&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr GU&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr HU&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr SU&quot;&gt; &lt;/i&gt; Bube = Unter, 2 Augen &lt;br /&gt;
+&lt;i class=&quot;card-icon fr EA&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr GA&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr HA&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr SA&quot;&gt; &lt;/i&gt; Ass = 11 Augen, (genau wie beim Schafkopf) &lt;br /&gt;
+&lt;i class=&quot;card-icon fr EX&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr GX&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr HX&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr SX&quot;&gt; &lt;/i&gt; 10 = 10 Augen, (genau wie beim Schafkopf)     &lt;br /&gt;
+&lt;i class=&quot;card-icon fr EK&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr GK&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr HK&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr SK&quot;&gt; &lt;/i&gt; König = 4 Augen  &lt;br /&gt;
+&lt;i class=&quot;card-icon fr EO&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr GO&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr HO&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr SO&quot;&gt; &lt;/i&gt; Dame = Ober, 3 Augen (kein gesetzter Trumpf sondern nur in der Trumpffarbe und schwächer als der Bube/Unter) &lt;br /&gt;
+&lt;i class=&quot;card-icon fr E9&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr G9&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr H9&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr S9&quot;&gt; &lt;/i&gt; 9, &lt;i class=&quot;card-icon fr E8&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr G8&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr H8&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr S8&quot;&gt; &lt;/i&gt; 8, &lt;i class=&quot;card-icon fr E7&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr G7&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr H7&quot;&gt; &lt;/i&gt;&lt;i class=&quot;card-icon fr S7&quot;&gt; &lt;/i&gt; 7 = Luschen, Spatzn hier wie da …&lt;/p&gt;
 
 &lt;p&gt;Zu beachten ist besonders die Reihenfolge, denn die Dame (entspricht dem Ober) ist eingereiht und schwächer als der König.&lt;/p&gt;
 
 &lt;h2 id=&quot;spielarten&quot;&gt;Spielarten&lt;/h2&gt;
 
-&lt;p&gt;Beim Skat gibt es wie schon gesagt &lt;strong&gt;kein Rufspiel&lt;/strong&gt;, sondern jedes Spiel ist ein Solo.&lt;/p&gt;
+&lt;p&gt;Beim Skat gibt es wie schon gesagt &lt;strong&gt;kein Rufspiel&lt;/strong&gt;, sondern jedes Spiel ist ein Solo. &lt;/p&gt;
 
 &lt;p&gt;Am verbreitesten ist das &lt;strong&gt;Farbsolo&lt;/strong&gt;, das genau wie ein Farbwenz funktioniert. Es sind also alle Buben und eine vom Spieler gewählte Farbe Trumpf.&lt;/p&gt;
 
 &lt;p&gt;Dann gibt es noch den &lt;strong&gt;Grand&lt;/strong&gt;, der wird wie ein Wenz gespielt. Also nur die Buben (Unter) sind Trumpf.&lt;/p&gt;
 
-&lt;p&gt;Ein Spiel, dass der Schafkopfer nicht kennt, ist das &lt;strong&gt;Nullspiel&lt;/strong&gt;. Es geht in Richtung Ramsch, nur dass nicht jeder gegen jeden spielt, sondern der Spieler, der das Nullspiel ansagt gegen die anderen beiden spielt und keinen einzigen Stich machen darf. Außerdem sind die Buben (Unter) und 10ner eingereiht, dass bedeutet, dass die Kartenrangordnung sich so ändert, dass zwischen Dame und 9 jetzt noch der Bube und die 10 kommt (Ass, König, Dame, Bube, 10, 9, 8, 7)&lt;/p&gt;
+&lt;p&gt;Ein Spiel, dass der Schafkopfer nicht kennt, ist das &lt;strong&gt;Nullspiel&lt;/strong&gt;. Es geht in Richtung Ramsch, nur dass nicht jeder gegen jeden spielt, sondern der Spieler, der das Nullspiel ansagt gegen die anderen beiden spielt und keinen einzigen Stich machen darf. Außerdem sind die Buben (Unter) und 10ner eingereiht, dass bedeutet, dass die Kartenrangordnung sich so ändert, dass zwischen Dame und 9 jetzt noch der Bube und die 10 kommt (Ass, König, Dame, Bube, 10, 9, 8, 7)   &lt;/p&gt;
 
-&lt;h2 id=&quot;der_spielablauf&quot;&gt;Der Spielablauf&lt;/h2&gt;
+&lt;h2 id=&quot;der-spielablauf&quot;&gt;Der Spielablauf&lt;/h2&gt;
 
-&lt;p&gt;Es werden die 32 Karten ausgeteilt, jeder bekommt 10 Karten. Wer das mal macht wird schnell feststellen, dass dann immer zwei Karten übrig bleiben. Die nennt man ”&lt;strong&gt;Skat&lt;/strong&gt;” und diese werden verdeckt in die Mitte gelegt. Diese Karten bekommt dann der Alleinspieler, die er gegen zwei beliebige Karten in seinem Blatt austauschen kann (aber nicht muss).&lt;/p&gt;
+&lt;p&gt;Es werden die 32 Karten ausgeteilt, jeder bekommt 10 Karten. Wer das mal macht wird schnell feststellen, dass dann immer zwei Karten übrig bleiben. Die nennt man “&lt;strong&gt;Skat&lt;/strong&gt;” und diese werden verdeckt in die Mitte gelegt. Diese Karten bekommt dann der Alleinspieler, die er gegen zwei beliebige Karten in seinem Blatt austauschen kann (aber nicht muss).&lt;/p&gt;
 
 &lt;p&gt;Die Spielfindung ist beim Skat etwas anders als beim Schafkopf. Beim Skat ist es leider nicht so, dass man einfach “i dad” ruft, wenn man ein Spiel hat. Da muss man erst zählen, dann rechnen und dann noch das kleine Einmaleins flüssig beherrschen, damit man die &lt;strong&gt;Reizwerte&lt;/strong&gt; (wird weiter unten erklärt) fehlerfrei aufsagen kann. Wer beim Skat spielen darf wird über eine Auktion bestimmt und welchen Wert man bieten darf hat bestimmte Regeln. Das Ganze nennt der Skatspieler verharmlosend “Reizen”.&lt;/p&gt;
 
-&lt;p&gt;Auch wer wem welches Reizangebot machen darf ist geregelt: ”&lt;strong&gt;geben, hören, sagen, weitersagen&lt;/strong&gt;”: Der hinter dem Geber hört das erste Angebot von dem hinter ihm sitzenden, und wenn einer weg ist, darf der Geber ein Angebot machen, falls er spielen will.&lt;/p&gt;
+&lt;p&gt;Auch wer wem welches Reizangebot machen darf ist geregelt: “&lt;strong&gt;geben, hören, sagen, weitersagen&lt;/strong&gt;”: Der hinter dem Geber hört das erste Angebot von dem hinter ihm sitzenden, und wenn einer weg ist, darf der Geber ein Angebot machen, falls er spielen will.&lt;/p&gt;
 
-&lt;h3 id=&quot;das_reizen&quot;&gt;Das Reizen&lt;/h3&gt;
+&lt;h3 id=&quot;das-reizen&quot;&gt;Das Reizen&lt;/h3&gt;
 
-&lt;h4 id=&quot;reizwert_berechnen_zhlen&quot;&gt;Reizwert berechnen: Zählen&lt;/h4&gt;
+&lt;h4 id=&quot;reizwert-berechnen-zhlen&quot;&gt;Reizwert berechnen: Zählen&lt;/h4&gt;
 
-&lt;p&gt;Die Rechnung für den Reizwert hat verschiedene Faktoren. Beim ersten muss man zählen, und zwar &lt;strong&gt;“Wie viele Buben habe ich bzw. habe ich nicht?&lt;/strong&gt;” &lt;br /&gt;Noch genauer: Wie viele Buben habe ich &lt;strong&gt;fortlaufend&lt;/strong&gt; bzw. wie viele Buben fehlen mir fortlaufend (&lt;strong&gt;fortlaufend heißt hier vom Kreuz-Buben bis zum Karo-Buben ohne Unterbrechung&lt;/strong&gt;)?&lt;/p&gt;
+&lt;p&gt;Die Rechnung für den Reizwert hat verschiedene Faktoren. Beim ersten muss man zählen, und zwar &lt;strong&gt;“Wie viele Buben habe ich bzw. habe ich nicht?&lt;/strong&gt;”   &lt;br /&gt;
+Noch genauer: Wie viele Buben habe ich &lt;strong&gt;fortlaufend&lt;/strong&gt; bzw. wie viele Buben fehlen mir fortlaufend (&lt;strong&gt;fortlaufend heißt hier vom Kreuz-Buben bis zum Karo-Buben ohne Unterbrechung&lt;/strong&gt;)?&lt;/p&gt;
 
-&lt;p&gt;Bsp ”&lt;strong&gt;Mit&lt;/strong&gt;” (wieviele Buben habe ich fortlaufend mit dem Kreuzbuben auf der Hand):&lt;/p&gt;
+&lt;p&gt;Bsp “&lt;strong&gt;Mit&lt;/strong&gt;” (wieviele Buben habe ich fortlaufend mit dem Kreuzbuben auf der Hand):&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;* alle 4 Buben (Kreuz, Pik, Herz, Karo): Mit 4
 * die zwei stärksten Buben (Kreuz, Pik): Mit 2 
 * die zwei stärksten und den Karo Buben (Kreuz, Pik, Karo): Mit 2 
-  (**da nicht fortlaufend, der Herz Bube fehlt damit die Reihe nicht unterbrochen ist!**) &lt;/code&gt;&lt;/pre&gt;
+  (da nicht fortlaufend, der Herz Bube fehlt damit die Reihe nicht unterbrochen ist!) 
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Bsp ”&lt;strong&gt;Ohne&lt;/strong&gt;” (wieviele Buben fehlen forlaufend bis zum Kreuzbuben):&lt;/p&gt;
+&lt;p&gt;Bsp “&lt;strong&gt;Ohne&lt;/strong&gt;” (wieviele Buben fehlen forlaufend bis zum Kreuzbuben):&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;* keinen Buben ( - ): Ohne 4
 * nur Karo-Bube: Ohne 3
 * nur Herz-Bube: Ohne 2
-* Herz- und Karo-Bube: Ohne 2&lt;/code&gt;&lt;/pre&gt;
+* Herz- und Karo-Bube: Ohne 2
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;h4 id=&quot;reizwert_berechnen_rechnen&quot;&gt;Reizwert berechnen: Rechnen&lt;/h4&gt;
+&lt;h4 id=&quot;reizwert-berechnen-rechnen&quot;&gt;Reizwert berechnen: Rechnen&lt;/h4&gt;
 
 &lt;p&gt;Wer ein Spiel spielt wird belohnt! Deswegen darf er zu der Zahl die bei “Mit/Ohne X Buben” rauskommt &lt;strong&gt;immer “+1” addieren&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Es gibt noch weitere ”&lt;strong&gt;Gewinnstufen&lt;/strong&gt;”, die jeweils zu dem +1 addiert werden:&lt;/p&gt;
+&lt;p&gt;Es gibt noch weitere “&lt;strong&gt;Gewinnstufen&lt;/strong&gt;”, die jeweils zu dem +1 addiert werden:   &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Schneider&lt;/strong&gt; (das Spiel muss Schneider gwonnen werden), &lt;strong&gt;schwarz&lt;/strong&gt; (man darf keinen Stich abgeben), &lt;strong&gt;Handspiel&lt;/strong&gt; (der Skat bleibt unangesehen liegen, es werden keinen Karten ausgetauscht), &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Schneider&lt;/strong&gt; (das Spiel muss Schneider gwonnen werden), &lt;strong&gt;schwarz&lt;/strong&gt; (man darf keinen Stich abgeben), &lt;strong&gt;Handspiel&lt;/strong&gt; (der Skat bleibt unangesehen liegen, 
+es werden keinen Karten ausgetauscht), …&lt;/p&gt;
 
-&lt;p&gt;Dieser Wert wird dann mit dem angesagten Spiel, bzw. der angesagten Trumpffarbe malgenommen (multipliziert) Die Spielarten und Farben haben einfach Werte zugeordnet bekommen, das muss auswendig gelernt werden:&lt;/p&gt;
+&lt;p&gt;Dieser Wert wird dann mit dem angesagten Spiel, bzw. der angesagten Trumpffarbe malgenommen (multipliziert)
+Die Spielarten und Farben haben einfach Werte zugeordnet bekommen, das muss auswendig gelernt werden:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;**Farbspiel Karo: 9, Herz: 10, Pik: 11, Kreuz: 12**
-**Nullspiel: 23**
-**Grand: 24**&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;* Farbspiel Karo: 9, Herz: 10, Pik: 11, Kreuz: 12
+* Nullspiel: 23
+* Grand: 24
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h4 id=&quot;zwischenbilanz&quot;&gt;Zwischenbilanz&lt;/h4&gt;
 
 &lt;p&gt;Erst die Buben zählen, dann plus 1 und mit dem Spiel multiplizieren, daraus berechnet sich der Reizwert.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;Ohne 3  +1 (im Skatjargon: Spiel 4) mal Farbspiel Pik: 11 
-macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
+macht den Reizwert 44
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;h4 id=&quot;reizen_das_einmaleins&quot;&gt;Reizen: das Einmaleins:&lt;/h4&gt;
+&lt;h4 id=&quot;reizen-das-einmaleins&quot;&gt;Reizen: das Einmaleins:&lt;/h4&gt;
 
-&lt;p&gt;Da man den Mitspielern nicht alles verraten möchte (z.B. die Anzahl der Buben), sagt man nicht gleich den errechneten Wert sondern wie bei einer Auktion üblich, nur ein wenig mehr als das Gebot zuvor. Deswegen sagt man der Reihe nach Werte die entstehen, wenn man einen Wert mit 9 (Karo), 10 (Herz), 11 (Pik), 12 (Kreuz) malnimmt.&lt;/p&gt;
+&lt;p&gt;Da man den Mitspielern nicht alles verraten möchte (z.B. die Anzahl der Buben), sagt man nicht gleich den errechneten Wert sondern wie bei einer Auktion üblich, nur ein wenig mehr als das Gebot zuvor. Deswegen sagt man der Reihe nach Werte die entstehen, wenn man einen Wert mit 9 (Karo), 10 (Herz), 11 (Pik), 12 (Kreuz) malnimmt. &lt;/p&gt;
 
-&lt;p&gt;Hier die Reihe der Reizwerte zum Spickeln: &lt;br /&gt;18, 20, 22, 23 (Nullspiel), 24, 27, 30, 33, 35, 36, 40, 44, 45, 46, 48, 50, 54, 55, 59, 60, 63, 66, 70, &lt;/p&gt;
+&lt;p&gt;Hier die Reihe der Reizwerte zum Spickeln: &lt;br /&gt;
+18, 20, 22, 23 (Nullspiel), 24, 27, 30, 33, 35, 36, 40, 44, 45, 46, 48, 50, 54, 55, 59, 60, 63, 66, 70, …&lt;/p&gt;
 
 &lt;h3 id=&quot;spielansage&quot;&gt;Spielansage&lt;/h3&gt;
 
@@ -194,13 +198,14 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Den Regeln nach darf man reizen so hoch mal will. Wenn aber am Ende klar wird, dass ein Spieler höher gereizt hat, als bis zum tatsächlichen Gewinnwert des angesagten Spiels, gilt ein Spiel als verloren. Das lässt sich ja am Ende des Spiels prima ausrechnen.&lt;/p&gt;
 
-&lt;h3 id=&quot;spiel_abreizen&quot;&gt;Spiel abreizen&lt;/h3&gt;
+&lt;h3 id=&quot;spiel-abreizen&quot;&gt;Spiel abreizen&lt;/h3&gt;
 
 &lt;p&gt;Wenn ein zu oft verliert, dann nennt man das “Abreizen”, weil man immer zu hoch reizt und die anderen nicht auch mal spielen lässt. Das ist böse und wird oft durch Zahlung von Abreizbeiträgen bestraft.&lt;/p&gt;
 
-&lt;p&gt;Das war jetzt schon recht viel, aber wie immer heißt es Übung macht den Meister! Und es gibt eine gute Nachricht: &lt;a href=&quot;https://www.skatstube.de&quot;&gt;Wer in der Skatstube online Skat spielen und üben will&lt;/a&gt;, dem nimmt der Computer das Reizen erstmal ab. Man wählt im Spiel das aus was man ansagen will und der Computer hilft beim Rechnen. Sonst gibt es noch &lt;a href=&quot;https://www.skatstube.de/skat-lernen&quot;&gt;ausführliche Erklärungen im Skat-Lernbereich&lt;/a&gt; und auch &lt;a href=&quot;http://de.wikipedia.org/wiki/Skat&quot;&gt;bei Wikipedia findet sich viel zum Thema Skat&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Das war jetzt schon recht viel, aber wie immer heißt es Übung macht den Meister! Und es gibt eine gute Nachricht: &lt;a href=&quot;https://www.skatstube.de&quot;&gt;Wer in der Skatstube online Skat spielen und üben will&lt;/a&gt;, dem nimmt der Computer das Reizen erstmal ab. Man wählt im Spiel das aus was man ansagen will und der Computer hilft beim Rechnen. Sonst gibt es noch &lt;a href=&quot;https://www.skatstube.de/skat-lernen&quot;&gt;ausführliche Erklärungen im Skat-Lernbereich&lt;/a&gt; und auch &lt;a href=&quot;http://de.wikipedia.org/wiki/Skat&quot;&gt;bei Wikipedia findet sich viel zum Thema Skat&lt;/a&gt;. &lt;/p&gt;
 
-&lt;p&gt;Viel Spaß und lasst uns wissen, ob euch unsere Erklärung geholfen hat!&lt;/p&gt;</content>
+&lt;p&gt;Viel Spaß und lasst uns wissen, ob euch unsere Erklärung geholfen hat! &lt;/p&gt;
+</content>
  </entry>
  
  <entry>
@@ -208,57 +213,75 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
    <link href="http://luschentreff.de/schafkopf-fuer-doppelkopfspieler"/>
    <updated>2014-02-28T00:00:00+01:00</updated>
    <id>http://luschentreff.de/schafkopf-fuer-doppelkopfspieler</id>
-   <content type="html">&lt;p&gt;Doppelkopf ist quasi ein direkter Nachfahre vom Schafkopf. Trotz des beachtlichen Altersunterschieds hat Schafkopf nichts an seiner Urtümlichkeit eingebüßt. Besonders schön ist das bayerische Blatt, mit Eicheln, Gras, und Schelle statt Kreuz, Pik und Karo. Auch sehr schön ist die Schafkopfsprache: die Damen sind die Ober und die Asse werden Sauen genannt. Eignentlich haben fast alle Karten eigene Namen. Hier gibt es eine kleine Einführung:&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;Doppelkopf ist quasi ein direkter Nachfahre vom Schafkopf. Trotz des beachtlichen Altersunterschieds hat Schafkopf nichts an seiner Urtümlichkeit eingebüßt. Besonders schön ist das bayerische Blatt, mit Eicheln, Gras, und Schelle statt Kreuz, Pik und Karo. Auch sehr schön ist die Schafkopfsprache: die Damen sind die Ober und die Asse werden Sauen genannt. Eignentlich haben fast alle Karten eigene Namen. Hier gibt es eine kleine Einführung:&lt;/p&gt;
 
-&lt;h2 id=&quot;das_blatt&quot;&gt;Das Blatt&lt;/h2&gt;
+&lt;h2 id=&quot;das-blatt&quot;&gt;Das Blatt&lt;/h2&gt;
 
-&lt;p&gt;&lt;i class=&#39;symbol fr E&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Kreuz = &lt;i class=&#39;symbol by E&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Eichel&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;symbol fr E&quot;&gt; &lt;/i&gt; Kreuz = &lt;i class=&quot;symbol by E&quot;&gt; &lt;/i&gt; Eichel
+&lt;i class=&quot;symbol fr G&quot;&gt; &lt;/i&gt; Pik = &lt;i class=&quot;symbol by G&quot;&gt; &lt;/i&gt; Gras
+&lt;i class=&quot;symbol fr H&quot;&gt; &lt;/i&gt; Herz = &lt;i class=&quot;symbol by H&quot;&gt; &lt;/i&gt; Herz
+&lt;i class=&quot;symbol fr S&quot;&gt; &lt;/i&gt; Karo     = &lt;i class=&quot;symbol by S&quot;&gt; &lt;/i&gt; Schelle&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&#39;symbol fr G&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Pik = &lt;i class=&#39;symbol by G&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Gras&lt;/p&gt;
+&lt;p&gt;Die Asse oder beim Schafkopf, die Sauen:  &lt;br /&gt;
+&lt;i class=&quot;card-icon by EA&quot;&gt; &lt;/i&gt; Eichelass: Die Alte,   &lt;br /&gt;
+&lt;i class=&quot;card-icon by GA&quot;&gt; &lt;/i&gt; Grasass: Die Blaue,  &lt;br /&gt;
+&lt;i class=&quot;card-icon by HA&quot;&gt; &lt;/i&gt; Herzass: -  &lt;br /&gt;
+&lt;i class=&quot;card-icon by SA&quot;&gt; &lt;/i&gt; Schellass: Bums, Hundsgefickte, Schellsau, &lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&#39;symbol fr H&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Herz = &lt;i class=&#39;symbol by H&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Herz&lt;/p&gt;
+&lt;p&gt;Die &lt;strong&gt;Ober&lt;/strong&gt; sind die stärksten Karten:  &lt;br /&gt;
+&lt;i class=&quot;card-icon by EO&quot;&gt; &lt;/i&gt; Eichelober (der Alte),  &lt;br /&gt;
+&lt;i class=&quot;card-icon by GO&quot;&gt; &lt;/i&gt; Grasober (der Blaue),  &lt;br /&gt;
+&lt;i class=&quot;card-icon by HO&quot;&gt; &lt;/i&gt; Herzober,   &lt;br /&gt;
+&lt;i class=&quot;card-icon by SO&quot;&gt; &lt;/i&gt; Schellober      &lt;br /&gt;
+Dann kommen die &lt;strong&gt;Unter&lt;/strong&gt;:  &lt;br /&gt;
+&lt;i class=&quot;card-icon by EU&quot;&gt; &lt;/i&gt; Eichelunter,  &lt;br /&gt;
+&lt;i class=&quot;card-icon by GU&quot;&gt; &lt;/i&gt; Grasunter,   &lt;br /&gt;
+&lt;i class=&quot;card-icon by HU&quot;&gt; &lt;/i&gt; Herzunter   &lt;br /&gt;
+&lt;i class=&quot;card-icon by SU&quot;&gt; &lt;/i&gt; Schellunter  &lt;br /&gt;
+Dann kommen die Farben, jeweils mit  &lt;br /&gt;
+&lt;i class=&quot;card-icon by HA&quot;&gt; &lt;/i&gt; Ass (auch Sau genannt), &lt;i class=&quot;card-icon by HX&quot;&gt; &lt;/i&gt; 10, &lt;i class=&quot;card-icon by H9&quot;&gt; &lt;/i&gt; 9, &lt;i class=&quot;card-icon by H8&quot;&gt; &lt;/i&gt; 8, &lt;i class=&quot;card-icon by H7&quot;&gt; &lt;/i&gt; 7&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&#39;symbol fr S&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Karo = &lt;i class=&#39;symbol by S&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Schelle&lt;/p&gt;
+&lt;p&gt;&amp;lt;/br&amp;gt;
+## Die Spielarten&lt;/p&gt;
 
-&lt;p&gt;Die Asse oder beim Schafkopf, die Sauen: &lt;br /&gt;&lt;i class=&#39;card-icon by EA&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Eichelass: Die Alte, &lt;br /&gt;&lt;i class=&#39;card-icon by GA&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Grasass: Die Blaue, &lt;br /&gt;&lt;i class=&#39;card-icon by HA&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Herzass: - &lt;br /&gt;&lt;i class=&#39;card-icon by SA&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Schellass: Bums, Hundsgefickte, Schellsau,&lt;/p&gt;
+&lt;p&gt;Was Trumpf ist hängt von der Spielart ab. Das ist wie beim Doppelkopf auch. Bei dem Normalspiel im Schafkopf, dem Sauspiel, und dem Farbsolo sind die Trümpfe sehr ähnlich wie beim Doppelkopf: alle Ober (= Damen), alle Unter (= Buben), alle Herz (statt beim Doko alle Karo) in der Reihenfolge wie oben gezeigt.     &lt;/p&gt;
 
-&lt;p&gt;Die &lt;strong&gt;Ober&lt;/strong&gt; sind die stärksten Karten: &lt;br /&gt;&lt;i class=&#39;card-icon by EO&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Eichelober (der Alte), &lt;br /&gt;&lt;i class=&#39;card-icon by GO&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Grasober (der Blaue), &lt;br /&gt;&lt;i class=&#39;card-icon by HO&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Herzober, &lt;br /&gt;&lt;i class=&#39;card-icon by SO&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Schellober &lt;br /&gt;Dann kommen die &lt;strong&gt;Unter&lt;/strong&gt;: &lt;br /&gt;&lt;i class=&#39;card-icon by EU&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Eichelunter, &lt;br /&gt;&lt;i class=&#39;card-icon by GU&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Grasunter, &lt;br /&gt;&lt;i class=&#39;card-icon by HU&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Herzunter &lt;br /&gt;&lt;i class=&#39;card-icon by SU&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Schellunter &lt;br /&gt;Dann kommen die Farben, jeweils mit &lt;br /&gt;&lt;i class=&#39;card-icon by HA&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Ass (auch Sau genannt), &lt;i class=&#39;card-icon by HX&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; 10, &lt;i class=&#39;card-icon by H9&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; 9, &lt;i class=&#39;card-icon by H8&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; 8, &lt;i class=&#39;card-icon by H7&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; 7&lt;/p&gt;
+&lt;h3 id=&quot;das-sauspiel&quot;&gt;Das Sauspiel&lt;/h3&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Das Normalspiel ist beim Schafkopf das &lt;strong&gt;Ruf- oder Sauspiel&lt;/strong&gt;. Das heißt so,  weil  der Partner über die Sau gefunden wird, die der Spieler ruft. Beim Doppelkopf ist es eher zufällig, beim Schafkopf findet der Spieler seinen Partner, indem er eine ihm fehlende Sau (= ein ihm fehlendes Ass) von einer Farbe, die er auf der Hand hat, aussucht. Der mit der gerufenen Sau auf der Hand ist dann sein Partner. Das ist wie beim Doppelkopf aber erst geheim und stellt sich während des Spiels raus.
+Beim Schafkopf sind alle Ober und Unter und alle Herz Trumpf. Das unterscheidet sich nur leicht vom Doppelkopf, wo Karo statt Herz Trumpf ist und eben noch die Herz-10 eine Sonderstellung haben.&lt;/p&gt;
 
-&lt;h2 id=&quot;die_spielarten&quot;&gt;Die Spielarten&lt;/h2&gt;
-
-&lt;p&gt;Was Trumpf ist hängt von der Spielart ab. Das ist wie beim Doppelkopf auch. Bei dem Normalspiel im Schafkopf, dem Sauspiel, und dem Farbsolo sind die Trümpfe sehr ähnlich wie beim Doppelkopf: alle Ober (= Damen), alle Unter (= Buben), alle Herz (statt beim Doko alle Karo) in der Reihenfolge wie oben gezeigt.&lt;/p&gt;
-
-&lt;h3 id=&quot;das_sauspiel&quot;&gt;Das Sauspiel&lt;/h3&gt;
-
-&lt;p&gt;Das Normalspiel ist beim Schafkopf das &lt;strong&gt;Ruf- oder Sauspiel&lt;/strong&gt;. Das heißt so, weil der Partner über die Sau gefunden wird, die der Spieler ruft. Beim Doppelkopf ist es eher zufällig, beim Schafkopf findet der Spieler seinen Partner, indem er eine ihm fehlende Sau (= ein ihm fehlendes Ass) von einer Farbe, die er auf der Hand hat, aussucht. Der mit der gerufenen Sau auf der Hand ist dann sein Partner. Das ist wie beim Doppelkopf aber erst geheim und stellt sich während des Spiels raus. Beim Schafkopf sind alle Ober und Unter und alle Herz Trumpf. Das unterscheidet sich nur leicht vom Doppelkopf, wo Karo statt Herz Trumpf ist und eben noch die Herz-10 eine Sonderstellung haben.&lt;/p&gt;
-
-&lt;h3 id=&quot;die_solospiele&quot;&gt;Die Solospiele&lt;/h3&gt;
+&lt;h3 id=&quot;die-solospiele&quot;&gt;Die Solospiele&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Der Wenz&lt;/strong&gt; = das Bubensolo: Alle Unter sind Trumpf.&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;Das Farbsolo&lt;/strong&gt; ist genau wie beim Doko. Der Solist darf aussuchen welche Farbe Trumpf ist, außerdem sind die Ober (Damen) und die Unter (Buben) Trumpf.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Der Wenz&lt;/strong&gt; = das Bubensolo: Alle Unter sind Trumpf. &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Das Farbsolo&lt;/strong&gt; ist genau wie beim Doko. Der Solist darf aussuchen welche Farbe Trumpf ist, außerdem sind die Ober (Damen) und die Unter (Buben) Trumpf.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;der_spielablauf&quot;&gt;Der Spielablauf&lt;/h2&gt;
+&lt;h2 id=&quot;der-spielablauf&quot;&gt;Der Spielablauf&lt;/h2&gt;
+&lt;p&gt;### Spielfindung&lt;/p&gt;
 
-&lt;h3 id=&quot;spielfindung&quot;&gt;Spielfindung&lt;/h3&gt;
+&lt;p&gt;Die Karten werden austeilt und es wird reihum gefragt, ob jemand spielen will. Wenn einer Spieler will, sagt er “i dad”, was soviel wie “ich möchte ein Spiel ansagen bedeutet”. Sagt keiner was an wird je nachdem welche Regeln ausgemacht wurden zusammengeworfen und neu gemischt oder geramscht. 
+Sagt einer “&lt;strong&gt;i dad&lt;/strong&gt;” hat ein Spieler hinter ihm noch die Möglichkeit mit “&lt;strong&gt;i dad a&lt;/strong&gt;” ein teureres Spiel anzusagen (Solo). Dann hat der erste Spieler auch noch die Möglichkeit ebenfalls auf ein Solo zu erhöhen bzw. dem anderen den &lt;strong&gt;Vortritt&lt;/strong&gt; zu lassen. Es gibt dann eine höhere Spielansagen “&lt;strong&gt;Tout&lt;/strong&gt;” (das Spiel wird schwarz gewonnen), wobei der Spieler der weitern vorn sitzt immer den Vortritt hat.&lt;/p&gt;
 
-&lt;p&gt;Die Karten werden austeilt und es wird reihum gefragt, ob jemand spielen will. Wenn einer Spieler will, sagt er “i dad”, was soviel wie “ich möchte ein Spiel ansagen bedeutet”. Sagt keiner was an wird je nachdem welche Regeln ausgemacht wurden zusammengeworfen und neu gemischt oder geramscht. Sagt einer ”&lt;strong&gt;i dad&lt;/strong&gt;” hat ein Spieler hinter ihm noch die Möglichkeit mit ”&lt;strong&gt;i dad a&lt;/strong&gt;” ein teureres Spiel anzusagen (Solo). Dann hat der erste Spieler auch noch die Möglichkeit ebenfalls auf ein Solo zu erhöhen bzw. dem anderen den &lt;strong&gt;Vortritt&lt;/strong&gt; zu lassen. Es gibt dann eine höhere Spielansagen ”&lt;strong&gt;Tout&lt;/strong&gt;” (das Spiel wird schwarz gewonnen), wobei der Spieler der weitern vorn sitzt immer den Vortritt hat.&lt;/p&gt;
+&lt;p&gt;Der Spieler der gewonnen hat, darf entweder ein Solospiel ansagen oder ein Sauspiel. Bei einem Sauspiel sucht er sich einen Partner aus, indem er “&lt;strong&gt;auf eine Sau spielt&lt;/strong&gt;”. Das bedeutet dass er ein Ass in der Farbe ruft, die er auf der Hand hält, aber natürlich nicht selbst das Ass auf der Hand hält (und am besten noch von einer kurzen Farben, damit die Wahrscheinlichkeit niedriger ist, dass der Gegner es abstechen kann).  &lt;br /&gt;
+Auf das Herz-Ass kann man übrigens nicht spielen, da Herz ja Trumpf ist. Hat man keine Farbe ohne Ass auf der Hand - Hat man nur Farben mit Ass auf der Hand, kann man kein Sauspiel spielen.&lt;/p&gt;
 
-&lt;p&gt;Der Spieler der gewonnen hat, darf entweder ein Solospiel ansagen oder ein Sauspiel. Bei einem Sauspiel sucht er sich einen Partner aus, indem er ”&lt;strong&gt;auf eine Sau spielt&lt;/strong&gt;”. Das bedeutet dass er ein Ass in der Farbe ruft, die er auf der Hand hält, aber natürlich nicht selbst das Ass auf der Hand hält (und am besten noch von einer kurzen Farben, damit die Wahrscheinlichkeit niedriger ist, dass der Gegner es abstechen kann). &lt;br /&gt;Auf das Herz-Ass kann man übrigens nicht spielen, da Herz ja Trumpf ist. Hat man keine Farbe ohne Ass auf der Hand - Hat man nur Farben mit Ass auf der Hand, kann man kein Sauspiel spielen.&lt;/p&gt;
-
-&lt;p&gt;Anfangs ist die Partnerschaft noch ungeklärt, aber der Partner muss die Sau (das Ass) spielen, wenn es &lt;strong&gt;gesucht wird&lt;/strong&gt;. Das bedeutet, wenn die Farbe von der angesagten Sauangespielt wird, muss der Partner das Ass ausspielen. &lt;br /&gt;Außerdem gibt es Konventionen, durch die sich meist recht schnell herausstellt wer mit wem zusammenspielt. So spielt die Spielerpartei nach Möglichkeit immer Trumpf an und die Gegenspieler spielen immer die Farbe der &lt;strong&gt;gesuchten Sau&lt;/strong&gt; an.&lt;/p&gt;
+&lt;p&gt;Anfangs ist die Partnerschaft noch ungeklärt, aber der Partner muss die Sau (das Ass) spielen, wenn es &lt;strong&gt;gesucht wird&lt;/strong&gt;. Das bedeutet, wenn die Farbe von der angesagten Sauangespielt wird, muss der Partner das Ass ausspielen. &lt;br /&gt;
+Außerdem gibt es Konventionen, durch die sich meist recht schnell herausstellt wer mit wem zusammenspielt. So spielt die Spielerpartei nach Möglichkeit immer Trumpf an und die Gegenspieler spielen immer die Farbe der &lt;strong&gt;gesuchten Sau&lt;/strong&gt; an. &lt;/p&gt;
 
 &lt;h2 id=&quot;spielabrechnung&quot;&gt;Spielabrechnung&lt;/h2&gt;
 
-&lt;p&gt;Schafkopf spielt man gern um Geld, deswegen wird auch so abgerechnet. Je nachdem mit welchem Einsatz man spielt kostet ein Sauspiel 10 Cent und ein Solo 50 Cent bzw. 50 Cent und 2 €. Es gibt dann noch ”&lt;strong&gt;Laufende&lt;/strong&gt;” (wenn man vom stärksten Trumpf ab alle anderen ohne Lücke auch hat, z.B Eichel-Ober, Gras-Ober, Herz-Ober und Schellober wären 4 Laufende), die den Spielwert jeweis um 10 Cent erhöhen und dann gibt es noch &lt;strong&gt;Re und Kontra&lt;/strong&gt;, was den Spielwert jeewils verdoppelt. Manchmal wird noch mit &lt;strong&gt;Klopfen&lt;/strong&gt; gespielt, das bedeutet, man schaut sich nach dem Kartengeben nur die ersten vier Karten an und wenn die gut sind, kann man auf den Tisch klopfen, was den Spielwert verdoppelt.&lt;/p&gt;
+&lt;p&gt;Schafkopf spielt man gern um Geld, deswegen wird auch so abgerechnet. Je nachdem mit welchem Einsatz man spielt kostet ein Sauspiel 10 Cent und ein Solo 50 Cent bzw. 50 Cent und 2 €.
+Es gibt dann noch “&lt;strong&gt;Laufende&lt;/strong&gt;” (wenn man vom stärksten Trumpf ab alle anderen ohne Lücke auch hat, z.B Eichel-Ober, Gras-Ober, Herz-Ober und Schellober wären 4 Laufende), die den Spielwert jeweis um 10 Cent erhöhen und dann gibt es noch &lt;strong&gt;Re und Kontra&lt;/strong&gt;, was den Spielwert jeewils verdoppelt. Manchmal wird noch mit &lt;strong&gt;Klopfen&lt;/strong&gt; gespielt, das bedeutet, man schaut sich nach dem Kartengeben nur die ersten vier Karten an und wenn die gut sind, kann man auf den Tisch klopfen, was den Spielwert verdoppelt.&lt;/p&gt;
 
 &lt;p&gt;Am besten einfach mal anfangen, so groß sind die Unterschiede zum Doppelkopf nicht.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.sauspiel.de&quot;&gt;Auf Sauspiel könnt ihr kostenlos online Schafkopf spielen&lt;/a&gt; und wenn noch Fragen offen sind, schaut mal in der &lt;a href=&quot;https://www.sauspiel.de/hilfe&quot;&gt;Sauspiel-Hilfe&lt;/a&gt; oder bei &lt;a href=&quot;http://de.wikipedia.org/wiki/Schafkopf&quot;&gt;Wikipedia&lt;/a&gt; nach. &lt;br /&gt;&lt;a href=&quot;https://www.sauspiel.de/schafkopf-lernen&quot;&gt;Außerdem gibt es hier noch eine schöne Anleitung für Anfänger, die Schafkopf lernen wollen.&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://www.sauspiel.de&quot;&gt;Auf Sauspiel könnt ihr kostenlos online Schafkopf spielen&lt;/a&gt; und wenn noch Fragen offen sind, schaut mal in der &lt;a href=&quot;https://www.sauspiel.de/hilfe&quot;&gt;Sauspiel-Hilfe&lt;/a&gt; oder bei &lt;a href=&quot;http://de.wikipedia.org/wiki/Schafkopf&quot;&gt;Wikipedia&lt;/a&gt; nach.  &lt;br /&gt;
+&lt;a href=&quot;https://www.sauspiel.de/schafkopf-lernen&quot;&gt;Außerdem gibt es hier noch eine schöne Anleitung für Anfänger, die Schafkopf lernen wollen.&lt;/a&gt;&lt;/p&gt;
+
+</content>
  </entry>
  
  <entry>
@@ -266,227 +289,162 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
    <link href="http://luschentreff.de/doppelkopf-fuer-schafkopfer"/>
    <updated>2014-02-25T00:00:00+01:00</updated>
    <id>http://luschentreff.de/doppelkopf-fuer-schafkopfer</id>
-   <content type="html">&lt;p&gt;Jesses, denkt sich erstmal der Schafkopfer, beim Blatt fängt es ja schon an! Bei mehr als zwei Halbe kann man doch niemals 16 Karten auf einmal halten, da machen ja oft schon die 8 Karten beim Schafkopfn Probleme! Und selbst die Karten selbst sehen auch noch komplett anders aus! Stimmt. ABER, liebe Schafkopfer, mit ein wenig Übung klappt das schon mit den 16 Karten und das Blatt wird euch gleich anschließend erklärt. Doppelkopf hat auch einiges zu bieten. Nämlich strategische Finessen, größere Wahrscheinlichkeiten und weniger Einfluss vom Glück aufgrund der doppelten Kartenanzahl, Konventionen, Sonderpunkte.&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;Jesses, denkt sich erstmal der Schafkopfer, beim Blatt fängt es ja schon an! Bei mehr als zwei Halbe kann man doch niemals 16 Karten auf einmal halten, da machen ja oft schon die 8 Karten beim Schafkopfn Probleme! Und selbst die Karten selbst sehen auch noch komplett anders aus! Stimmt. ABER, liebe Schafkopfer, mit ein wenig Übung klappt das schon mit den 16 Karten und das Blatt wird euch gleich anschließend erklärt. Doppelkopf hat auch einiges zu bieten. Nämlich strategische Finessen, größere Wahrscheinlichkeiten und weniger Einfluss vom Glück aufgrund der doppelten Kartenanzahl, Konventionen, Sonderpunkte. &lt;/p&gt;
 
-&lt;h2 id=&quot;das_blatt&quot;&gt;Das Blatt&lt;/h2&gt;
+&lt;h2 id=&quot;das-blatt&quot;&gt;Das Blatt&lt;/h2&gt;
 
-&lt;p&gt;Erstmal zu den Karten, hier die Farben:&lt;/p&gt;
+&lt;p&gt;Erstmal zu den Karten, hier die Farben:    &lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&#39;symbol by E&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Eichel = &lt;i class=&#39;symbol fr E&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Kreuz&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;symbol by E&quot;&gt; &lt;/i&gt; Eichel = &lt;i class=&quot;symbol fr E&quot;&gt; &lt;/i&gt; Kreuz
+&lt;i class=&quot;symbol by G&quot;&gt; &lt;/i&gt; Gras = &lt;i class=&quot;symbol fr G&quot;&gt; &lt;/i&gt; Pik
+&lt;i class=&quot;symbol by H&quot;&gt; &lt;/i&gt; Herz = &lt;i class=&quot;symbol fr H&quot;&gt; &lt;/i&gt; Herz
+&lt;i class=&quot;symbol by S&quot;&gt; &lt;/i&gt; Schelle = &lt;i class=&quot;symbol fr S&quot;&gt; &lt;/i&gt; Karo&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&#39;symbol by G&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Gras = &lt;i class=&#39;symbol fr G&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Pik&lt;/p&gt;
+&lt;p&gt;Ober = Dame, 3 Augen (fast höchster Trumpf, also fast wie beim Schafkopf)&lt;br /&gt;
+Unter = Bube, 2 Augen (fast weithöchster Trumpf, fast wie beim Schafkopf) &lt;br /&gt;
+Ass = 11 Augen, (genau wie beim Schafkopf) &lt;br /&gt;
+10 = 10 Augen, (genau wie beim Schafkopf) &lt;br /&gt;
+9, 8, 7 = LUSCHEN, Spatzen, nichts neues…&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&#39;symbol by H&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Herz = &lt;i class=&#39;symbol fr H&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Herz&lt;/p&gt;
+&lt;p&gt;Fast wie beim Schafkopf heißt, dass es noch zwei höhere Trümpfe gibt und zwar die &lt;strong&gt;Dullen&lt;/strong&gt;, das sind die beiden Herz-Zehner. Und ein weiterer Unterschied ist, dass beim Doppelkopf nicht die Farbe Herz die Standart-Trumpffarbe ist sondern Karo. Also beim Partnerspiel sind die Karten so sortiert:    &lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&#39;symbol by S&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Schelle = &lt;i class=&#39;symbol fr S&#39;&gt;&amp;amp;nbsp;&lt;/i&gt; Karo&lt;/p&gt;
+&lt;p&gt;Trümpfe:    &lt;/p&gt;
 
-&lt;p&gt;Ober = Dame, 3 Augen (fast höchster Trumpf, also fast wie beim Schafkopf)&lt;br /&gt;Unter = Bube, 2 Augen (fast weithöchster Trumpf, fast wie beim Schafkopf) &lt;br /&gt;Ass = 11 Augen, (genau wie beim Schafkopf) &lt;br /&gt;10 = 10 Augen, (genau wie beim Schafkopf) &lt;br /&gt;9, 8, 7 = LUSCHEN, Spatzen, nichts neues&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;card-icon fr HX&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr HX&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr EO&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr EO&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr GO&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr GO&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr HO&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr HO&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr SO&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr SO&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr EU&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr EU&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr GU&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr GU&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr HU&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr HU&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr SU&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr SU&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr SA&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr SA&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr SX&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr SX&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr SK&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr SK&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr S9&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr S9&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr S8&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr S8&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr S7&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr S7&quot;&gt; &lt;/i&gt;    &lt;/p&gt;
 
-&lt;p&gt;Fast wie beim Schafkopf heißt, dass es noch zwei höhere Trümpfe gibt und zwar die &lt;strong&gt;Dullen&lt;/strong&gt;, das sind die beiden Herz-Zehner. Und ein weiterer Unterschied ist, dass beim Doppelkopf nicht die Farbe Herz die Standart-Trumpffarbe ist sondern Karo. Also beim Partnerspiel sind die Karten so sortiert:&lt;/p&gt;
+&lt;p&gt;Keine Trümpfe:    &lt;/p&gt;
 
-&lt;p&gt;Trümpfe:&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt; &amp;lt;/br&amp;gt; Keine Trümpfe:&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;h2 id=&quot;die_spielarten&quot;&gt;Die Spielarten&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&quot;card-icon fr EA&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr EA&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr EX&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr EX&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr EK&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr EK&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr E9&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr E9&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr E8&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr E8&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr E7&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr E7&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr GA&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr GA&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr GX&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr GX&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr GK&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr GK&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr G9&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr G9&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr G8&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr G8&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr G7&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr G7&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr HA&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr HA&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr HK&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr HK&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr H9&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr H9&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr H8&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr H8&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr H7&quot;&gt; &lt;/i&gt;
+&lt;i class=&quot;card-icon fr H7&quot;&gt; &lt;/i&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;das_normalspiel&quot;&gt;Das Normalspiel&lt;/h3&gt;
+&lt;h2 id=&quot;die-spielarten&quot;&gt;Die Spielarten&lt;/h2&gt;
 
-&lt;p&gt;Was beim Schafkopf das Sauspiel ist, ist beim Doppelkopf das Normalspiel. Das häufigste Spiel, bei dem immer zwei anfangs noch unbekannte Partner zusammenspielen. Unterschiede gibt es allerings. Denn wenn keiner Spielen würde wird beim Doppelkopf das Normalspiel gespielt. Zusammenwerfen gibt es da nicht. Und es spielen immer die zwei Spieler zusammen, die die Kreuz-Dame auf der Hand haben (beim Doppelkopf ist jede Karte zweimal vorhanden).&lt;/p&gt;
+&lt;h3 id=&quot;das-normalspiel&quot;&gt;Das Normalspiel&lt;/h3&gt;
+
+&lt;p&gt;Was beim Schafkopf das Sauspiel ist, ist beim Doppelkopf das Normalspiel. Das häufigste Spiel, bei dem immer zwei anfangs noch unbekannte Partner zusammenspielen. Unterschiede gibt es allerings. Denn wenn keiner Spielen würde wird beim Doppelkopf das Normalspiel gespielt. Zusammenwerfen gibt es da nicht. Und es spielen immer die zwei Spieler zusammen, die die Kreuz-Dame auf der Hand haben (beim Doppelkopf ist jede Karte zweimal vorhanden). &lt;/p&gt;
 
 &lt;p&gt;Problematisch ist das, wenn ein Spieler beide Kreuz-Damen auf der Hand hält, dann wird das beim Doppelkopf &lt;strong&gt;Hochzeit&lt;/strong&gt; genannt. Sagt er die Hochzeit als Spiel an, spielt er mit dem Spieler zusammen, der als erstes einen Stich gewinnt. Sagt er nichts an, nennt man das &lt;strong&gt;stille Hochzeit&lt;/strong&gt; und der Solist spielt ein heimliches Solo. Das macht viel Spaß, wird aber oft früh entdeckt und ist nicht so leicht zu gewinnen.&lt;/p&gt;
 
-&lt;h3 id=&quot;die_solospiele&quot;&gt;Die Solospiele&lt;/h3&gt;
+&lt;h3 id=&quot;die-solospiele&quot;&gt;Die Solospiele&lt;/h3&gt;
 
 &lt;p&gt;Beim Doppelkopf wird nicht gefragt, wer gern spielen tät, sondern ob der Spieler &lt;strong&gt;gesund&lt;/strong&gt; ist. Wenn er kein Solo spielen will, &lt;strong&gt;“meldet er sich gesund”&lt;/strong&gt;, taugen die Karten zu einem Solo, &lt;strong&gt;“meldet er einen Vorbehalt an”&lt;/strong&gt;. Auch die Hochzeit ist ein Vorbehalt, da es kein Normalspiel ist und ein Solospiel werden kann, wenn der Hochzeiter (der mit beiden Kreuz-Damen) die ersten drei Stiche selbst macht. Weitere Vorbehalte/Solospiele:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Bubensolo&lt;/strong&gt; (quasi ein Wenz, nur die Buben sind Trumpf)&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;Damensolo&lt;/strong&gt; (quasi ein Geier, falls das hier jemand spielt, nur die Damen sind Trumpf)&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;Farbsolo&lt;/strong&gt; (ein ganz normales Farbsolo, Herz-Zehner, Damen, Buben und die vom Solist gewählte Farbe ist Trumpf)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bubensolo&lt;/strong&gt; (quasi ein Wenz, nur die Buben sind Trumpf)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Damensolo&lt;/strong&gt; (quasi ein Geier, falls das hier jemand spielt, nur die Damen sind Trumpf)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Farbsolo&lt;/strong&gt; (ein ganz normales Farbsolo, Herz-Zehner, Damen, Buben und die vom Solist gewählte Farbe ist Trumpf)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Dann gibt’s noch ein paar Solospiele, die nicht nach den Regeln des Deutschen Doppelkopfverbands sind:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Armut&lt;/strong&gt; (ein Spieler hat drei oder weniger Trumpf, ein anderer so gute Karten dass er sein Partner sein will und die beiden tauschen drei Karten aus)&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;Schweinchen&lt;/strong&gt; (ein Spieler hat beide Karo-Asse, die werden zu den stärksten Trümpfen, noch stärker als die Herz-10)&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;Zweite Dulle sticht&lt;/strong&gt; (wurde noch nicht verraten, aber der stärkste Trumpf die Herz-10 nennt man beim Doppelkopf &lt;strong&gt;Dulle&lt;/strong&gt; und normalerweise gewinnt die zuerst ausgespielte Karte, mit dieser Regel wird bei der Herz-10 eine Ausnahme gemacht und es gewinnt die zweite)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Armut&lt;/strong&gt; (ein Spieler hat drei oder weniger Trumpf, ein anderer so gute Karten dass er sein Partner sein will und die beiden tauschen drei Karten aus)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Schweinchen&lt;/strong&gt; (ein Spieler hat beide Karo-Asse, die werden zu den stärksten Trümpfen, noch stärker als die Herz-10)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Zweite Dulle sticht&lt;/strong&gt; (wurde noch nicht verraten, aber der stärkste Trumpf die Herz-10 nennt man beim Doppelkopf &lt;strong&gt;Dulle&lt;/strong&gt; und normalerweise gewinnt die zuerst ausgespielte Karte, mit dieser Regel wird bei der Herz-10 eine Ausnahme gemacht und es gewinnt die zweite)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;gemeinsamkeit_schafkopfdoppelkopf&quot;&gt;Gemeinsamkeit Schafkopf-Doppelkopf&lt;/h2&gt;
+&lt;h2 id=&quot;gemeinsamkeit-schafkopf-doppelkopf&quot;&gt;Gemeinsamkeit Schafkopf-Doppelkopf&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Vorhand kommt raus&lt;/li&gt;
-
-&lt;li&gt;Es muss bedient werden. Wer Farbe hat muss Farbe bekennen, wer Trumpf hat muss Trumpf bekennen. Wer frei ist darf mit Trumpf stechen, schmieren oder abspatzen&lt;/li&gt;
-
-&lt;li&gt;Die Karten haben den gleichen Wert. Ass hat 11 Augen, Zehn zehn, König vier, usw.&lt;/li&gt;
-
-&lt;li&gt;Die Stiche der Parteien werden zusammen gezählt&lt;/li&gt;
+  &lt;li&gt;Vorhand kommt raus&lt;/li&gt;
+  &lt;li&gt;Es muss bedient werden. Wer Farbe hat muss Farbe bekennen, wer Trumpf hat muss Trumpf bekennen. Wer frei ist darf mit Trumpf stechen, schmieren oder abspatzen&lt;/li&gt;
+  &lt;li&gt;Die Karten haben den gleichen Wert. Ass hat 11 Augen, Zehn zehn, König vier, usw.&lt;/li&gt;
+  &lt;li&gt;Die Stiche der Parteien werden zusammen gezählt    &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;besonderheiten_und_tips_und_tricks&quot;&gt;Besonderheiten und Tips und Tricks&lt;/h2&gt;
+&lt;h2 id=&quot;besonderheiten-und-tips-und-tricks&quot;&gt;Besonderheiten und Tips und Tricks&lt;/h2&gt;
 
-&lt;h3 id=&quot;re_und_kontra&quot;&gt;Re und Kontra&lt;/h3&gt;
+&lt;h3 id=&quot;re-und-kontra&quot;&gt;Re und Kontra&lt;/h3&gt;
 
-&lt;p&gt;Die Spieler mit den Kreuz-Damen oder der Alleinspieler beim Solo sind die Re-Partei, die Gegenspieler bilden die Kontra-Partei. Die Re-Partei kann &lt;strong&gt;Re&lt;/strong&gt; ansagen und die Kontra-Partei &lt;strong&gt;Kontra&lt;/strong&gt;. Das verhält sich wie beim Schafkopf, wenn einer sich sicher ist, dass er gewinnt, sagt er als Re “Re” sagen und als Kontra “Kontra”. Wenn man sehr gute Karten hat, kann man beim Doppelkopf noch Keine-90 (Augen), Keine-60 (Augen), Keine-30 (Augen) und schwarz &lt;strong&gt;absagen&lt;/strong&gt;. Ansagen kann man die ersten drei Stiche machen, der Absagezeitpunkt verschiebt sich pro Absagestufe immer um einen Stich weiter nach hinten.&lt;/p&gt;
+&lt;p&gt;Die Spieler mit den Kreuz-Damen oder der Alleinspieler beim Solo sind die Re-Partei, die Gegenspieler bilden die Kontra-Partei. Die Re-Partei kann &lt;strong&gt;Re&lt;/strong&gt; ansagen und die Kontra-Partei &lt;strong&gt;Kontra&lt;/strong&gt;. Das verhält sich wie beim Schafkopf, wenn einer sich sicher ist, dass er gewinnt, sagt er als Re “Re” sagen und als Kontra “Kontra”. Wenn man sehr gute Karten hat, kann man beim Doppelkopf noch Keine-90 (Augen), Keine-60 (Augen), Keine-30 (Augen) und schwarz &lt;strong&gt;absagen&lt;/strong&gt;. Ansagen kann man die ersten drei Stiche machen, der Absagezeitpunkt verschiebt sich pro Absagestufe immer um einen Stich weiter nach hinten.  &lt;/p&gt;
 
 &lt;h3 id=&quot;partnerfindung&quot;&gt;Partnerfindung&lt;/h3&gt;
 
-&lt;p&gt;Wie beim Schafkopf ist am Anfang die Partnerschaft noch ungeklärt. Aber beim Doppelkopf kann man den Partner nicht einfach direkt suchen. Deswegen gibt es beim Doppelkopf Konventionen (ungeschriebene Regeln), die dabei helfen, dass die Mitspieler sich schneller finden. Dabei gibt es &lt;a href=&quot;https://www.fuchstreff.de/hilfe#39-die-20-goldenen-doppelkopf-regeln&quot;&gt;allgemein bekannte und klar erlaubte Konventionen&lt;/a&gt; und Konventionen, die sich im Graubereich der offiziellen Regeln des DDV bewegen, das sogenannte &lt;a href=&quot;http://de.wikipedia.org/wiki/Essener_System&quot;&gt;“Essener System”&lt;/a&gt;, bei dem u.a. ein absichtliches Zögern vor dem Ausspiel einer Karte dem Partner Hinweise darüber wer mit wem spielt und sogar wie gut die Karten sind liefert. Das ist gut am Anfang mal gehört zu haben, aber braucht viel Übung.&lt;/p&gt;
+&lt;p&gt;Wie beim Schafkopf ist am Anfang die Partnerschaft noch ungeklärt. Aber beim Doppelkopf kann man den Partner nicht einfach direkt suchen. Deswegen gibt es beim Doppelkopf Konventionen (ungeschriebene Regeln), die dabei helfen, dass die Mitspieler sich schneller finden. Dabei gibt es &lt;a href=&quot;https://www.fuchstreff.de/hilfe#39-die-20-goldenen-doppelkopf-regeln&quot;&gt;allgemein bekannte und klar erlaubte Konventionen&lt;/a&gt; und Konventionen, die sich im Graubereich der offiziellen Regeln des DDV bewegen, das sogenannte &lt;a href=&quot;http://de.wikipedia.org/wiki/Essener_System&quot;&gt;“Essener System”&lt;/a&gt;, bei dem u.a. ein absichtliches Zögern vor dem Ausspiel einer Karte dem Partner Hinweise darüber wer mit wem spielt und sogar wie gut die Karten sind liefert. Das ist gut am Anfang mal gehört zu haben, aber braucht viel Übung.  &lt;/p&gt;
 
 &lt;h3 id=&quot;spielabrechnung&quot;&gt;Spielabrechnung&lt;/h3&gt;
 
 &lt;p&gt;Die Spielabrechnung ist kompliziert, da es viele Variablen und Sonderpunkte gibt. Hier alles sehr knapp zusammengefasst, wer mehr wissen will, kann sich z.B. &lt;a href=&quot;https://www.fuchstreff.de/doppelkopf-lernen&quot;&gt;beim Fuchstreff im Lernbereich weitere Infos holen&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Der Spielwert, also wie hoch gewonnen wurde wird in Punkten gemessen. Der Gewinner bekommt Pluspunkte, der Verlierer Minuspunkte. Durch die Sonderpunkte können aber auch der Gewinnerpartei Punkte abgezogen und der Verliererpartei Pluspunkte verrechnet werden. Beim Solos wird die Punktzahl für den Solisten verdreifacht, positiv aber auch negativ.&lt;/p&gt;
+&lt;p&gt;Der Spielwert, also wie hoch gewonnen wurde wird in Punkten gemessen. Der Gewinner bekommt Pluspunkte, der Verlierer Minuspunkte. Durch die Sonderpunkte können aber auch der Gewinnerpartei Punkte abgezogen und der Verliererpartei Pluspunkte verrechnet werden. Beim Solos wird die Punktzahl für den Solisten verdreifacht, positiv aber auch negativ.    &lt;/p&gt;
 
-&lt;p&gt;Für ein gewonnenes Spiel ist der Grundwert ein Punkt. Werden die Verlierer unter 90 Augen, 60, 30 oder sogar schwarz gespielt, bekommt die Gewinnerpartei jeweils einen Punkt zusätzlich. Gibt es keinen Gewinner (wenn beide Parteien 120 Augen haben), werden nur die zusätzlichen Punkte an die Partei verteilt, die die Gegenpartei unter 90, 60 beziehungsweise 30 gespielt hat.&lt;/p&gt;
+&lt;p&gt;Für ein gewonnenes Spiel ist der Grundwert ein Punkt. Werden die Verlierer unter 90 Augen, 60, 30 oder sogar schwarz gespielt, bekommt die Gewinnerpartei jeweils einen Punkt zusätzlich. Gibt es keinen Gewinner (wenn beide Parteien 120 Augen haben), werden nur die zusätzlichen Punkte an die Partei verteilt, die die Gegenpartei unter 90, 60 beziehungsweise 30 gespielt hat.    &lt;/p&gt;
 
 &lt;p&gt;Erreicht die Gewinnerpartei 120, 90, 60, beziehungsweise 30 Augen gegen die jeweilige Absage von der Verliererpartei, bekommt sie jeweils einen Punkt zusätzlich. Diese Punkte werden auch dann vergeben, wenn es keinen Gewinner gibt, aber die entsprechenden Augenzahlen gegen die entsprechenden Ansagen gewonnen wurden.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Sonderpunkte&lt;/strong&gt; (gibt es für besondere Leistungen im Spiel):&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Gegen die Kreuz-Damen gewinnen&lt;/li&gt;
-
-&lt;li&gt;Stich mit einem Wert von mindestens 40 Augen gewinnen (auch &lt;strong&gt;Doppelkopf&lt;/strong&gt; genannt)&lt;/li&gt;
-
-&lt;li&gt;Stich mit einem Karo-Ass vom Gegner gewinnen (auch &lt;strong&gt;Fuchs gefangen&lt;/strong&gt; genannt)&lt;/li&gt;
-
-&lt;li&gt;letzter Stich mit einem Kreuz-Buben gewinnen (auch &lt;strong&gt;Karlchen&lt;/strong&gt; genannt)&lt;/li&gt;
+  &lt;li&gt;Gegen die Kreuz-Damen gewinnen&lt;/li&gt;
+  &lt;li&gt;Stich mit einem Wert von mindestens 40 Augen gewinnen (auch &lt;strong&gt;Doppelkopf&lt;/strong&gt; genannt)&lt;/li&gt;
+  &lt;li&gt;Stich mit einem Karo-Ass vom Gegner gewinnen (auch &lt;strong&gt;Fuchs gefangen&lt;/strong&gt; genannt)&lt;/li&gt;
+  &lt;li&gt;letzter Stich mit einem Kreuz-Buben gewinnen (auch &lt;strong&gt;Karlchen&lt;/strong&gt; genannt)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;So Schafkopfer, jetzt seid ihr für die ersten Runden Doko gewappnet! Viel Spaß und schreibt uns, falls euch ihr noch Fragen habt, euch noch etwas fehlt oder auch wenn euch unsere Einführungen gefallen!&lt;/p&gt;</content>
+&lt;p&gt;So Schafkopfer, jetzt seid ihr für die ersten Runden Doko gewappnet! Viel Spaß und schreibt uns, falls euch ihr noch Fragen habt, euch noch etwas fehlt oder auch wenn euch unsere Einführungen gefallen! &lt;/p&gt;
+</content>
  </entry>
  
  <entry>
@@ -494,7 +452,9 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
    <link href="http://luschentreff.de/skat/skat-fuer-doppelkopfspieler"/>
    <updated>2014-02-24T00:00:00+01:00</updated>
    <id>http://luschentreff.de/skat/skat-fuer-doppelkopfspieler</id>
-   <content type="html">&lt;p&gt;Erstmal die gute Nachricht: halb so viele Karten. Das bedeutet: selbst als Kartenhalter keine Probleme. Und: nur halb so schwer mitzuzählen und sich zu merken, welche Karten noch im Spiel sind. Dann noch eine gute Nachricht: es werden ständig Solos gespielt, und nur gegen zwei statt gegen drei Spieler. &lt;br /&gt;Es gibt einen Skat, das sind die zwei Karten die beim Verteilen von 32 Karten auf 3 Spieler übrig bleiben und den bekommt der der alleine spielt. Dieser kann die zwei Karten gegen beliebige zwei andere Karten austauschen, oder auch ungesehen liegen lassen. Auch nicht so schwer.&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;Erstmal die gute Nachricht: halb so viele Karten. Das bedeutet: selbst als Kartenhalter keine Probleme. Und: nur halb so schwer mitzuzählen und sich zu merken, welche Karten noch im Spiel sind. Dann noch eine gute Nachricht: es werden ständig Solos gespielt, und nur gegen zwei statt gegen drei Spieler.   &lt;br /&gt;
+Es gibt einen Skat, das sind die zwei Karten die beim Verteilen von 32 Karten auf 3 Spieler übrig bleiben und den bekommt der der alleine spielt. Dieser kann die zwei Karten gegen beliebige zwei andere Karten austauschen, oder auch ungesehen liegen lassen. Auch nicht so schwer.&lt;/p&gt;
 
 &lt;p&gt;Das schwierige am Skat ist &lt;strong&gt;DAS REIZEN&lt;/strong&gt;. Das ist eben nicht so einfach. Aber fangen wir einfach mal an.&lt;/p&gt;
 
@@ -503,40 +463,40 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;strong&gt;Vorweg&lt;/strong&gt;: Die Kartensortierung: Es gibt nur Solos. Das Farbsolo ist quasi das Normalspiel beim Skat. Da sind nur die Buben und die angesagte Farbe Trumpf, also nicht die Damen und nicht die Dullen. Dann kommt das Ass, 10, König, Dame, Luschen.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Farbspiel&lt;/strong&gt; ist dem Farbsolo verwandt. Der Gewinner &lt;strong&gt;DES REIZENS&lt;/strong&gt; darf sich aussuchen, welche Farbe außer den 4 (4 nicht 8!) Buben (keine Damen, keine Dullen, o.ä.) noch Trumpf ist&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;Grand&lt;/strong&gt; ist das Bubensolo (4 nicht 8 Buben!) sonst keine weiteren Trümpfe&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;Nullspiel&lt;/strong&gt;: Keine Trümpfe, die &lt;strong&gt;Buben und 10er werden eingereiht&lt;/strong&gt;, das bedeutet dass es eine neue Sortierung gibt: Ass, König, Dame, Bube, 10, 9, 8, 7. Derjenige, der das Nullspiel ansagt, darf KEINEN Stich gewinnen.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Farbspiel&lt;/strong&gt; ist dem Farbsolo verwandt. Der Gewinner &lt;strong&gt;DES REIZENS&lt;/strong&gt; darf sich aussuchen, welche Farbe außer den 4 (4 nicht 8!) Buben (keine Damen, keine Dullen, o.ä.) noch Trumpf ist&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Grand&lt;/strong&gt; ist das Bubensolo (4 nicht 8 Buben!) sonst keine weiteren Trümpfe &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nullspiel&lt;/strong&gt;: Keine Trümpfe, die &lt;strong&gt;Buben und 10er werden eingereiht&lt;/strong&gt;, das bedeutet dass es eine neue Sortierung gibt: Ass, König, Dame, Bube, 10, 9, 8, 7. Derjenige, der das Nullspiel ansagt, darf KEINEN Stich gewinnen.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;spielfindung_aka_das_reizen&quot;&gt;Spielfindung aka DAS REIZEN&lt;/h2&gt;
+&lt;h2 id=&quot;spielfindung-aka-das-reizen&quot;&gt;Spielfindung aka DAS REIZEN&lt;/h2&gt;
 
-&lt;p&gt;Erstmal hilft es sich &lt;strong&gt;DAS REIZEN&lt;/strong&gt; als Versteigerung vorzustellen. Es ist eine Auktion darum, wer allein spielen und die Spielart aussuchen darf.&lt;/p&gt;
+&lt;p&gt;Erstmal hilft es sich &lt;strong&gt;DAS REIZEN&lt;/strong&gt; als Versteigerung vorzustellen. Es ist eine Auktion darum, wer allein spielen und die Spielart aussuchen darf. &lt;/p&gt;
 
 &lt;p&gt;Das läuft so ab, dass immer zwei sich solange Reizwerte (Gebote) nennen, bis einer nicht mehr mithalten kann. Dann wird der Dritte gefragt.&lt;/p&gt;
 
-&lt;p&gt;Der Reizwert hängt von den Karten die man hat bzw. davon ab, welches Spiel man ansagen und spielen möchte.&lt;/p&gt;
+&lt;p&gt;Der Reizwert hängt von den Karten die man hat bzw. davon ab, welches Spiel man ansagen und spielen möchte. &lt;/p&gt;
 
-&lt;h3 id=&quot;reizwert_errechnen&quot;&gt;Reizwert errechnen&lt;/h3&gt;
+&lt;h3 id=&quot;reizwert-errechnen&quot;&gt;Reizwert errechnen&lt;/h3&gt;
 
 &lt;p&gt;Die Rechnung für den Reizwert hat mehrere Faktoren:&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;1. Wie viele Buben habe ich bzw. habe ich nicht?&lt;/strong&gt; Noch genauer: Wie viele Buben habe ich fortlaufend bzw. wie viele Buben fehlen mir fortlaufend (fortlaufend heißt hier vom Kreuz-Buben bis zum Karo-Buben ohne Unterbrechung)?&lt;/p&gt;
 
-&lt;p&gt;Bsp ”&lt;strong&gt;Mit&lt;/strong&gt;” (wieviele Buben fortlaufend mit dem Kreuzbuben):&lt;/p&gt;
+&lt;p&gt;Bsp “&lt;strong&gt;Mit&lt;/strong&gt;” (wieviele Buben fortlaufend mit dem Kreuzbuben):&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;* habe ich alle 4 Buben (Kreuz, Pik, Herz, Karo): Mit 4
 * habe ich die zwei stärksten Buben (Kreuz, Pik): Mit 2 
 * die zwei stärksten und den Karo Buben (Kreuz, Pik, Karo): Mit 2 
-  (da nicht fortlaufend!) &lt;/code&gt;&lt;/pre&gt;
+  (da nicht fortlaufend!) 
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Bsp ”&lt;strong&gt;Ohne&lt;/strong&gt;” (wieviele Buben fehlen forlaufend bis zum Kreuzbuben):&lt;/p&gt;
+&lt;p&gt;Bsp “&lt;strong&gt;Ohne&lt;/strong&gt;” (wieviele Buben fehlen forlaufend bis zum Kreuzbuben):&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;* habe ich keinen Buben ( - ): Ohne 4
 * habe ich nur den Karo Buben: Ohne 3
 * habe ich nur den Herz Buben: Ohne 2
-* den Herz- und den Karo-Buben: Ohne 2&lt;/code&gt;&lt;/pre&gt;
+* den Herz- und den Karo-Buben: Ohne 2
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;strong&gt;2. Wer ein Spiel spielt wird belohnt! Also immer “+1”&lt;/strong&gt; (zu dem Wert von oben addiert)&lt;/p&gt;
 
@@ -546,26 +506,31 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
 
 &lt;pre&gt;&lt;code&gt;Farbspiel Karo: 9, Herz: 10, Pik: 11, Kreuz: 12
 Nullspiel: 23
-Grand: 24&lt;/code&gt;&lt;/pre&gt;
+Grand: 24
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Also immer schön die Buben zählen, dann plus 1 und das ganze dann mit dem Spiel multiplizieren.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;Ohne 3  +1 (im Skatjargon: Spiel 4) mal Farbspiel Pik: 11 
-macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
+macht den Reizwert 44
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;strong&gt;5. Hand, Schneider/Schwarz angesagt, Schneider/Schwarz gewonnen&lt;/strong&gt; Bei 2. wurde gesagt, dass wenn man ein Spiel spielen würde man mit +1 belohnt wird. Dieser Wert kann noch erhöht werden, indem man ein “schwierigeres” Spiel ansagt oder spielt oder gewinnt. Wenn man z.B. den Skat (die zwei übriggebliebenen Karten, s.o.) ungesehen übernimmt und keine zwei Karten austauscht, oder wenn man vor dem Spiel sagt, dass man Schneider (Keine 30) oder schwarz gewinnt, oder indem man einfach Schneider oder schwarz gewinnt. Das kann alles jeweils zusätzlich ein +1 geben.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Hand, Schneider/Schwarz angesagt, Schneider/Schwarz gewonnen&lt;/strong&gt;
+Bei 2. wurde gesagt, dass wenn man ein Spiel spielen würde man mit +1 belohnt wird. Dieser Wert kann noch erhöht werden, indem man ein “schwierigeres” Spiel ansagt oder spielt oder gewinnt. Wenn man z.B. den Skat (die zwei übriggebliebenen Karten, s.o.) ungesehen übernimmt und keine zwei Karten austauscht, oder wenn man vor dem Spiel sagt, dass man Schneider (Keine 30) oder schwarz gewinnt, oder indem man einfach Schneider oder schwarz gewinnt. Das kann alles jeweils zusätzlich ein +1 geben.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;6. Überreizt&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Wenn man einen Reizwert nimmt und nach dem Spiel stellt sich heraus, dass man zu hoch gereizt hat, dann gibt es natürlich Ärger. Hier bedeutet das, dass man das Spiel verloren hat und zwar mindestens zu einem Wert, der gereizt wurde, aber auch mit dem Blatt hätte gereizt werden können. Das passiert manchmal wenn man Hand spielt (den Skat aus der Mitte nicht anschaut) und da ein Bube drin liegt und man dann eben nicht “ohne 3” spielt sondern plötzlich “mit 1”.&lt;/p&gt;
+&lt;p&gt;Wenn man einen Reizwert nimmt und nach dem Spiel stellt sich heraus, dass man zu hoch gereizt hat, dann gibt es natürlich Ärger. Hier bedeutet das, dass man das Spiel verloren hat und zwar mindestens zu einem Wert, der gereizt wurde, aber auch mit dem Blatt hätte gereizt werden können. Das passiert manchmal wenn man Hand spielt (den Skat aus der Mitte nicht anschaut) und da ein Bube drin liegt und man dann eben nicht “ohne 3” spielt sondern plötzlich “mit 1”.    &lt;/p&gt;
 
-&lt;p&gt;Alles nicht so kompliziert, wenn man das System mit den Bubenzählen verstanden hat. Wem das zu schnell ging, kann getrost erstmal ein paar Runden &lt;a href=&quot;https://www.skatstube.de&quot;&gt;in der Skatstube online spielen&lt;/a&gt;, denn da gibt es einen Reizassistenten, der einem das Ausrechnen des Reizwerts dankbarerweise abnimmt. &lt;br /&gt;Oder, für die Theoretiker unter euch, nochmal ein wenig mehr Theorie:&lt;/p&gt;
+&lt;p&gt;Alles nicht so kompliziert, wenn man das System mit den Bubenzählen verstanden hat. Wem das zu schnell ging, kann getrost erstmal ein paar Runden &lt;a href=&quot;https://www.skatstube.de&quot;&gt;in der Skatstube online spielen&lt;/a&gt;, denn da gibt es einen Reizassistenten, der einem das Ausrechnen des Reizwerts dankbarerweise abnimmt.  &lt;br /&gt;
+Oder, für die Theoretiker unter euch, nochmal ein wenig mehr Theorie:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://de.wikipedia.org/wiki/Skat&quot;&gt;Wikipedia, wie immer eine gute Anlaufadresse&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://de.wikipedia.org/wiki/Skat&quot;&gt;Wikipedia, wie immer eine gute Anlaufadresse&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.skatstube.de/skat-lernen&quot;&gt;Der interaktive Lernbereich der Skatstube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;li&gt;&lt;a href=&quot;https://www.skatstube.de/skat-lernen&quot;&gt;Der interaktive Lernbereich der Skatstube&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
+</content>
  </entry>
  
  <entry>
@@ -573,235 +538,166 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
    <link href="http://luschentreff.de/doppelkopf/doppelkopf-fuer-skatspieler"/>
    <updated>2014-02-17T00:00:00+01:00</updated>
    <id>http://luschentreff.de/doppelkopf/doppelkopf-fuer-skatspieler</id>
-   <content type="html">&lt;p&gt;Stell Dir vor Du spielst Skat, bist aber immer Gegenspieler. So muss man sich das beim Doppelkopf vorstellen, denn da ist es die absolute Ausnahme, dass man Alleinspieler ist. Und wenn, dann muss man allein gegen drei antreten, was die Sache sehr erschwert.&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;Stell Dir vor Du spielst Skat, bist aber immer Gegenspieler. So muss man sich das beim Doppelkopf vorstellen, denn da ist es die absolute Ausnahme, dass man Alleinspieler ist. Und wenn, dann muss man allein gegen drei antreten, was die Sache sehr erschwert.&lt;/p&gt;
 
-&lt;p&gt;Dann gibt es noch jede Karte doppelt, also &lt;strong&gt;64 Karten&lt;/strong&gt;, bzw. 16 Karten pro Person, weshalb es anfangs nicht ganz einfach ist alle Karten auf der Hand zu halten.&lt;/p&gt;
+&lt;p&gt;Dann gibt es noch jede Karte doppelt, also &lt;strong&gt;64 Karten&lt;/strong&gt;, bzw. 16 Karten pro Person, weshalb es anfangs nicht ganz einfach ist alle Karten auf der Hand zu halten. &lt;/p&gt;
 
-&lt;p&gt;Es wird auch nicht gereizt, sondern nur reihum gefragt wer &lt;strong&gt;gesund&lt;/strong&gt; ist. Gesund ist man beim Doppelkopf dann, wenn man nicht so ein Brett auf der Hand hat, dass man gegen die anderen drei allein gewinnen könnte. Sind alle Spieler gesund, also hat keiner so gute Karten, dass er gegen drei Spieler gewinnt, wird ein &lt;strong&gt;Normalspiel&lt;/strong&gt; gespielt. Normalspiel bedeutet, dass jeweils zwei Spieler gegeneinander spielen. Wer mit wem ist am Anfang aber noch unklar, denn es spielen immer die zwei zusammen, die die Kreuz-Damen auf der Hand halten, aber das darf natürlich nicht (verbal) verraten werden (die Mitspieler erkennen sich durch Spielkonventionen, also ob Trumpf ausgespielt wird, oder Fehl).&lt;/p&gt;
+&lt;p&gt;Es wird auch nicht gereizt, sondern nur reihum gefragt wer &lt;strong&gt;gesund&lt;/strong&gt; ist. Gesund ist man beim Doppelkopf dann, wenn man nicht so ein Brett auf der Hand hat, dass man gegen die anderen drei allein gewinnen könnte. Sind alle Spieler gesund, also hat keiner so gute Karten, dass er gegen drei Spieler gewinnt, wird ein &lt;strong&gt;Normalspiel&lt;/strong&gt; gespielt. Normalspiel bedeutet, dass jeweils zwei Spieler gegeneinander spielen. Wer mit wem ist am Anfang aber noch unklar, denn es spielen immer die zwei zusammen, die die Kreuz-Damen auf der Hand halten, aber das darf natürlich nicht (verbal) verraten werden (die Mitspieler erkennen sich durch Spielkonventionen, also ob Trumpf ausgespielt wird, oder Fehl). &lt;/p&gt;
 
 &lt;p&gt;Die Kartenreihenfolge unterscheidet sich auch noch ein wenig.&lt;/p&gt;
 
-&lt;h2 id=&quot;das_blatt&quot;&gt;Das Blatt&lt;/h2&gt;
+&lt;h2 id=&quot;das-blatt&quot;&gt;Das Blatt&lt;/h2&gt;
 
 &lt;p&gt;Bei einem Normalspiel, also wenn kein Spieler ein Solo ansagt, dann sind die Karten wie folgt der Rangfolge nach sortiert (Karo ist die Standart-Trumpffarbe):&lt;/p&gt;
 
-&lt;p&gt;Trümpfe:&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt; &amp;lt;/br&amp;gt; Keine Trümpfe:&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H7&#39;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;p&gt;Trümpfe: 
+&amp;lt;div class=&quot;card-icon fr HX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr S9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr S9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr S8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr S8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr S7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr S7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;/br&amp;gt; Keine Trümpfe:
+&amp;lt;div class=&quot;card-icon fr EA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr E9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr E9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr E8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr E8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr E7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr E7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr G9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr G9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr G8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr G8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr G7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr G7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr H9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr H9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr H8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr H8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr H7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr H7&quot;&amp;gt; &amp;lt;/div&amp;gt;&lt;/p&gt;
+
 &lt;p&gt;Es gibt sehr viel mehr Trümpfe beim Doppelkopf als beim Skat. Welche Karten Trumpf sind und welche nicht variiert stark nach dem angesagten Spiel (ähnlich wie beim Grand, da sind nur die Buben Trumpf, beim Farbspiel die Buben und eine Farbe).&lt;/p&gt;
 
-&lt;h2 id=&quot;die_spielarten&quot;&gt;Die Spielarten&lt;/h2&gt;
+&lt;h2 id=&quot;die-spielarten&quot;&gt;Die Spielarten&lt;/h2&gt;
 
-&lt;p&gt;Beim Doppelkopf gibt es sehr viele verschiedenen Regeln. Um alles etwas einfacher zu machen, hat der Deutsche Doppelkopfverband (DDV) Regeln eingeführt, die bei offiziellen Veranstaltungen angewandt werden, trotzdem gibt es noch ein paar Kneipenregeln, die stark verbreitet sind. Es wird also zwischen Regeln nach DDV und Kneipenregeln unterschieden.&lt;/p&gt;
+&lt;p&gt;Beim Doppelkopf gibt es sehr viele verschiedenen Regeln. Um alles etwas einfacher zu machen, hat der Deutsche Doppelkopfverband (DDV) Regeln eingeführt, die bei offiziellen Veranstaltungen angewandt werden, trotzdem gibt es noch ein paar Kneipenregeln, die stark verbreitet sind. Es wird also zwischen Regeln nach DDV und Kneipenregeln unterschieden. &lt;/p&gt;
 
-&lt;h3 id=&quot;nach_ddvregeln&quot;&gt;Nach DDV-Regeln&lt;/h3&gt;
+&lt;h3 id=&quot;nach-ddv-regeln&quot;&gt;Nach DDV-Regeln&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Normalspiel&lt;/strong&gt;, Kartenreihenfolge: Herz 10, die Damen, die Buben, alle Karo, alle Nichttrümpfe&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Normalspiel&lt;/strong&gt;, Kartenreihenfolge: Herz 10, die Damen, die Buben, alle Karo, alle Nichttrümpfe &lt;/p&gt;
 
 &lt;p&gt;Bei einem Solo-Spiel kann der Solist wählen:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Bubensolo&lt;/strong&gt; (quasi ein Grand, aber vorsicht es gibt 8 Buben, ein häufiger Fehler von Skatspielern beim Doppelkopf ist ein Bubensolo mit 3 Buben spielen zu wollen)&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;Damensolo&lt;/strong&gt; (wie das Bubensolo/Grand nur der Damen statt Buben als Trumpf)&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;Farbsolo&lt;/strong&gt; (wie beim Normalspiel nur dass statt Karo auch eine andere Trumpffarbe gewählt werden kann)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bubensolo&lt;/strong&gt; (quasi ein Grand, aber vorsicht es gibt 8 Buben, ein häufiger Fehler von Skatspielern beim Doppelkopf ist ein Bubensolo mit 3 Buben spielen zu wollen)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Damensolo&lt;/strong&gt; (wie das Bubensolo/Grand nur der Damen statt Buben als Trumpf)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Farbsolo&lt;/strong&gt; (wie beim Normalspiel nur dass statt Karo auch eine andere Trumpffarbe gewählt werden kann)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Eine Besonderheit gibt es noch, denn &lt;strong&gt;wenn ein Spieler beide Kreuz-Damen auf der Hand hält&lt;/strong&gt;, kann es ja nicht zu einem Normalspiel kommen. Deswegen gibt es die &lt;strong&gt;Hochzeit&lt;/strong&gt;. Sagt der Spieler,der beide Kreuz-Damen auf der Hand hält die Hochzeit an (meldet sich also nicht gesund), dann spielt er mit dem Spieler, der den ersten Stich gewinnt zusammen (außer er macht selbst die ersten drei Stiche, dann muss er allein spielen). Sagt er keine Hochzeit an, sondern meldet sich gesund, dann spielt er eine &lt;strong&gt;stille Hochzeit&lt;/strong&gt;, niemand außer ihm weiß, dass er allein spielt.&lt;/p&gt;
 
-&lt;h3 id=&quot;nach_regional_unterschiedlichen_kneipenregeln&quot;&gt;Nach regional unterschiedlichen Kneipen-Regeln&lt;/h3&gt;
+&lt;h3 id=&quot;nach-regional-unterschiedlichen-kneipen-regeln&quot;&gt;Nach regional unterschiedlichen Kneipen-Regeln&lt;/h3&gt;
 
-&lt;p&gt;Es gibt noch zahlreiche andere Spielvarianten, die zwar nicht nach den offiziellen Regeln des DDV (Deutschen Doppelkopfverbands) sind, aber mindestens so geläufig, wie Re, Kontra und Bockrunden beim Skat. Am verbreitesten sind&lt;/p&gt;
+&lt;p&gt;Es gibt noch zahlreiche andere Spielvarianten, die zwar nicht nach den offiziellen Regeln des DDV (Deutschen Doppelkopfverbands) sind, aber mindestens so geläufig, wie Re, Kontra und Bockrunden beim Skat. Am verbreitesten sind &lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Armut&lt;/strong&gt; (ein Spieler hat drei oder weniger Trumpf, ein anderer so gute Karten dass er sein Partner sein will und die beiden tauschen drei Karten aus)&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;Schweinchen&lt;/strong&gt; (ein Spieler hat beide Karo-Asse, die werden zu den stärksten Trümpfen, noch stärker als die Herz-10)&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;Zweite Dulle sticht&lt;/strong&gt; (wurde noch nicht verraten, aber der stärkste Trumpf die Herz-10 nennt man beim Doppelkopf &lt;strong&gt;Dulle&lt;/strong&gt; und normalerweise gewinnt die zuerst ausgespielte Karte, mit dieser Regel wird bei der Herz-10 eine Ausnahme gemacht und es gewinnt die zweite)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Armut&lt;/strong&gt; (ein Spieler hat drei oder weniger Trumpf, ein anderer so gute Karten dass er sein Partner sein will und die beiden tauschen drei Karten aus)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Schweinchen&lt;/strong&gt; (ein Spieler hat beide Karo-Asse, die werden zu den stärksten Trümpfen, noch stärker als die Herz-10)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Zweite Dulle sticht&lt;/strong&gt; (wurde noch nicht verraten, aber der stärkste Trumpf die Herz-10 nennt man beim Doppelkopf &lt;strong&gt;Dulle&lt;/strong&gt; und normalerweise gewinnt die zuerst ausgespielte Karte, mit dieser Regel wird bei der Herz-10 eine Ausnahme gemacht und es gewinnt die zweite)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;gemeinsamkeit_skatdoppelkopf&quot;&gt;Gemeinsamkeit Skat-Doppelkopf&lt;/h2&gt;
+&lt;h2 id=&quot;gemeinsamkeit-skat-doppelkopf&quot;&gt;Gemeinsamkeit Skat-Doppelkopf&lt;/h2&gt;
 
 &lt;p&gt;Ist das Spiel erstmal angesagt, kommt auf den Skatspieler nicht mehr viel Neues. Folgend die Gemeinsamkeiten beim Spielablauf:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Vorhand kommt raus&lt;/li&gt;
-
-&lt;li&gt;Es muss bedient werden. Wer Farbe hat muss Farbe bekennen, wer Trumpf hat muss Trumpf bekennen. Wer frei ist darf mit Trumpf stechen, schmieren oder abwerfen&lt;/li&gt;
-
-&lt;li&gt;Die Karten haben den gleichen Wert. Ass hat 11 Augen, Zehn zehn, König vier, usw.&lt;/li&gt;
-
-&lt;li&gt;Die Stiche der Parteien werden zusammen gezählt&lt;/li&gt;
+  &lt;li&gt;Vorhand kommt raus&lt;/li&gt;
+  &lt;li&gt;Es muss bedient werden. Wer Farbe hat muss Farbe bekennen, wer Trumpf hat muss Trumpf bekennen. Wer frei ist darf mit Trumpf stechen, schmieren oder abwerfen&lt;/li&gt;
+  &lt;li&gt;Die Karten haben den gleichen Wert. Ass hat 11 Augen, Zehn zehn, König vier, usw.&lt;/li&gt;
+  &lt;li&gt;Die Stiche der Parteien werden zusammen gezählt    &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;besonderheiten_und_tips_und_tricks&quot;&gt;Besonderheiten und Tips und Tricks&lt;/h2&gt;
+&lt;h2 id=&quot;besonderheiten-und-tips-und-tricks&quot;&gt;Besonderheiten und Tips und Tricks&lt;/h2&gt;
 
-&lt;h3 id=&quot;re_und_kontra&quot;&gt;Re und Kontra&lt;/h3&gt;
+&lt;h3 id=&quot;re-und-kontra&quot;&gt;Re und Kontra&lt;/h3&gt;
 
-&lt;p&gt;Die Spieler mit den Kreuz-Damen bilden die Re-Partei. Oder der Alleinspieler beim Solo. Die Gegenspieler sind die Kontra-Partei. Die Re-Partei darf &lt;strong&gt;Re&lt;/strong&gt; ansagen und die Kontra-Partei &lt;strong&gt;Kontra&lt;/strong&gt;. Das ist ähnlich wie beim Skat, wenn man sich sicher ist, dass man gewinnt, kann Re Re sagen und Kontra Kontra. Wer sich noch sicherer ist, kann beim Doppelkopf noch Keine-90 (Punkte), Keine-60 (Punkte), Keine-30 (Punkte) und schwarz &lt;strong&gt;absagen&lt;/strong&gt;. Ansagen kann man die ersten drei Stiche machen, der Absagezeitpunkt verschiebt sich pro Absagestufe immer um einen Stich weiter nach hinten.&lt;/p&gt;
+&lt;p&gt;Die Spieler mit den Kreuz-Damen bilden die Re-Partei. Oder der Alleinspieler beim Solo. Die Gegenspieler sind die Kontra-Partei. Die Re-Partei darf &lt;strong&gt;Re&lt;/strong&gt; ansagen und die Kontra-Partei &lt;strong&gt;Kontra&lt;/strong&gt;. Das ist ähnlich wie beim Skat, wenn man sich sicher ist, dass man gewinnt, kann Re Re sagen und Kontra Kontra. Wer sich noch sicherer ist, kann beim Doppelkopf noch Keine-90 (Punkte), Keine-60 (Punkte), Keine-30 (Punkte) und schwarz &lt;strong&gt;absagen&lt;/strong&gt;. Ansagen kann man die ersten drei Stiche machen, der Absagezeitpunkt verschiebt sich pro Absagestufe immer um einen Stich weiter nach hinten.  &lt;/p&gt;
 
 &lt;h3 id=&quot;partnerfindung&quot;&gt;Partnerfindung&lt;/h3&gt;
 
-&lt;p&gt;Am Anfang ist die Partnerschaft noch ungeklärt, weshalb natürlich alle Spieler großes Interesse daran haben ihren Partner zu (er-)kennen, aber dafür nicht unbedingt ihre zweitstärksten Karten leichtfertig hergeben möchten. Deswegen gibt es beim Doppelkopf Konventionen (ungeschriebene Regeln), die dabei helfen, dass die Mitspieler sich schneller finden. Dabei gibt es allgemein bekannte und klar erlaubte Konventionen (&lt;a href=&quot;https://www.fuchstreff.de/hilfe#39-die-20-goldenen-doppelkopf-regeln&quot;&gt;“Kontra schmiert, wo Re sich ziert”&lt;/a&gt;) und die Konventionen des sogenannten &lt;a href=&quot;http://de.wikipedia.org/wiki/Essener_System&quot;&gt;“Essener Systems”&lt;/a&gt;, bei dem u.a. ein absichtliches Zögern vor dem Ausspiel einer Karte dem Partner Hinweise liefert.&lt;/p&gt;
+&lt;p&gt;Am Anfang ist die Partnerschaft noch ungeklärt, weshalb natürlich alle Spieler großes Interesse daran haben ihren Partner zu (er-)kennen, aber dafür nicht unbedingt ihre zweitstärksten Karten leichtfertig hergeben möchten. Deswegen gibt es beim Doppelkopf Konventionen (ungeschriebene Regeln), die dabei helfen, dass die Mitspieler sich schneller finden. Dabei gibt es allgemein bekannte und klar erlaubte Konventionen (&lt;a href=&quot;https://www.fuchstreff.de/hilfe#39-die-20-goldenen-doppelkopf-regeln&quot;&gt;“Kontra schmiert, wo Re sich ziert”&lt;/a&gt;) und die Konventionen des sogenannten &lt;a href=&quot;http://de.wikipedia.org/wiki/Essener_System&quot;&gt;“Essener Systems”&lt;/a&gt;, bei dem u.a. ein absichtliches Zögern vor dem Ausspiel einer Karte dem Partner Hinweise liefert.  &lt;/p&gt;
 
 &lt;h3 id=&quot;spielabrechnung&quot;&gt;Spielabrechnung&lt;/h3&gt;
 
 &lt;p&gt;Die Spielabrechnung ist recht komplex, da es jede Menge Variablen und Sonderpunkte gibt. Beim online spielen kann man sich auf den Computer verlassen, der weiß was er tut. Hier der Vollständigkeit kurz und knapp wie es vor sich geht:&lt;/p&gt;
 
-&lt;p&gt;Der Spielwert wird in Punkten ausgedrückt, die Gewinnerpartei bekommt Pluspunkte, Verliererpartei Minuspunkte. Durch die Sonderpunkte kann aber auch die Gewinnerpartei Punkte abgezogen bekommen, und die Verliererpartei Punkte gutgeschrieben. Bei einem Solos wird die Punktzahl für den Alleinspieler verdreifacht.&lt;/p&gt;
+&lt;p&gt;Der Spielwert wird in Punkten ausgedrückt, die Gewinnerpartei bekommt Pluspunkte, Verliererpartei Minuspunkte. Durch die Sonderpunkte kann aber auch die Gewinnerpartei Punkte abgezogen bekommen, und die Verliererpartei Punkte gutgeschrieben. Bei einem Solos wird die Punktzahl für den Alleinspieler verdreifacht.    &lt;/p&gt;
 
-&lt;p&gt;Für ein gewonnenes Spiel ist der Grundwert ein Punkt. Werden die Verlierer unter 90 Augen, 60, 30 oder sogar schwarz gespielt, bekommt die Gewinnerpartei jeweils einen Punkt zusätzlich. Gibt es keinen Gewinner (wenn beide Parteien 120 Augen haben), werden nur die zusätzlichen Punkte an die Partei verteilt, die die Gegenpartei unter 90, 60 beziehungsweise 30 gespielt hat.&lt;/p&gt;
+&lt;p&gt;Für ein gewonnenes Spiel ist der Grundwert ein Punkt. Werden die Verlierer unter 90 Augen, 60, 30 oder sogar schwarz gespielt, bekommt die Gewinnerpartei jeweils einen Punkt zusätzlich. Gibt es keinen Gewinner (wenn beide Parteien 120 Augen haben), werden nur die zusätzlichen Punkte an die Partei verteilt, die die Gegenpartei unter 90, 60 beziehungsweise 30 gespielt hat.    &lt;/p&gt;
 
 &lt;p&gt;Erreicht die Gewinnerpartei 120, 90, 60, beziehungsweise 30 Augen gegen die jeweilige Absage von der Verliererpartei, bekommt sie jeweils einen Punkt zusätzlich. Diese Punkte werden auch dann vergeben, wenn es keinen Gewinner gibt, aber die entsprechenden Augenzahlen gegen die entsprechenden Ansagen gewonnen wurden.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Dann gibt es noch die Möglichkeit für jeweils einen Sonderpunkt (die lohnt es sich genauer anzuschauen, da man die sich im Spiel abholen kann!)&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Gegen die Kreuz-Damen gewinnen&lt;/li&gt;
-
-&lt;li&gt;Doppelkopfstich: ein Stich mit einem Wert von mindestens 40 Augen&lt;/li&gt;
-
-&lt;li&gt;Fuchs fangen: wenn man mit einem Stich ein Karo-Ass von dem Gegner bekommt&lt;/li&gt;
-
-&lt;li&gt;Karlchen: wenn der letzte Stich mit einem Kreuz-Buben gewonnen (!) wird&lt;/li&gt;
+  &lt;li&gt;Gegen die Kreuz-Damen gewinnen&lt;/li&gt;
+  &lt;li&gt;Doppelkopfstich: ein Stich mit einem Wert von mindestens 40 Augen &lt;/li&gt;
+  &lt;li&gt;Fuchs fangen: wenn man mit einem Stich ein Karo-Ass von dem Gegner bekommt&lt;/li&gt;
+  &lt;li&gt;Karlchen: wenn der letzte Stich mit einem Kreuz-Buben gewonnen (!) wird&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Ok, ok das reicht, learning by doing, bevor der Spielspaß in der Theorie erstickt. Hier noch ein paar hilfreiche Links:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Kostenlos online Doppelkopf üben: &lt;a href=&quot;https://www.fuchstreff.de&quot;&gt;www.fuchstreff.de&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kostenlos online Doppelkopf üben: &lt;a href=&quot;https://www.fuchstreff.de&quot;&gt;www.fuchstreff.de&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alle Regeln nochmal genau nachlesen: &lt;a href=&quot;http://de.wikipedia.org/wiki/Doppelkopf&quot;&gt;http://de.wikipedia.org/wiki/Doppelkopf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alle Beiträge im Luschentreff zum Thema Doppelkopf:  &lt;br /&gt;
+ &lt;a href=&quot;http://luschentreff.de/tags#doppelkopf-ref&quot;&gt;Luschentreff ♥ Doko&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;li&gt;Alle Regeln nochmal genau nachlesen: &lt;a href=&quot;http://de.wikipedia.org/wiki/Doppelkopf&quot;&gt;http://de.wikipedia.org/wiki/Doppelkopf&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Alle Beiträge im Luschentreff zum Thema Doppelkopf: &lt;br /&gt;&lt;a href=&quot;http://luschentreff.de/tags#doppelkopf-ref&quot;&gt;Luschentreff ♥ Doko&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
+</content>
  </entry>
  
  <entry>
@@ -809,311 +705,218 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
    <link href="http://luschentreff.de/kartenspielen/die-gemeinsamkeit-ist-trumpf/"/>
    <updated>2014-02-15T00:00:00+01:00</updated>
    <id>http://luschentreff.de/kartenspielen/die-gemeinsamkeit-ist-trumpf</id>
-   <content type="html">&lt;p&gt;Auch wenn es offensichtliche Unterschiede zwischen den Spielen gibt, besonders beim Skat, wo man mit nur 3 Spielern spielt und beim Schnapsen, wo man nur zu zweit spielt, gibt es eine auffällige und vieles vereinfachende Gemeinsamkeit: In allen Spielen gibt es Trumpf (regional auch Atout genannt) und um das Spiel erlernen zu können, ist es von entscheidender Bedeutung zu verstehen was Trumpf ist. Auch die Stärke und der Wert der Karten ist vergleichbar. Unterschiede gibt es dagegen in den Spielarten, der Spielfindung, Partnerfindung, dem Spielablauf und je nachdem in welcher Region man spielt in dem Kartenblatt, mit dem gespielt wird.&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;Auch wenn es offensichtliche Unterschiede zwischen den Spielen gibt, besonders beim Skat, wo man mit nur 3 Spielern spielt und beim Schnapsen, wo man nur zu zweit spielt, gibt es eine auffällige und vieles vereinfachende Gemeinsamkeit: In allen Spielen gibt es Trumpf (regional auch Atout genannt) und um das Spiel erlernen zu können, ist es von entscheidender Bedeutung zu verstehen was Trumpf ist. Auch die Stärke und der Wert der Karten ist vergleichbar. Unterschiede gibt es dagegen in den Spielarten, der Spielfindung, Partnerfindung, dem Spielablauf und je nachdem in welcher Region man spielt in dem Kartenblatt, mit dem gespielt wird.&lt;/p&gt;
 
 &lt;h3 id=&quot;gemeinsamkeiten&quot;&gt;Gemeinsamkeiten&lt;/h3&gt;
+&lt;p&gt;In allen vier Spielen gibt es Trumpf. Beim Schnapsen wird der meist Atout genannt, aber im Prinzip ist es immer das gleiche. Bestimmte Karten werden als Trumpf bezeichnet und zeichnen sich dadurch aus, dass sie stärker sind als alle anderen Karten. Mit stärker ist dabei gemeint, dass wenn sie gleichzeitig mit “normalen” Karten ausgespielt werden, immer der Trumpf den Stich gewinnt.     &lt;/p&gt;
 
-&lt;p&gt;In allen vier Spielen gibt es Trumpf. Beim Schnapsen wird der meist Atout genannt, aber im Prinzip ist es immer das gleiche. Bestimmte Karten werden als Trumpf bezeichnet und zeichnen sich dadurch aus, dass sie stärker sind als alle anderen Karten. Mit stärker ist dabei gemeint, dass wenn sie gleichzeitig mit “normalen” Karten ausgespielt werden, immer der Trumpf den Stich gewinnt.&lt;/p&gt;
-
-&lt;h3 id=&quot;die_karten_das_blatt&quot;&gt;Die Karten, das Blatt&lt;/h3&gt;
+&lt;h3 id=&quot;die-karten-das-blatt&quot;&gt;Die Karten, das Blatt&lt;/h3&gt;
 
 &lt;h4 id=&quot;schafkopf&quot;&gt;Schafkopf&lt;/h4&gt;
 
-&lt;p&gt;Schafkopf wird hauptsächlich in Bayern gespielt und deswegen hauptsächlich mit dem bayerischen Blatt. In Nürnberg spielt man auch mit dem nürnberger Blatt, aber das unterscheidet sich nur leicht.&lt;/p&gt;
+&lt;p&gt;Schafkopf wird hauptsächlich in Bayern gespielt und deswegen hauptsächlich mit dem bayerischen Blatt. In Nürnberg spielt man auch mit dem nürnberger Blatt, aber das unterscheidet sich nur leicht.    &lt;/p&gt;
 
-&lt;p&gt;Trümpfe (außer beim Solo): &lt;br /&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by EO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by GO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by HO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by SO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by EU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by GU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by HU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by SU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by HA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by HX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by HK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by H9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by H8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by H7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt; Normale Karten (außer beim Solo):&lt;/p&gt;
-&lt;div class=&#39;card-icon by EA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by EX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by EK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by E9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by E8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by E7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by GA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by GX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by GK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by G9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by G8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by G7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by SA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by SX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by SK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by S9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by S8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon by S7&#39;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;p&gt;Trümpfe (außer beim Solo):  &lt;br /&gt;
+&amp;lt;div class=&quot;card-icon by EO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by GO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by HO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by SO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by EU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by GU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by HU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by SU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by HA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by HX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by HK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by H9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by H8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by H7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+Normale Karten (außer beim Solo):
+&amp;lt;div class=&quot;card-icon by EA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by EX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by EK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by E9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by E8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by E7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by GA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by GX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by GK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by G9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by G8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by G7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by SA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by SX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by SK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by S9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by S8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon by S7&quot;&amp;gt; &amp;lt;/div&amp;gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;doppelkopf&quot;&gt;Doppelkopf&lt;/h4&gt;
 
-&lt;p&gt;Doppelkopf wird hauptsächlich wird hauptsächlich mit dem französischem Blatt gespielt, aber auch das vierfarbige Turnierblatt und das bayerische Blatt werden regional verwendet.&lt;/p&gt;
+&lt;p&gt;Doppelkopf wird hauptsächlich wird hauptsächlich mit dem französischem Blatt gespielt, aber auch das vierfarbige Turnierblatt und das bayerische Blatt werden regional verwendet.    &lt;/p&gt;
 
-&lt;p&gt;Trümpfe:&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt; &amp;lt;/br&amp;gt; Keine Trümpfe:&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H7&#39;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;p&gt;Trümpfe: 
+&amp;lt;div class=&quot;card-icon fr HX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr S9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr S9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr S8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr S8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr S7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr S7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;/br&amp;gt; Keine Trümpfe:
+&amp;lt;div class=&quot;card-icon fr EA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr E9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr E9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr E8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr E8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr E7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr E7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr G9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr G9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr G8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr G8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr G7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr G7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr H9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr H9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr H8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr H8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr H7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr H7&quot;&amp;gt; &amp;lt;/div&amp;gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;skat&quot;&gt;Skat&lt;/h4&gt;
 
 &lt;p&gt;Skat wird hauptsächlich mit dem französischem Blatt gespielt. Einzige Außnahme bildet da der Osten Deutschlands, wo man auch mit dem bayerischen Blatt spielt.&lt;/p&gt;
 
-&lt;p&gt;Trümpfe (außer beim Nullspiel): &lt;br /&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SU&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt; &amp;lt;/br&amp;gt; Normale Karten (je nach angesagtem Spiel kann eine Farbe noch zu Tumpf werden):&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr E7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr HO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr H7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt; &lt;br /&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr GO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr G7&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SA&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SX&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SK&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr SO&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S8&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&#39;card-icon fr S7&#39;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;p&gt;Trümpfe (außer beim Nullspiel):  &lt;br /&gt;
+&amp;lt;div class=&quot;card-icon fr EU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SU&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;/br&amp;gt; Normale Karten (je nach angesagtem Spiel kann eine Farbe noch zu Tumpf werden): 
+&amp;lt;div class=&quot;card-icon fr EA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr EO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr E9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr E8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr E7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr HO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr H9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr H8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr H7&quot;&amp;gt; &amp;lt;/div&amp;gt;   &lt;br /&gt;
+&amp;lt;div class=&quot;card-icon fr GA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr GO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr G9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr G8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr G7&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SA&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SX&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SK&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr SO&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr S9&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr S8&quot;&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;card-icon fr S7&quot;&amp;gt; &amp;lt;/div&amp;gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;schnapsen&quot;&gt;Schnapsen&lt;/h4&gt;
 
 &lt;p&gt;Schnapsen wird je nach Region mit dem französischen oder dem doppeldeutschen Blatt gespielt. Das französische kennt ihr ja schon von oben, deswegen hier das doppeldeutsche Blatt:&lt;/p&gt;
 
-&lt;p&gt;Atout (Trumpf) ist immer die Farbe, die die unterste Karte des Talons (Stapel der Karten, die nach dem Austeilen übrig bleiben) hat.&lt;/p&gt;
-&lt;div class=&#39;card-icon fr EA&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr EX&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr EK&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr EO&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr EU&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr E9&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr HA&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr HX&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr HK&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr HO&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr HU&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr H9&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr GA&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr GX&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr GK&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr GO&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr GU&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr G9&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr SA&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr SX&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr SK&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr SO&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr SU&#39;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&#39;card-icon fr S9&#39;&gt;&amp;nbsp;&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Atout (Trumpf) ist immer die Farbe, die die unterste Karte des Talons (Stapel der Karten, die nach dem Austeilen übrig bleiben) hat.         &lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;card-icon fr EA&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr EX&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr EK&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr EO&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr EU&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr E9&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr HA&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr HX&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr HK&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr HO&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr HU&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr H9&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr GA&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr GX&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr GK&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr GO&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr GU&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr G9&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr SA&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr SX&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr SK&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr SO&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr SU&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;card-icon fr S9&quot;&gt;&amp;nbsp;&lt;/div&gt;
 
-&lt;h3 id=&quot;hier_ein_kleiner_berblick_zur_spielfindung&quot;&gt;Hier ein kleiner Überblick zur Spielfindung:&lt;/h3&gt;
+&lt;p&gt;&amp;lt;/br&amp;gt;
+&amp;lt;/br&amp;gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;schafkopf_2&quot;&gt;Schafkopf:&lt;/h4&gt;
+&lt;h3 id=&quot;hier-ein-kleiner-berblick-zur-spielfindung&quot;&gt;Hier ein kleiner Überblick zur Spielfindung:&lt;/h3&gt;
 
-&lt;p&gt;Reihum wird gefragt ob einer Spielen mag, entweder ein Partnerspiel - das Sauspiel - oder ein Solo - Wenz oder Farbsolo - allein gegen die anderen drei Spieler. Wenn einer ein Spiel hat, dass sagt er “I dad”. Wenn ein Spiel angesagt wurde, kann danach nur noch ein Solospiel angesagt werden. Sagt also ein zweiter Spieler “I dad a”, dann wird auf jeden Fall ein Solo gespielt. Der Erstansager hat noch die Möglichkeit zu erhöhen, denn er hat Vortritt, am Ende bekommt der das Spiel das am schwersten zu gewinnen ist: Sauspiel - Wenz - (Farb-)Solo - Wenz-Tout oder Solo-Tout (das Spiel muss schwarz gewonnen werden). Sagt keiner ein Spiel an wird zusammengeworfen (oder mit Sonderregeln ein Ramsch gespielt). &lt;a href=&quot;https://www.sauspiel.de&quot;&gt;Um Schafkopf zu lernen am besten mal bei Sauspiel vorbeischauen.&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;schafkopf-1&quot;&gt;Schafkopf:&lt;/h4&gt;
+&lt;p&gt;Reihum wird gefragt ob einer Spielen mag, entweder ein Partnerspiel - das Sauspiel - oder ein Solo - Wenz oder Farbsolo - allein gegen die anderen drei Spieler. Wenn einer ein Spiel hat, dass sagt er “I dad”. Wenn ein Spiel angesagt wurde, kann danach nur noch ein Solospiel angesagt werden. Sagt also ein zweiter Spieler “I dad a”, dann wird auf jeden Fall ein Solo gespielt. Der Erstansager hat noch die Möglichkeit zu erhöhen, denn er hat Vortritt, am Ende bekommt der das Spiel das am schwersten zu gewinnen ist: Sauspiel - Wenz - (Farb-)Solo - Wenz-Tout oder Solo-Tout (das Spiel muss schwarz gewonnen werden). Sagt keiner ein Spiel an wird zusammengeworfen (oder mit Sonderregeln ein Ramsch gespielt).
+&lt;a href=&quot;https://www.sauspiel.de&quot;&gt;Um Schafkopf zu lernen am besten mal bei Sauspiel vorbeischauen.&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;doppelkopf_2&quot;&gt;Doppelkopf:&lt;/h4&gt;
+&lt;h4 id=&quot;doppelkopf-1&quot;&gt;Doppelkopf:&lt;/h4&gt;
+&lt;p&gt;Reihum wird gefragt ob jeder Spieler gesund ist. Sind alles Spieler gesund wird ein Normalspiel gespielt. Gesund bedeutet beim Doppelkopf, dass die Karten nicht gut genug sind, um allein gegen die anderen drei Spieler zu spielen. Sind die Karten sehr gut, meldet man einen “Vorbehalt” an.
+&lt;a href=&quot;https://www.fuchstreff.de/doppelkopf-lernen&quot;&gt;Alle Doppelkopf-Regeln und Hilfe um das Spiel zu lernen findet ihr im Fuchstreff.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Reihum wird gefragt ob jeder Spieler gesund ist. Sind alles Spieler gesund wird ein Normalspiel gespielt. Gesund bedeutet beim Doppelkopf, dass die Karten nicht gut genug sind, um allein gegen die anderen drei Spieler zu spielen. Sind die Karten sehr gut, meldet man einen “Vorbehalt” an. &lt;a href=&quot;https://www.fuchstreff.de/doppelkopf-lernen&quot;&gt;Alle Doppelkopf-Regeln und Hilfe um das Spiel zu lernen findet ihr im Fuchstreff.&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;skat-1&quot;&gt;Skat:&lt;/h4&gt;
+&lt;p&gt;Jetzt wird’s kompliziert. Geben, Hören, Sagen: das ist die Reihenfolge. Der eine gibt die Karten, der zweite hört und zwar hört er die Gebote des dritten. Richtig Gebote, denn beim Skat wird versteigert, wer allein gegen die anderen beiden spielen darf. Und es gewinnt der mit dem höchsten Gebot. Die Skatspieler nennen das “Reizen” und das funktioniert so, dass man den Wert seiner Karten errechnet und dann wie auf einer Auktion die Werte der Reihe nach aufruft: Also der Dritte fragt den Zweiten “18” (der niedrigste Reiz-Wert), dann “20”, “22”, usw. bis einer der beiden Spieler weg sagt. Dann geht die Reihenfolge: Geben, Hören, Sagen, Weitersagen. Also der Geber fragt den der nicht weg gesagt hat, die nächsten Reiz-Gebote ab, bis nur noch einer übrig ist. Der mit dem höchsten Gebot gewinnt und darf sich das Spiel aussuchen.
+&lt;a href=&quot;https://www.skatstube.de/skat-lernen&quot;&gt;Ausführliche Erklärungen, wie die Spielfindung und das Reizen beim Skat funktioniert gibt es in der Skatstube.&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;skat_2&quot;&gt;Skat:&lt;/h4&gt;
+&lt;h4 id=&quot;schnapsen-sechsundsechzig-bauernschnapsen&quot;&gt;Schnapsen, Sechsundsechzig, Bauernschnapsen:&lt;/h4&gt;
+&lt;p&gt;Beim Schnapsen spielt man immer nur zu zweit und es gibt nur eine Spielart. Die beiden Spieler wechseln sich ab, wer zuerst ausspielen darf.  &lt;br /&gt;
+Beim Bauernschnapsen ist es ähnlich wie beim Schafkopf und Doppelkopf, nur dass immer in festen Teams gespielt wird (die ausgelost werden). Selbst wenn ein Solospiel gespielt wird, werden die Punkte beiden Teamspielern gutgeschrieben. Auch beim Bauernschnapsen wird reihum gefragt wer spielen möchte und auch hier hat der Spieler, der weiter vorn sitzt das Vorrecht. 
+&lt;a href=&quot;https://www.bummerl.at/hilfe&quot;&gt;Genauere Regeln zum Schnapsen und Bauernschnapsen findet ihr bei Bummerl.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Jetzt wird’s kompliziert. Geben, Hören, Sagen: das ist die Reihenfolge. Der eine gibt die Karten, der zweite hört und zwar hört er die Gebote des dritten. Richtig Gebote, denn beim Skat wird versteigert, wer allein gegen die anderen beiden spielen darf. Und es gewinnt der mit dem höchsten Gebot. Die Skatspieler nennen das “Reizen” und das funktioniert so, dass man den Wert seiner Karten errechnet und dann wie auf einer Auktion die Werte der Reihe nach aufruft: Also der Dritte fragt den Zweiten “18” (der niedrigste Reiz-Wert), dann “20”, “22”, usw. bis einer der beiden Spieler weg sagt. Dann geht die Reihenfolge: Geben, Hören, Sagen, Weitersagen. Also der Geber fragt den der nicht weg gesagt hat, die nächsten Reiz-Gebote ab, bis nur noch einer übrig ist. Der mit dem höchsten Gebot gewinnt und darf sich das Spiel aussuchen. &lt;a href=&quot;https://www.skatstube.de/skat-lernen&quot;&gt;Ausführliche Erklärungen, wie die Spielfindung und das Reizen beim Skat funktioniert gibt es in der Skatstube.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;schnapsen_sechsundsechzig_bauernschnapsen&quot;&gt;Schnapsen, Sechsundsechzig, Bauernschnapsen:&lt;/h4&gt;
-
-&lt;p&gt;Beim Schnapsen spielt man immer nur zu zweit und es gibt nur eine Spielart. Die beiden Spieler wechseln sich ab, wer zuerst ausspielen darf. &lt;br /&gt;Beim Bauernschnapsen ist es ähnlich wie beim Schafkopf und Doppelkopf, nur dass immer in festen Teams gespielt wird (die ausgelost werden). Selbst wenn ein Solospiel gespielt wird, werden die Punkte beiden Teamspielern gutgeschrieben. Auch beim Bauernschnapsen wird reihum gefragt wer spielen möchte und auch hier hat der Spieler, der weiter vorn sitzt das Vorrecht. &lt;a href=&quot;https://www.bummerl.at/hilfe&quot;&gt;Genauere Regeln zum Schnapsen und Bauernschnapsen findet ihr bei Bummerl.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;In den nächsten Beiträgen werden wir dann genauer auf die Unterschiede der einzelnen Spiele eingehen und versuchen, mithilfe eines schon bekannten Spiels die Regeln zu erklären.&lt;/p&gt;</content>
+&lt;p&gt;In den nächsten Beiträgen werden wir dann genauer auf die Unterschiede der einzelnen Spiele eingehen und versuchen, mithilfe eines schon bekannten Spiels die Regeln zu erklären.&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
@@ -1121,17 +924,21 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
    <link href="http://luschentreff.de/kartenspielen/hallo-im-luschentreff/"/>
    <updated>2014-02-12T00:00:00+01:00</updated>
    <id>http://luschentreff.de/kartenspielen/hallo-im-luschentreff</id>
-   <content type="html">&lt;p&gt;Hallo liebe Kartenspielfreunde!&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;Hallo liebe Kartenspielfreunde!    &lt;/p&gt;
 
-&lt;p&gt;Ihr befindet euch auf einer Seite, die sich komplett dem Kartenspielen verschrieben hat. Auch wenn wir alle Kartenspiele lieben, so gibt es zumindest zu Beginn einen Fokus auf vier Spiele, die traditionell im deutschen, österreichischem und schweizer Raum gespielt werden, irgendwie den gleichen Ursprung haben und sich um das Wort Trumpf (oder auch Atout) drehen. Gemeint sind die Spiele &lt;strong&gt;Schafkopf, Doppelkopf, Skat und Schnapsen (auch Sechsundsechzig genannt)&lt;/strong&gt;. &lt;br /&gt;&lt;a href=&quot;http://de.wikipedia.org/wiki/Schafkopf&quot;&gt;Verscheidener Quellen&lt;/a&gt; nach entstanden die Spiele im Laufe des 19. Jahrhunderts, wobei für Schafkopf die frühste schriftliche Erwähnung aus dem Jahre 1782 zu finden ist. Die Spiele Skat und Doppelkopf sind wohl Varianten vom frühen Schafkopf und haben sich über die Zeit zu eigenständigen Spielen mit besonderen Merkmalen entwickelt. Aber obwohl sich auch die Spielregeln in der Zeit anders entwickelten sind Gemeinsamkeiten unverkennbar.&lt;/p&gt;
+&lt;p&gt;Ihr befindet euch auf einer Seite, die sich komplett dem Kartenspielen verschrieben hat. Auch wenn wir alle Kartenspiele lieben, so gibt es zumindest zu Beginn einen Fokus auf vier Spiele, die traditionell im deutschen, österreichischem und schweizer Raum gespielt werden, irgendwie den gleichen Ursprung haben und sich um das Wort Trumpf (oder auch Atout) drehen. Gemeint sind die Spiele &lt;strong&gt;Schafkopf, Doppelkopf, Skat und Schnapsen (auch Sechsundsechzig genannt)&lt;/strong&gt;.   &lt;br /&gt;
+&lt;a href=&quot;http://de.wikipedia.org/wiki/Schafkopf&quot;&gt;Verscheidener Quellen&lt;/a&gt; nach entstanden die Spiele im Laufe des 19. Jahrhunderts, wobei für Schafkopf die frühste schriftliche Erwähnung aus dem Jahre 1782 zu finden ist. Die Spiele Skat und Doppelkopf sind wohl Varianten vom frühen Schafkopf und haben sich über die Zeit zu eigenständigen Spielen mit besonderen Merkmalen entwickelt. Aber obwohl sich auch die Spielregeln in der Zeit anders entwickelten sind Gemeinsamkeiten unverkennbar.&lt;/p&gt;
 
-&lt;p&gt;Hinter diesem Blog stehen die Spielplattformen &lt;a href=&quot;https://www.sauspiel.de&quot;&gt;Sauspiel (Schafkopf)&lt;/a&gt;, &lt;a href=&quot;https://www.skatstube.de&quot;&gt;Skatstube (Skat)&lt;/a&gt;, &lt;a href=&quot;https://www.fuchstreff.de&quot;&gt;Fuchstreff (Dopplekopf)&lt;/a&gt; und &lt;a href=&quot;https://www.bummerl.at&quot;&gt;Bummerl (66/Schnapsen, Bauernschnapsen)&lt;/a&gt;, die für viele Kartenspieler der zentrale Ort geworden sind, um Mitspieler zu finden, Karten-Freundschaften zu schließen und einfach nur Karten zu spielen. Als Betreiber der Kartenspiel-Plattformen gab es in unserem Team immer wieder die Situation, dass jemand dazukam, der ein Spiel noch nicht kannte und so ist uns beim Erklären aufgefallen, dass es sehr viel leichter ist, einem Anfänger das Spiel zu erklären, wenn er schon eines der Schwesternspiele kennt, also versteht was Trumpf ist, dass Karten verschieden stark sind und die Kartenstärke sich von dem Kartenwert unterscheiden kann. Es gibt sehr viele Gemeinsamkeiten, auf die aufgebaut werden kann und genau das werden wir in unseren kommenden Beiträgen auf dieser Seite zu zeigen versuchen. Auch wenn jeder sein Lieblingsspiel hat - meist das, das man schon in der Jugend gelernt hat -, ist es doch eine Bereicherung weitere Kartenspiele und Kartenspieler kennenzulernen und kann gerade dann wenn einem mal der ein oder andere Mitspieler fehlt sehr nützlich sein.&lt;/p&gt;
+&lt;p&gt;Hinter diesem Blog stehen die Spielplattformen &lt;a href=&quot;https://www.sauspiel.de&quot;&gt;Sauspiel (Schafkopf)&lt;/a&gt;, &lt;a href=&quot;https://www.skatstube.de&quot;&gt;Skatstube (Skat)&lt;/a&gt;, &lt;a href=&quot;https://www.fuchstreff.de&quot;&gt;Fuchstreff (Dopplekopf)&lt;/a&gt; und &lt;a href=&quot;https://www.bummerl.at&quot;&gt;Bummerl (66/Schnapsen, Bauernschnapsen)&lt;/a&gt;, die für viele Kartenspieler der zentrale Ort geworden sind, um Mitspieler zu finden, Karten-Freundschaften zu schließen und einfach nur Karten zu spielen. Als Betreiber der Kartenspiel-Plattformen gab es in unserem Team immer wieder die Situation, dass jemand dazukam, der ein Spiel noch nicht kannte und so ist uns beim Erklären aufgefallen, dass es sehr viel leichter ist, einem Anfänger das Spiel zu erklären, wenn er schon eines der Schwesternspiele kennt, also versteht was Trumpf ist, dass Karten verschieden stark sind und die Kartenstärke sich von dem Kartenwert unterscheiden kann. Es gibt sehr viele Gemeinsamkeiten, auf die aufgebaut werden kann und genau das werden wir in unseren kommenden Beiträgen auf dieser Seite zu zeigen versuchen. Auch wenn jeder sein Lieblingsspiel hat - meist das, das man schon in der Jugend gelernt hat -, ist es doch eine Bereicherung weitere Kartenspiele und Kartenspieler kennenzulernen und kann gerade dann wenn einem mal der ein oder andere Mitspieler fehlt sehr nützlich sein. &lt;/p&gt;
 
 &lt;p&gt;Es gibt für die einzelnen Spiele Schafkopf, Doppelkopf, Skat und Schnapsen schon verschiedene Plattformen, doch trotz aller Gemeinsamkeiten findet unter den Spielen und den Spielern noch kein wirklicher Austausch statt. Auch deswegen haben wir diese Seite ins Leben gerufen und hoffen hier nicht nur das Erlernen der Spiele zu erleichtern, sondern auch den gegenseitigen Austausch zu fördern.&lt;/p&gt;
 
-&lt;p&gt;Falls ihr Wünsche und Anregungen habt, könnt ihr euch auch gerne bei uns melden, wir freuen uns auf euer Feedback (luschentreff@sauspiel.de) und hoffen gemeinsam eine Plattform zu schaffen, die viele interessante Geschichten und nützliche Informationen zu unseren Lieblingsspielen zusammenträgt! &lt;br /&gt;&lt;a href=&quot;/der-luschentreff&quot;&gt;Weitere Infos findet ihr auch unter “Über Luschentreff”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Falls ihr Wünsche und Anregungen habt, könnt ihr euch auch gerne bei uns melden, wir freuen uns auf euer Feedback (luschentreff@sauspiel.de) und hoffen gemeinsam eine Plattform zu schaffen, die viele interessante Geschichten und nützliche Informationen zu unseren Lieblingsspielen zusammenträgt!  &lt;br /&gt;
+&lt;a href=&quot;/der-luschentreff&quot;&gt;Weitere Infos findet ihr auch unter “Über Luschentreff”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Eure Luschen vom Luschentreff!&lt;/p&gt;</content>
+&lt;p&gt;Eure Luschen vom Luschentreff!&lt;/p&gt;
+</content>
  </entry>
  
  

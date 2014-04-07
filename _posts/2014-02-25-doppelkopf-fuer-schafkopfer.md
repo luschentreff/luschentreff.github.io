@@ -30,72 +30,76 @@ Ass = 11 Augen, (genau wie beim Schafkopf)
 
 Fast wie beim Schafkopf heißt, dass es noch zwei höhere Trümpfe gibt und zwar die **Dullen**, das sind die beiden Herz-Zehner. Und ein weiterer Unterschied ist, dass beim Doppelkopf nicht die Farbe Herz die Standart-Trumpffarbe ist sondern Karo. Also beim Partnerspiel sind die Karten so sortiert:    
 
-Trümpfe: 
-<div class="card-icon fr HX">&nbsp;</div>
-<div class="card-icon fr HX">&nbsp;</div>
-<div class="card-icon fr EO">&nbsp;</div>
-<div class="card-icon fr EO">&nbsp;</div>
-<div class="card-icon fr GO">&nbsp;</div>
-<div class="card-icon fr GO">&nbsp;</div>
-<div class="card-icon fr HO">&nbsp;</div>
-<div class="card-icon fr HO">&nbsp;</div>
-<div class="card-icon fr SO">&nbsp;</div>
-<div class="card-icon fr SO">&nbsp;</div>
-<div class="card-icon fr EU">&nbsp;</div>
-<div class="card-icon fr EU">&nbsp;</div>
-<div class="card-icon fr GU">&nbsp;</div>
-<div class="card-icon fr GU">&nbsp;</div>
-<div class="card-icon fr HU">&nbsp;</div>
-<div class="card-icon fr HU">&nbsp;</div>
-<div class="card-icon fr SU">&nbsp;</div>
-<div class="card-icon fr SU">&nbsp;</div>
-<div class="card-icon fr SA">&nbsp;</div>
-<div class="card-icon fr SA">&nbsp;</div>
-<div class="card-icon fr SX">&nbsp;</div>
-<div class="card-icon fr SX">&nbsp;</div>
-<div class="card-icon fr SK">&nbsp;</div>
-<div class="card-icon fr SK">&nbsp;</div>
-<div class="card-icon fr S9">&nbsp;</div>
-<div class="card-icon fr S9">&nbsp;</div>
-<div class="card-icon fr S8">&nbsp;</div>
-<div class="card-icon fr S8">&nbsp;</div>
-<div class="card-icon fr S7">&nbsp;</div>
-<div class="card-icon fr S7">&nbsp;</div>
-</br> Keine Trümpfe:
-<div class="card-icon fr EA">&nbsp;</div>
-<div class="card-icon fr EA">&nbsp;</div>
-<div class="card-icon fr EX">&nbsp;</div>
-<div class="card-icon fr EX">&nbsp;</div>
-<div class="card-icon fr EK">&nbsp;</div>
-<div class="card-icon fr EK">&nbsp;</div>
-<div class="card-icon fr E9">&nbsp;</div>
-<div class="card-icon fr E9">&nbsp;</div>
-<div class="card-icon fr E8">&nbsp;</div>
-<div class="card-icon fr E8">&nbsp;</div>
-<div class="card-icon fr E7">&nbsp;</div>
-<div class="card-icon fr E7">&nbsp;</div>
-<div class="card-icon fr GA">&nbsp;</div>
-<div class="card-icon fr GA">&nbsp;</div>
-<div class="card-icon fr GX">&nbsp;</div>
-<div class="card-icon fr GX">&nbsp;</div>
-<div class="card-icon fr GK">&nbsp;</div>
-<div class="card-icon fr GK">&nbsp;</div>
-<div class="card-icon fr G9">&nbsp;</div>
-<div class="card-icon fr G9">&nbsp;</div>
-<div class="card-icon fr G8">&nbsp;</div>
-<div class="card-icon fr G8">&nbsp;</div>
-<div class="card-icon fr G7">&nbsp;</div>
-<div class="card-icon fr G7">&nbsp;</div>
-<div class="card-icon fr HA">&nbsp;</div>
-<div class="card-icon fr HA">&nbsp;</div>
-<div class="card-icon fr HK">&nbsp;</div>
-<div class="card-icon fr HK">&nbsp;</div>
-<div class="card-icon fr H9">&nbsp;</div>
-<div class="card-icon fr H9">&nbsp;</div>
-<div class="card-icon fr H8">&nbsp;</div>
-<div class="card-icon fr H8">&nbsp;</div>
-<div class="card-icon fr H7">&nbsp;</div>
-<div class="card-icon fr H7">&nbsp;</div>
+Trümpfe:    
+
+<i class="card-icon fr HX">&nbsp;</i>
+<i class="card-icon fr HX">&nbsp;</i>
+<i class="card-icon fr EO">&nbsp;</i>
+<i class="card-icon fr EO">&nbsp;</i>
+<i class="card-icon fr GO">&nbsp;</i>
+<i class="card-icon fr GO">&nbsp;</i>
+<i class="card-icon fr HO">&nbsp;</i>
+<i class="card-icon fr HO">&nbsp;</i>
+<i class="card-icon fr SO">&nbsp;</i>
+<i class="card-icon fr SO">&nbsp;</i>
+<i class="card-icon fr EU">&nbsp;</i>
+<i class="card-icon fr EU">&nbsp;</i>
+<i class="card-icon fr GU">&nbsp;</i>
+<i class="card-icon fr GU">&nbsp;</i>
+<i class="card-icon fr HU">&nbsp;</i>
+<i class="card-icon fr HU">&nbsp;</i>
+<i class="card-icon fr SU">&nbsp;</i>
+<i class="card-icon fr SU">&nbsp;</i>
+<i class="card-icon fr SA">&nbsp;</i>
+<i class="card-icon fr SA">&nbsp;</i>
+<i class="card-icon fr SX">&nbsp;</i>
+<i class="card-icon fr SX">&nbsp;</i>
+<i class="card-icon fr SK">&nbsp;</i>
+<i class="card-icon fr SK">&nbsp;</i>
+<i class="card-icon fr S9">&nbsp;</i>
+<i class="card-icon fr S9">&nbsp;</i>
+<i class="card-icon fr S8">&nbsp;</i>
+<i class="card-icon fr S8">&nbsp;</i>
+<i class="card-icon fr S7">&nbsp;</i>
+<i class="card-icon fr S7">&nbsp;</i>    
+
+
+Keine Trümpfe:    
+
+<i class="card-icon fr EA">&nbsp;</i>
+<i class="card-icon fr EA">&nbsp;</i>
+<i class="card-icon fr EX">&nbsp;</i>
+<i class="card-icon fr EX">&nbsp;</i>
+<i class="card-icon fr EK">&nbsp;</i>
+<i class="card-icon fr EK">&nbsp;</i>
+<i class="card-icon fr E9">&nbsp;</i>
+<i class="card-icon fr E9">&nbsp;</i>
+<i class="card-icon fr E8">&nbsp;</i>
+<i class="card-icon fr E8">&nbsp;</i>
+<i class="card-icon fr E7">&nbsp;</i>
+<i class="card-icon fr E7">&nbsp;</i>
+<i class="card-icon fr GA">&nbsp;</i>
+<i class="card-icon fr GA">&nbsp;</i>
+<i class="card-icon fr GX">&nbsp;</i>
+<i class="card-icon fr GX">&nbsp;</i>
+<i class="card-icon fr GK">&nbsp;</i>
+<i class="card-icon fr GK">&nbsp;</i>
+<i class="card-icon fr G9">&nbsp;</i>
+<i class="card-icon fr G9">&nbsp;</i>
+<i class="card-icon fr G8">&nbsp;</i>
+<i class="card-icon fr G8">&nbsp;</i>
+<i class="card-icon fr G7">&nbsp;</i>
+<i class="card-icon fr G7">&nbsp;</i>
+<i class="card-icon fr HA">&nbsp;</i>
+<i class="card-icon fr HA">&nbsp;</i>
+<i class="card-icon fr HK">&nbsp;</i>
+<i class="card-icon fr HK">&nbsp;</i>
+<i class="card-icon fr H9">&nbsp;</i>
+<i class="card-icon fr H9">&nbsp;</i>
+<i class="card-icon fr H8">&nbsp;</i>
+<i class="card-icon fr H8">&nbsp;</i>
+<i class="card-icon fr H7">&nbsp;</i>
+<i class="card-icon fr H7">&nbsp;</i>
 
 ## Die Spielarten
 
