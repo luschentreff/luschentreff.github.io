@@ -28,6 +28,8 @@ author :
 #
 production_url : http://luschentreff.de
 
+markdown : kramdown
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
@@ -70,7 +72,7 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
-  archive_path: /archiv
+  archive_path : /archiv
   categories_path : /kategorien
   tags_path : /tags
   atom_path : /atom.xml
