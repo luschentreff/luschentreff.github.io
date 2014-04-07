@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Luschentreff</title>
- <link href="http://luschentreff.github.io/" rel="self"/>
- <link href="http://luschentreff.github.io"/>
- <updated>2014-04-07T10:50:15+02:00</updated>
- <id>http://luschentreff.github.io</id>
+ <link href="http://luschentreff.de/" rel="self"/>
+ <link href="http://luschentreff.de"/>
+ <updated>2014-04-07T11:47:27+02:00</updated>
+ <id>http://luschentreff.de</id>
  <author>
    <name>Lusche</name>
    <email>blah@email.test</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Schnapsen und Sechsundsechzig lernen</title>
-   <link href="http://luschentreff.github.io/schnapsen/schnapsen-und-sechsundsechzig-lernen/"/>
+   <link href="http://luschentreff.de/schnapsen/schnapsen-und-sechsundsechzig-lernen/"/>
    <updated>2014-03-31T00:00:00+02:00</updated>
-   <id>http://luschentreff.github.io/schnapsen/schnapsen-und-sechsundsechzig-lernen</id>
+   <id>http://luschentreff.de/schnapsen/schnapsen-und-sechsundsechzig-lernen</id>
    <content type="html">&lt;p&gt;Schnapsen spielt man in Österreich, Sechsundsechzig in Deutschland. Aber eigentlich sind es die selben Spiele, die sich nur minimal unterscheiden. Hier werden erstmal die Gemeinsamkeiten erklärt.&lt;/p&gt;
 
 &lt;h2 id=&quot;ziel_des_spiels&quot;&gt;Ziel des Spiels&lt;/h2&gt;
@@ -86,9 +86,9 @@
  
  <entry>
    <title>Skat für Schafkopfer</title>
-   <link href="http://luschentreff.github.io/skat-fuer-schafkopfer"/>
+   <link href="http://luschentreff.de/skat-fuer-schafkopfer"/>
    <updated>2014-03-25T00:00:00+01:00</updated>
-   <id>http://luschentreff.github.io/skat-fuer-schafkopfer</id>
+   <id>http://luschentreff.de/skat-fuer-schafkopfer</id>
    <content type="html">&lt;p&gt;Besonders für die Freunde der Kurzen Karte, Farbwenz und Geier (die diese Regeln besser finden, weil man da viel öfter ein Solo spielen kann), ist Skat geradezu perfekt. Denn beim Skat ist jedes Spiel ein Solospiel. Das liegt daran, dass man statt zu 4. nur zu 3. spielt und dadurch immer einer allein spielen muss.&lt;/p&gt;
 
 &lt;p&gt;Und das kennt bestimmt jeder, a gmiadlicher Schafkopf-Abend fällt aus, weil einer mal wieder kurz vorher absagt. Da ist es vielleicht nicht schlecht, wenn man spontan auf Skat umsteigen kann. Ihr seht, Skat lernen hat einige Vorteile und kann eine nette Abwechslung bieten. Also, hier die Skatregeln extra für Schafkopfer erklärt:&lt;/p&gt;
@@ -205,9 +205,9 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
  
  <entry>
    <title>Schafkopf für Doppelkopfspieler</title>
-   <link href="http://luschentreff.github.io/schafkopf-fuer-doppelkopfspieler"/>
+   <link href="http://luschentreff.de/schafkopf-fuer-doppelkopfspieler"/>
    <updated>2014-02-28T00:00:00+01:00</updated>
-   <id>http://luschentreff.github.io/schafkopf-fuer-doppelkopfspieler</id>
+   <id>http://luschentreff.de/schafkopf-fuer-doppelkopfspieler</id>
    <content type="html">&lt;p&gt;Doppelkopf ist quasi ein direkter Nachfahre vom Schafkopf. Trotz des beachtlichen Altersunterschieds hat Schafkopf nichts an seiner Urtümlichkeit eingebüßt. Besonders schön ist das bayerische Blatt, mit Eicheln, Gras, und Schelle statt Kreuz, Pik und Karo. Auch sehr schön ist die Schafkopfsprache: die Damen sind die Ober und die Asse werden Sauen genannt. Eignentlich haben fast alle Karten eigene Namen. Hier gibt es eine kleine Einführung:&lt;/p&gt;
 
 &lt;h2 id=&quot;das_blatt&quot;&gt;Das Blatt&lt;/h2&gt;
@@ -263,9 +263,9 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
  
  <entry>
    <title>Doppelkopf für Schafkopfer</title>
-   <link href="http://luschentreff.github.io/doppelkopf-fuer-schafkopfer"/>
+   <link href="http://luschentreff.de/doppelkopf-fuer-schafkopfer"/>
    <updated>2014-02-25T00:00:00+01:00</updated>
-   <id>http://luschentreff.github.io/doppelkopf-fuer-schafkopfer</id>
+   <id>http://luschentreff.de/doppelkopf-fuer-schafkopfer</id>
    <content type="html">&lt;p&gt;Jesses, denkt sich erstmal der Schafkopfer, beim Blatt fängt es ja schon an! Bei mehr als zwei Halbe kann man doch niemals 16 Karten auf einmal halten, da machen ja oft schon die 8 Karten beim Schafkopfn Probleme! Und selbst die Karten selbst sehen auch noch komplett anders aus! Stimmt. ABER, liebe Schafkopfer, mit ein wenig Übung klappt das schon mit den 16 Karten und das Blatt wird euch gleich anschließend erklärt. Doppelkopf hat auch einiges zu bieten. Nämlich strategische Finessen, größere Wahrscheinlichkeiten und weniger Einfluss vom Glück aufgrund der doppelten Kartenanzahl, Konventionen, Sonderpunkte.&lt;/p&gt;
 
 &lt;h2 id=&quot;das_blatt&quot;&gt;Das Blatt&lt;/h2&gt;
@@ -491,9 +491,9 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
  
  <entry>
    <title>Skat für Doppelkopfspieler</title>
-   <link href="http://luschentreff.github.io/skat/skat-fuer-doppelkopfspieler"/>
+   <link href="http://luschentreff.de/skat/skat-fuer-doppelkopfspieler"/>
    <updated>2014-02-24T00:00:00+01:00</updated>
-   <id>http://luschentreff.github.io/skat/skat-fuer-doppelkopfspieler</id>
+   <id>http://luschentreff.de/skat/skat-fuer-doppelkopfspieler</id>
    <content type="html">&lt;p&gt;Erstmal die gute Nachricht: halb so viele Karten. Das bedeutet: selbst als Kartenhalter keine Probleme. Und: nur halb so schwer mitzuzählen und sich zu merken, welche Karten noch im Spiel sind. Dann noch eine gute Nachricht: es werden ständig Solos gespielt, und nur gegen zwei statt gegen drei Spieler. &lt;br /&gt;Es gibt einen Skat, das sind die zwei Karten die beim Verteilen von 32 Karten auf 3 Spieler übrig bleiben und den bekommt der der alleine spielt. Dieser kann die zwei Karten gegen beliebige zwei andere Karten austauschen, oder auch ungesehen liegen lassen. Auch nicht so schwer.&lt;/p&gt;
 
 &lt;p&gt;Das schwierige am Skat ist &lt;strong&gt;DAS REIZEN&lt;/strong&gt;. Das ist eben nicht so einfach. Aber fangen wir einfach mal an.&lt;/p&gt;
@@ -570,9 +570,9 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
  
  <entry>
    <title>Doppelkopf für Skatspieler</title>
-   <link href="http://luschentreff.github.io/doppelkopf/doppelkopf-fuer-skatspieler"/>
+   <link href="http://luschentreff.de/doppelkopf/doppelkopf-fuer-skatspieler"/>
    <updated>2014-02-17T00:00:00+01:00</updated>
-   <id>http://luschentreff.github.io/doppelkopf/doppelkopf-fuer-skatspieler</id>
+   <id>http://luschentreff.de/doppelkopf/doppelkopf-fuer-skatspieler</id>
    <content type="html">&lt;p&gt;Stell Dir vor Du spielst Skat, bist aber immer Gegenspieler. So muss man sich das beim Doppelkopf vorstellen, denn da ist es die absolute Ausnahme, dass man Alleinspieler ist. Und wenn, dann muss man allein gegen drei antreten, was die Sache sehr erschwert.&lt;/p&gt;
 
 &lt;p&gt;Dann gibt es noch jede Karte doppelt, also &lt;strong&gt;64 Karten&lt;/strong&gt;, bzw. 16 Karten pro Person, weshalb es anfangs nicht ganz einfach ist alle Karten auf der Hand zu halten.&lt;/p&gt;
@@ -806,9 +806,9 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
  
  <entry>
    <title>Die Gemeinsamkeit ist Trumpf</title>
-   <link href="http://luschentreff.github.io/kartenspielen/die-gemeinsamkeit-ist-trumpf/"/>
+   <link href="http://luschentreff.de/kartenspielen/die-gemeinsamkeit-ist-trumpf/"/>
    <updated>2014-02-15T00:00:00+01:00</updated>
-   <id>http://luschentreff.github.io/kartenspielen/die-gemeinsamkeit-ist-trumpf</id>
+   <id>http://luschentreff.de/kartenspielen/die-gemeinsamkeit-ist-trumpf</id>
    <content type="html">&lt;p&gt;Auch wenn es offensichtliche Unterschiede zwischen den Spielen gibt, besonders beim Skat, wo man mit nur 3 Spielern spielt und beim Schnapsen, wo man nur zu zweit spielt, gibt es eine auffällige und vieles vereinfachende Gemeinsamkeit: In allen Spielen gibt es Trumpf (regional auch Atout genannt) und um das Spiel erlernen zu können, ist es von entscheidender Bedeutung zu verstehen was Trumpf ist. Auch die Stärke und der Wert der Karten ist vergleichbar. Unterschiede gibt es dagegen in den Spielarten, der Spielfindung, Partnerfindung, dem Spielablauf und je nachdem in welcher Region man spielt in dem Kartenblatt, mit dem gespielt wird.&lt;/p&gt;
 
 &lt;h3 id=&quot;gemeinsamkeiten&quot;&gt;Gemeinsamkeiten&lt;/h3&gt;
@@ -1118,9 +1118,9 @@ macht den Reizwert 44&lt;/code&gt;&lt;/pre&gt;
  
  <entry>
    <title>Der Luschentreff stellt sich vor</title>
-   <link href="http://luschentreff.github.io/kartenspielen/hallo-im-luschentreff/"/>
+   <link href="http://luschentreff.de/kartenspielen/hallo-im-luschentreff/"/>
    <updated>2014-02-12T00:00:00+01:00</updated>
-   <id>http://luschentreff.github.io/kartenspielen/hallo-im-luschentreff</id>
+   <id>http://luschentreff.de/kartenspielen/hallo-im-luschentreff</id>
    <content type="html">&lt;p&gt;Hallo liebe Kartenspielfreunde!&lt;/p&gt;
 
 &lt;p&gt;Ihr befindet euch auf einer Seite, die sich komplett dem Kartenspielen verschrieben hat. Auch wenn wir alle Kartenspiele lieben, so gibt es zumindest zu Beginn einen Fokus auf vier Spiele, die traditionell im deutschen, österreichischem und schweizer Raum gespielt werden, irgendwie den gleichen Ursprung haben und sich um das Wort Trumpf (oder auch Atout) drehen. Gemeint sind die Spiele &lt;strong&gt;Schafkopf, Doppelkopf, Skat und Schnapsen (auch Sechsundsechzig genannt)&lt;/strong&gt;. &lt;br /&gt;&lt;a href=&quot;http://de.wikipedia.org/wiki/Schafkopf&quot;&gt;Verscheidener Quellen&lt;/a&gt; nach entstanden die Spiele im Laufe des 19. Jahrhunderts, wobei für Schafkopf die frühste schriftliche Erwähnung aus dem Jahre 1782 zu finden ist. Die Spiele Skat und Doppelkopf sind wohl Varianten vom frühen Schafkopf und haben sich über die Zeit zu eigenständigen Spielen mit besonderen Merkmalen entwickelt. Aber obwohl sich auch die Spielregeln in der Zeit anders entwickelten sind Gemeinsamkeiten unverkennbar.&lt;/p&gt;

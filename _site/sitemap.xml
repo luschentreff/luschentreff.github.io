@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>//schnapsen/schnapsen-und-sechsundsechzig-lernen/</loc>
+    <loc>http://www.luschentreff.de/schnapsen/schnapsen-und-sechsundsechzig-lernen/</loc>
     
     <lastmod>2014-03-31T00:00:00+02:00</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>//skat-fuer-schafkopfer</loc>
+    <loc>http://www.luschentreff.de/skat-fuer-schafkopfer</loc>
     
     <lastmod>2014-03-25T00:00:00+01:00</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>//schafkopf-fuer-doppelkopfspieler</loc>
+    <loc>http://www.luschentreff.de/schafkopf-fuer-doppelkopfspieler</loc>
     
     <lastmod>2014-02-28T00:00:00+01:00</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>//doppelkopf-fuer-schafkopfer</loc>
+    <loc>http://www.luschentreff.de/doppelkopf-fuer-schafkopfer</loc>
     
     <lastmod>2014-02-25T00:00:00+01:00</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>//skat/skat-fuer-doppelkopfspieler</loc>
+    <loc>http://www.luschentreff.de/skat/skat-fuer-doppelkopfspieler</loc>
     
     <lastmod>2014-02-24T00:00:00+01:00</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>//doppelkopf/doppelkopf-fuer-skatspieler</loc>
+    <loc>http://www.luschentreff.de/doppelkopf/doppelkopf-fuer-skatspieler</loc>
     
     <lastmod>2014-02-17T00:00:00+01:00</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>//kartenspielen/die-gemeinsamkeit-ist-trumpf/</loc>
+    <loc>http://www.luschentreff.de/kartenspielen/die-gemeinsamkeit-ist-trumpf/</loc>
     
     <lastmod>2014-02-15T00:00:00+01:00</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>//kartenspielen/hallo-im-luschentreff/</loc>
+    <loc>http://www.luschentreff.de/kartenspielen/hallo-im-luschentreff/</loc>
     
     <lastmod>2014-02-12T00:00:00+01:00</lastmod>
     
@@ -76,7 +76,7 @@
   
   
   <url>
-    <loc>//archiv.html</loc>
+    <loc>http://www.luschentreff.de/archiv.html</loc>
     <lastmod>2014-04-07T08:56:19Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -87,7 +87,7 @@
   
   
   <url>
-    <loc>//der-luschentreff.html</loc>
+    <loc>http://www.luschentreff.de/der-luschentreff.html</loc>
     <lastmod>2014-04-07T08:56:19Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -96,7 +96,7 @@
   
   
   <url>
-    <loc>//doppelkopf/index.html</loc>
+    <loc>http://www.luschentreff.de/doppelkopf/index.html</loc>
     <lastmod>2014-04-07T08:56:19Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -105,27 +105,7 @@
   
   
   <url>
-    <loc>//impressum.html</loc>
-    <lastmod>2014-04-07T08:56:19Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  
-  
-  
-  
-  <url>
-    <loc>//kartenspielen/index.html</loc>
-    <lastmod>2014-04-07T08:56:19Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>//kategorien.html</loc>
+    <loc>http://www.luschentreff.de/impressum.html</loc>
     <lastmod>2014-04-07T08:56:19Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -135,10 +115,8 @@
   
   
   
-  
-  
   <url>
-    <loc>//schafkopf/index.html</loc>
+    <loc>http://www.luschentreff.de/kartenspielen/index.html</loc>
     <lastmod>2014-04-07T08:56:19Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -147,7 +125,7 @@
   
   
   <url>
-    <loc>//schnapsen/index.html</loc>
+    <loc>http://www.luschentreff.de/kategorien.html</loc>
     <lastmod>2014-04-07T08:56:19Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -160,7 +138,29 @@
   
   
   <url>
-    <loc>//skat/index.html</loc>
+    <loc>http://www.luschentreff.de/schafkopf/index.html</loc>
+    <lastmod>2014-04-07T08:56:19Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://www.luschentreff.de/schnapsen/index.html</loc>
+    <lastmod>2014-04-07T08:56:19Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://www.luschentreff.de/skat/index.html</loc>
     <lastmod>2014-04-07T08:56:19Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
