@@ -96,7 +96,34 @@
   
   
   <url>
+    <loc>http://www.luschentreff.de/bummerl/index.html</loc>
+    <lastmod>2014-04-07T08:56:19Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://www.luschentreff.de/der-luschentreff.html</loc>
+    <lastmod>2014-04-07T08:56:19Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://www.luschentreff.de/doppelkopf/index.html</loc>
+    <lastmod>2014-04-07T08:56:19Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://www.luschentreff.de/fuchstreff/index.html</loc>
     <lastmod>2014-04-07T08:56:19Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -134,6 +161,15 @@
   
   
   
+  
+  
+  
+  <url>
+    <loc>http://www.luschentreff.de/sauspiel/index.html</loc>
+    <lastmod>2014-04-07T08:56:19Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
   
   
   

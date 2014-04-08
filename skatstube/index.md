@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Luschentreff&#58; Impressum
-description: Luschentreff ist eine Seite übers Kartenspielen. Hier finden Schafkopfer, Skatspieler, Doppelkopfspieler und Schnapser viele hilfreiche Informationen.
+title: Luschentreff&#58; Skat spielen in der Skatstube
+description: Luschentreff stellt vor&#58; Online-Skat in der Skatstube
 sitemap:
   priority: 0.7
   changefreq: weekly
@@ -57,6 +57,4 @@ Wie man spielen möchte, kann sich jeder Spieler selbst aussuchen:
 
 # Registrierung
 
-Das Spielen in der Skatstube ist kostenlos und die Registrierung dauert nur eine Minute.
-
-[Hier geht es zur Registrierung](https://www.skatstube.de)
+[In der Skatstube kann man kostenlos online Skat spielen und die Anmeldung geht schnell und unkompliziert.](https://www.skatstube.de)

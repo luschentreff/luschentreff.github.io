@@ -15,6 +15,7 @@ sitemap:
   <div class="category-header">
     <h2>Der Schnapsen-Bereich</h2>
     <ul class="tag_box inline">
+      <li><a href="/bummerl">Online-Schnapsen bei Bummerl</a></li>
       {% assign pages_list = site.categories['schnapsen'] %}
       {% include JB/pages_list %}
     </ul>

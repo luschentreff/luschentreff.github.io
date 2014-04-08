@@ -14,17 +14,21 @@ sitemap:
 <div class="col-md-12">
   <div class="category-header">
     <h2>Der Skat-Bereich</h2>
+    <p>Hier findest Du alle Informationen zum Skat</p>
     <ul class="tag_box inline">
+      <li><a href="/skatstube">Online-Skat in der Skatstube</a></li>
       {% assign pages_list = site.categories['skat'] %}
       {% include JB/pages_list %}
     </ul>
   </div>
 
-  <p>Alle Beiträge zum Thema Skat:</p>
+  
+
+  
 </div>
 
 <div class="posts col-md-12">
-  <p>Hier findest Du alle Informationen zum Skat</p>
+  
   {% for post in site.categories['skat'] %}
     <div class="article row">
       <div class="page-header col-md-12">
